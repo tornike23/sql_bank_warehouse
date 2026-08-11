@@ -1,0 +1,74 @@
+-- ============================================================
+-- BRONZE LAYER
+-- Raw ingestion, no transformations. Every column is text/varchar
+-- so loading never fails on messy source data.
+-- ============================================================
+
+--DDL
+
+DROP TABLE IF EXISTS bronze.core_customers;
+create table bronze.core_customers (
+customer_id int,
+customer_key varchar(50),
+first_name varchar(50),
+last_name varchar(50),
+dob varchar(50),
+email varchar(50),
+phone varchar(50),
+city varchar(50),
+state varchar(50),
+customer_segment varchar(50),
+join_date varchar(50),
+credit_score varchar(50)
+);
+
+DROP TABLE IF EXISTS bronze.core_accounts;
+create table bronze.core_accounts (
+account_id varchar(50),
+customer_id int,
+branch_id varchar(50),
+account_type varchar(50),
+currency varchar(50),
+open_date varchar(50),
+close_date varchar(50),
+status varchar(50),
+balance varchar(50)
+);
+
+DROP TABLE IF EXISTS bronze.core_branches;
+create table bronze.core_branches (
+branch_id varchar(50),
+branch_name varchar(50),
+city varchar(50),
+state varchar(50),
+manager_name varchar(50),
+opened_date varchar(50)
+);
+
+DROP TABLE IF EXISTS bronze.card_transactions;
+create table bronze.card_transactions (
+transaction_id varchar(50),
+account_ref varchar(50),
+merchant_name varchar(50),
+mcc_category varchar(50),
+amount varchar(50),
+transaction_date varchar(50),
+transaction_time varchar(50),
+channel	varchar(50),
+tatus varchar(50)
+);
+
+DROP TABLE IF EXISTS bronze.loan_applications;
+create table bronze.loan_applications (
+loan_id varchar(50),
+customer_ref varchar(50),
+loan_type varchar(50),
+amount_requested varchar(50),
+amount_approved varchar(50),
+interest_rate varchar(50),
+term_months varchar(50),
+application_date varchar(50),
+status varchar(50),
+credit_score_at_application varchar(50)
+);
+
