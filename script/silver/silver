@@ -1,0 +1,416 @@
+-- ============================================================
+-- SILVER LAYER
+-- Cleaned & typed: null-token normalization, mixed date formats,
+-- currency/text-to-number parsing, key format reconciliation,
+-- deduplication.
+-- ============================================================
+
+--COMPLETE CORE_ACCOUNTS
+
+create table silver.core_accounts (
+    account_id varchar(50),
+    customer_id int,
+    branch_id varchar(50),
+    account_type varchar(50),
+    currency varchar(10),
+    open_date date,
+    close_date date,
+    status varchar(20),
+    balance float
+);
+
+
+truncate table silver.core_accounts;
+insert into silver.core_accounts(
+	account_id,
+	customer_id,
+	branch_id,
+	account_type,
+	currency,
+	open_date,
+	close_date,
+	status,
+	balance
+)
+
+select 
+	trim(upper(replace(account_id, '-', ''))) as account_id, -- maybe we should change '-' to '_'
+	customer_id, -- we permit that 1 person can have multiple accounts
+	branch_id,
+	case 
+	    when account_type is null then 'n/a'
+	    when trim(upper(account_type)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then 'n/a'
+	    else initcap(trim(account_type))
+	end as account_type,
+	case 
+	    when upper(trim(currency)) in ('US$', 'US', '$', 'USD') then 'USD'
+	    when currency is null or upper(trim(currency)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then 'USD' -- default: bank is USD-only
+    else upper(trim(currency))
+	end as currency,
+    case
+        when open_date is null or trim(open_date) = '' 
+             or upper(trim(open_date)) in ('NULL','N/A','-','UNKNOWN') then null
+        when open_date ~ '^\d{4}-\d{2}-\d{2}$' then to_date(open_date, 'YYYY-MM-DD')
+        when open_date ~ '^\d{2}/\d{2}/\d{4}$' then
+            case
+                when split_part(open_date, '/', 1)::int > 12 
+                    then to_date(open_date, 'DD/MM/YYYY')
+                else to_date(open_date, 'MM/DD/YYYY')
+            end
+        when open_date ~ '^\d{2}-\d{2}-\d{4}$' then to_date(open_date, 'DD-MM-YYYY')
+        when open_date ~ '^\d{8}$' then to_date(open_date, 'YYYYMMDD')
+        when open_date ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(open_date, 'Mon DD, YYYY')
+        else null
+    end as open_date,
+	 case
+        when close_date is null or trim(close_date) = '' 
+             or upper(trim(close_date)) in ('NULL','N/A','-','UNKNOWN') then null
+        when close_date ~ '^\d{4}-\d{2}-\d{2}$' then to_date(close_date, 'YYYY-MM-DD')
+        when close_date ~ '^\d{2}/\d{2}/\d{4}$' then
+            case
+                when split_part(close_date, '/', 1)::int > 12 
+                    then to_date(close_date, 'DD/MM/YYYY')
+                else to_date(close_date, 'MM/DD/YYYY')
+            end
+        when close_date ~ '^\d{2}-\d{2}-\d{4}$' then to_date(close_date, 'DD-MM-YYYY')
+        when close_date ~ '^\d{8}$' then to_date(close_date, 'YYYYMMDD')
+        when close_date ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(close_date, 'Mon DD, YYYY')
+        else null
+    end as close_date,
+	case upper(trim(status))
+		when 'ACTIVE' then 'active'
+		when 'CLOSED' then 'closed'
+		when 'DORMANT' then 'dormant'
+		when 'FROZEN' then 'frozen'
+		else 'n/a'
+	end as status, -- status is not depended on closing date
+	case 
+        when upper(trim(
+                replace(replace(replace(balance, '$', ''), ',', ''), 'USD', '')
+             )) in ('N/A','NULL','UNKNOWN','','-') then null
+        else replace(replace(replace(upper(balance), '$', ''), ',', ''), 'USD', '')::float
+    end as balance
+from(
+	select
+		*,
+		row_number() over(partition by account_id) as num
+	from bronze.core_accounts
+)t 
+where num = 1
+
+
+
+--COMPLETE CORE_CUSTOMERS TABLE
+create table silver.core_customers (
+    customer_id int,
+    first_name varchar(50),
+    last_name varchar(50),
+	dob date,
+	email varchar(50),
+	phone varchar(50),
+	city varchar(50),
+	state varchar(50),
+	customer_segment varchar(50),
+	join_date date,
+	credit_score float
+);
+
+
+truncate table silver.core_customers;
+insert into silver.core_customers(
+	customer_id,
+    first_name,
+    last_name,
+	dob,
+	email,
+	phone,
+	city,
+	state,
+	customer_segment,
+	join_date,
+	credit_score
+)
+
+select 
+    customer_id,
+    trim(initcap(first_name)) as first_name,
+    trim(initcap(last_name)) as last_name,
+    case
+        when dob is null or trim(dob) = '' 
+             or upper(trim(dob)) in ('NULL','N/A','-','UNKNOWN') then null
+        when dob ~ '^\d{4}-\d{2}-\d{2}$' then to_date(dob, 'YYYY-MM-DD')
+        when dob ~ '^\d{2}/\d{2}/\d{4}$' then
+            case
+                when split_part(dob, '/', 1)::int > 12 
+                    then to_date(dob, 'DD/MM/YYYY')
+                else to_date(dob, 'MM/DD/YYYY')
+            end
+        when dob ~ '^\d{2}-\d{2}-\d{4}$' then to_date(dob, 'DD-MM-YYYY')
+        when dob ~ '^\d{8}$' then to_date(dob, 'YYYYMMDD')
+        when dob ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(dob, 'Mon DD, YYYY')
+        else null
+    end as dob,
+    case 
+		when upper(trim(email)) in ('NULL', 'UNKNOWN', 'N/A', '-') then null
+		else trim(email)
+	end as email,
+    case
+        when phone is null or trim(upper(phone)) in ('NULL','N/A','-','UNKNOWN','') then null
+        when length(right(regexp_replace(split_part(phone,'x',1), '\D','','g'), 10)) < 10 then null
+        else 
+            '(' || substring(right(regexp_replace(split_part(phone,'x',1), '\D','','g'), 10), 1, 3) || ') ' ||
+            substring(right(regexp_replace(split_part(phone,'x',1), '\D','','g'), 10), 4, 3) || '-' ||
+            substring(right(regexp_replace(split_part(phone,'x',1), '\D','','g'), 10), 7, 4)
+    end as phone,
+    case 
+		when upper(trim(city)) in ('NULL', 'UNKNOWN', 'N/A', '-') then null
+		else trim(initcap(city))
+	end as city,
+    case 
+		when upper(trim(state)) in ('NULL', 'UNKNOWN', 'N/A', '-') then null
+		else trim(upper(state))
+	end as state, -- in this project states and cities are generated independently and randomly, so we can use "lookup-based imputation" techinque here.
+    case 
+		when trim(upper(customer_segment)) in ('NULL', 'N/A', 'UNKNOWN', '-') then 'n/a'
+		when trim(upper(customer_segment)) is null then 'n/a'
+		when trim(upper(customer_segment)) like 'P%' then 'Private Banking'
+		when trim(upper(customer_segment)) like 'R%' then 'Retail'
+		when trim(upper(customer_segment)) like 'S%' then 'Small Business'
+	end as customer_segment,
+    case
+        when join_date is null or trim(join_date) = '' 
+             or upper(trim(join_date)) in ('NULL','N/A','-','UNKNOWN') then null
+        when join_date ~ '^\d{4}-\d{2}-\d{2}$' then to_date(join_date, 'YYYY-MM-DD')
+        when join_date ~ '^\d{2}/\d{2}/\d{4}$' then
+            case
+                when split_part(join_date, '/', 1)::int > 12 
+                    then to_date(join_date, 'DD/MM/YYYY')
+                else to_date(join_date, 'MM/DD/YYYY')
+            end
+        when join_date ~ '^\d{2}-\d{2}-\d{4}$' then to_date(join_date, 'DD-MM-YYYY')
+        when join_date ~ '^\d{8}$' then to_date(join_date, 'YYYYMMDD')
+        when join_date ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(join_date, 'Mon DD, YYYY')
+        else null
+    end as join_date,
+    cast((case 
+	when trim(upper(credit_score)) in ('NULL', 'UNKNOWN', 'N/A', '-') then null
+	else credit_score
+	end) as float) as credit_score
+from (
+    select
+        *,
+        row_number() over(partition by customer_id) as num
+    from bronze.core_customers
+) t 
+where num = 1
+
+
+--COMPLETE CORE_BRANCHES TABLE
+
+create table silver.core_branches (
+	branch_id varchar(50),
+	branch_name varchar(50),
+	city varchar(50),
+	state varchar(50),
+	manager_name varchar(50),
+	opened_date date
+);
+
+truncate table silver.core_branches;
+insert into silver.core_branches(
+	branch_id,
+	branch_name,
+	city,
+	state,
+	manager_name,
+	opened_date
+)
+
+
+select 
+branch_id,
+trim(initcap(branch_name)) as branch_name,
+trim(initcap(city)) as city,
+trim(upper(state)) as state,
+trim(initcap(manager_name)) as manager_name,
+case
+	when opened_date is null or trim(opened_date) = '' 
+	or upper(trim(opened_date)) in ('NULL','N/A','-','UNKNOWN') then null
+	when opened_date ~ '^\d{4}-\d{2}-\d{2}$' then to_date(opened_date, 'YYYY-MM-DD')
+	when opened_date ~ '^\d{2}/\d{2}/\d{4}$' then
+	case
+		when split_part(opened_date, '/', 1)::int > 12 
+		then to_date(opened_date, 'DD/MM/YYYY')
+		else to_date(opened_date, 'MM/DD/YYYY')
+	end
+		when opened_date ~ '^\d{2}-\d{2}-\d{4}$' then to_date(opened_date, 'DD-MM-YYYY')
+		when opened_date ~ '^\d{8}$' then to_date(opened_date, 'YYYYMMDD')
+		when opened_date ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(opened_date, 'Mon DD, YYYY')
+		else null
+    end as opened_date
+from bronze.core_branches opened_date
+
+
+--COMPLETE CARD_TRANSACTIONS TABLE
+
+create table if not exists silver.card_transactions (
+    transaction_id varchar(50),
+    account_ref varchar(50),
+	merchant_name varchar(50),
+    mcc_category varchar(50),
+    amount float,
+	transaction_date date,
+	transaction_time time,
+	channel varchar(50),
+    status varchar(50)
+);
+
+truncate table silver.card_transactions;
+insert into silver.card_transactions(
+	transaction_id,
+    account_ref,
+	merchant_name,
+    mcc_category,
+    amount,
+	transaction_date,
+	transaction_time,
+	channel,
+    status
+)
+
+
+select 
+trim(upper(transaction_id)) as transaction_id,
+trim(upper(replace(account_ref, '-', ''))) as account_ref,
+trim(initcap(merchant_name)) as merchant_name,
+case 
+	when mcc_category is null then 'n/a'
+	when trim(upper(mcc_category)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then 'n/a'
+	else trim(mcc_category)
+end as mcc_category,
+case 
+	when upper(trim(replace(replace(replace(amount, '$', ''), ',', ''), 'USD', ''))) 
+	in ('N/A','NULL','UNKNOWN','','-') then null
+else replace(replace(replace(upper(amount), '$', ''), ',', ''), 'USD', '')::float
+end as amount,
+case
+	when transaction_date is null or trim(transaction_date) = '' 
+	or upper(trim(transaction_date)) in ('NULL','N/A','-','UNKNOWN') then null
+	when transaction_date ~ '^\d{4}-\d{2}-\d{2}$' then to_date(transaction_date, 'YYYY-MM-DD')
+	when transaction_date ~ '^\d{2}/\d{2}/\d{4}$' then
+	case
+		when split_part(transaction_date, '/', 1)::int > 12 
+		then to_date(transaction_date, 'DD/MM/YYYY')
+		else to_date(transaction_date, 'MM/DD/YYYY')
+	end
+	when transaction_date ~ '^\d{2}-\d{2}-\d{4}$' then to_date(transaction_date, 'DD-MM-YYYY')
+	when transaction_date ~ '^\d{8}$' then to_date(transaction_date, 'YYYYMMDD')
+	when transaction_date ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(transaction_date, 'Mon DD, YYYY')
+else null
+end as transaction_date,
+cast((case 
+	when trim(upper(transaction_time)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then null
+	else transaction_time
+end) as time) as transaction_time,
+case 
+	when initcap(trim(channel)) in ('N/A', 'Null', '-', 'Unknown')
+	or initcap(trim(channel)) is null then 'n/a'
+	else initcap(trim(channel))
+end as channel,
+trim(initcap(status)) as status
+from (
+select
+*,
+row_number() over(partition by transaction_id) as num
+from bronze.card_transactions
+)t where num = 1
+
+
+--COMPLETE LOAN_APPLICATIONS TABLE
+
+
+create table if not exists silver.loan_applications (
+    loan_id varchar(50),
+	customer_ref int(50),
+	loan_type varchar(50),
+	amount_requested float,
+	amount_approved float,
+	interest_rate float,
+	term_months int,
+	application_date date,
+	status varchar(50),
+	credit_score_at_application int
+);
+
+truncate table silver.loan_applications;
+insert into silver.loan_applications(
+	loan_id,
+	customer_ref,
+	loan_type,
+	amount_requested,
+	amount_approved,
+	interest_rate,
+	term_months,
+	application_date,
+	status,
+	credit_score_at_application
+)
+
+
+with resolved as (
+    select
+        b.*,
+        coalesce(c.customer_id::text, trim(b.customer_ref)) as resolved_customer_ref,
+        row_number() over (
+            partition by upper(trim(b.loan_id)) 
+            order by b.application_date desc
+        ) as num
+    from bronze.loan_applications b
+    left join silver.core_customers c
+        on lower(trim(b.customer_ref)) = lower(trim(c.email))
+       and b.customer_ref like '%@%'
+)
+select
+    upper(trim(loan_id)) as loan_id,
+    cast(resolved_customer_ref as int) as customer_ref,
+    loan_type,
+    case 
+		when upper(trim(replace(replace(replace(amount_requested, '$', ''), ',', ''), 'USD', ''))) 
+		in ('N/A','NULL','UNKNOWN','','-') then null
+		else replace(replace(replace(upper(amount_requested), '$', ''), ',', ''), 'USD', '')::float
+	end as amount_requested,
+    case 
+		when upper(trim(replace(replace(replace(amount_approved, '$', ''), ',', ''), 'USD', ''))) 
+		in ('N/A','NULL','UNKNOWN','','-') then null
+		else replace(replace(replace(upper(amount_approved), '$', ''), ',', ''), 'USD', '')::float
+	end as amount_approved,
+	cast((case 
+		when trim(upper(interest_rate)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then null
+		else interest_rate
+	end) as float) as interest_rate,
+    cast((case 
+		when trim(upper(term_months)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then null
+		else term_months
+	end) as int) as term_months,
+    case
+	when application_date is null or trim(application_date) = '' 
+	or upper(trim(application_date)) in ('NULL','N/A','-','UNKNOWN') then null
+	when application_date ~ '^\d{4}-\d{2}-\d{2}$' then to_date(application_date, 'YYYY-MM-DD')
+	when application_date ~ '^\d{2}/\d{2}/\d{4}$' then
+	case
+		when split_part(application_date, '/', 1)::int > 12 
+		then to_date(application_date, 'DD/MM/YYYY')
+		else to_date(application_date, 'MM/DD/YYYY')
+	end
+	when application_date ~ '^\d{2}-\d{2}-\d{4}$' then to_date(application_date, 'DD-MM-YYYY')
+	when application_date ~ '^\d{8}$' then to_date(application_date, 'YYYYMMDD')
+	when application_date ~ '^[A-Za-z]{3} \d{1,2}, \d{4}$' then to_date(application_date, 'Mon DD, YYYY')
+else null
+end as application_date,
+    initcap(trim(status)) as status,
+    cast((case 
+		when trim(upper(credit_score_at_application)) in ('UNKNOWN', 'NULL', '-', '', 'N/A') then null
+		else credit_score_at_application
+	end) as int) as credit_score_at_application
+from resolved
+where num = 1;
