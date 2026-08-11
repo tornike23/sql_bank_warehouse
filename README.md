@@ -36,11 +36,3 @@ Key challenges and how they were handled:
 - **No city/state imputation** - city and state are independently randomized in this dataset, so no real relationship exists to fill one from the other. Cleaned for formatting only.
 - **Orphaned foreign keys surfaced, not hidden** - transactions referencing accounts that don't exist show up as `NULL`s via `LEFT JOIN`, rather than being silently dropped by an `INNER JOIN`.
 
-## 5. Recommendations
-
-- Build the analysis project on top of this warehouse (customer segmentation, transaction patterns, loan approval rates, branch performance).
-- Add a `has_orphaned_account` flag to `fact_transactions` to make the data-quality gap explicit rather than inferred from nulls.
-- Consider surrogate keys on dimensions if this were extended to track historical changes (SCD).
-
-## Tech
-PostgreSQL - CTEs, window functions, regex-based cleaning, `CASE` logic.
