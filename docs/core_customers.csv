@@ -1,0 +1,771 @@
+customer_id,customer_key,first_name,last_name,dob,email,phone,city,state,customer_segment,join_date,credit_score
+500092,CUST500092,Katherine,Thomas,07/03/1951,katherine.thomas@gmail.com,215-657-8834x65648,Detroit,GA,Private Banking,22-07-2019,549
+500131,CUST500131,Teresa,Vance,20050521,teresa.vance@yahoo.com,001-874-884-8968,Newark,CA,null,"Nov 28, 2014",747
+500466,CUST500466,Taylor,Glenn,12/01/2007,taylor.glenn@hotmail.com,001-641-411-5737x175,Atlanta,CO,Small Business,17-08-2020,649
+500079,CUST500079,Kevin,Warner,1997-03-11,kevin.warner@gmail.com,659.385.2353,Phoenix,FL,Private Banking,11-06-2016,839
+500018,CUST500018,Sara,Adams,13/01/1945,sara.adams@gmail.com,524-602-3448,Columbus,FL,Retail,20201118,491
+500745,CUST500745,John,Flores,02-07-1970,john.flores@yahoo.com,n/a,New York,TX,Small Business,01-12-2016,586
+500606,CUST500606,Brian,Bailey,1977-03-25,brian.bailey@yahoo.com,580.851.2214x3188,Philadelphia,N/A,Private Banking,20170513,828
+500444,CUST500444,Isabella,Nguyen,09/27/1993,isabella.nguyen@gmail.com,+1-917-887-1135x21967,Columbus,CA,Retail,10/19/2016,795
+500179,CUST500179,Steve,Nguyen,20010723,steve.nguyen@hotmail.com,8165503966,Denver,NY,Retail,2015-11-21,733
+500327,CUST500327,Emily,Smith,1938-09-10,emily.smith@yahoo.com,UNKNOWN,Charlotte,NJ,Private Banking,25-10-2018,652
+500709,cust500709,Elizabeth,Osborne,1996-10-14,elizabeth.osborne@hotmail.com,(653)891-8186,Houston,NC,Small Business,2021-09-12,685
+500532,CUST500532,Kayla,Carter,1996-04-19,kayla.carter@gmail.com,727-496-7557x66852,Miami,NY,Private Banking,2020-10-29,73
+500068,CUST500068,Bryce,Garrett,20080303,bryce.garrett@yahoo.com,001-580-266-7172x314,Detroit,CA,Small Business,27/03/2023,N/A
+500355,CUST500355,Wendy,Clark,19380412,wendy.clark@yahoo.com,+1-986-634-6198x7698,Seattle,FL,Small Business,08/16/2023,234
+500540,CUST500540,Michael,Wilson,19770330,michael.wilson@yahoo.com,+1-628-699-9229x99231,Newark,GA,Retail,20190605,845
+500530,CUST500530,Jay,Trujillo,19690107,jay.trujillo@hotmail.com,001-223-288-9907x8708,Philadelphia,FL,Small Business,"Apr 08, 2019",308
+500286,CUST500286,John,Garcia,"Jun 26, 1959",john.garcia@gmail.com,851.691.7037,Columbus,NJ,RETAIL,"Nov 30, 2014",487
+500422,CUST500422,Lynn,Willis,12/21/1966,lynn.willis@hotmail.com,001-757-604-4165x84139,Charlotte,CA,Small Business,27/06/2017,294
+500643,CUST500643,Shelly,Howard,25-11-1977,shelly.howard@yahoo.com,774-274-0370x5119,Newark,NY,Small Business,12/08/2021,824
+500172,CUST500172,Michael,Schroeder,"Nov 13, 1966",michael.schroeder@gmail.com,852.944.8024x3030,Philadelphia,AZ,Private Banking,12/12/2024,28
+500496,CUST500496,Jason,Herrera,23-05-1944,jason.herrera@yahoo.com,(954)437-9859x66141,Los Angeles,OH,Small Business,2025-04-11,null
+500376,CUST500376,Benjamin,French,1967-01-29,benjamin.french@gmail.com,8107677519,Detroit,FL,Retail,"Mar 30, 2017",391
+500502,CUST500502,michael,Robertson,19581219,michael.robertson@hotmail.com,+1-206-688-0695,new york,NJ,Private Banking,15-04-2026,711
+500655,CUST500655,Jennifer,Hess,1978-08-20,jennifer.hess@hotmail.com,+1-704-340-6995x763,Seattle,PA,Retail,25/03/2024,336
+500042,CUST500042,Denise,Warren,19690927,denise.warren@hotmail.com,(555)872-1014x1561,Phoenix,AZ,null,04/27/2018,831
+500135,CUST500135,Kristopher,VAZQUEZ,21-11-1935,kristopher.vazquez@gmail.com,001-400-532-7894,Houston,CO,Small Business,"Mar 25, 2018",832
+500318,CUST500318,Evan,Barber,05/11/1975,evan.barber@yahoo.com,382-922-2219x124,Newark,NY,Small Business,18-11-2018,413
+500236,CUST500236,James,Campos,11/10/1996,james.campos@gmail.com,001-790-715-3608x4852,Boston,TX,Private Banking,18/02/2018,unknown
+500552,CUST500552,Dana,Harper,29-03-1990,dana.harper@gmail.com,658-992-9063,Houston,MA,Private Banking,25-03-2021,407
+500087,CUST500087,Grace,Mcgrath,"Feb 27, 1985",grace.mcgrath@hotmail.com,653-845-7769x152,Atlanta,GA,Small Business,04/05/2020,417
+500519,CUST500519,Joseph,Rodriguez,19640927,joseph.rodriguez@yahoo.com,808.937.6592,New York,NY,Small Business,2014-11-09,452
+500707,CUST500707,Pamela,Jones,01/05/1990,pamela.jones@gmail.com,001-524-969-1223x9991,Boston,NC,Retail,2016-09-22,595
+500671,CUST500671,Morgan,Gallagher,03-02-1966,morgan.gallagher@hotmail.com,(693)873-4243x1967,Miami,MI,Retail,20241123,313
+500193,CUST500193,Cindy,  Mills   ,02/12/1994,cindy.mills@hotmail.com,609.740.9248,New York,NJ,Small Business,2017-08-13,226
+500668,cust500668,Brittany,Bradley,06/08/1956,brittany.bradley@hotmail.com,848-686-6304,Phoenix,NJ,Retail,02/04/2018,117
+500038,CUST500038,Jose,Gibbs,"Sep 08, 1935",jose.gibbs@yahoo.com,253-578-3830x640,Chicago,FL,Retail,2021-01-03,634
+500350,CUST500350,Samuel,Smith,19931127,samuel.smith@gmail.com,+1-989-892-2416,Houston,MI,Private Banking,18-08-2017,414
+500334,CUST500334,Daniel,Morris,08/11/1944,daniel.morris@hotmail.com,530.599.9341,Houston,PA,Retail,20150108,355
+500192,CUST500192,Shawn,Miller,"Jun 23, 1964",shawn.miller@hotmail.com,977-528-2025,Houston,CO,Retail,25/06/2026,824
+500300,CUST500300,Brian,Shaffer,29-04-1946,brian.shaffer@gmail.com,(841)312-8812x63076,Phoenix,WA,Private Banking,27-04-2017,
+500504,CUST500504,Andrew,Martin,"Apr 26, 1983",andrew.martin@hotmail.com,+1-368-920-6703x71316,Phoenix,OH,Small Business,UNKNOWN,145
+500394,CUST500394,Brad,Jones,02/05/1984,brad.jones@yahoo.com,(584)351-2856,Boston,MA,Small Buusiness,24-10-2022,730
+500614,CUST500614,Matthew,Arnold,24-07-2003,matthew.arnold@gmail.com,001-569-722-1046,Charlotte,TX,Private Banking,"Nov 13, 2022",736
+500521,CUST500521,Justin,Gibson,21-07-1946,justin.gibson@hotmail.com,(624)886-5878x50110,Chicago,unknown,Retail,"Feb 26, 2018",840
+500619,CUST500619,Lynn,Ferguson,"Apr 16, 1961",lynn.ferguson@yahoo.com,+1-921-870-0266x728,Seattle,GA,Retail,05/07/2020,393
+500517,CUST500517,Adam,Robertson,19760512,adam.robertson@hotmail.com,(749)247-3237,Houston,NJ,Private Banking,"Oct 28, 2023",665
+500227,CUST500227,Kimberly,Edwards,19460914,kimberly.edwards@yahoo.com,+1-286-614-6568x41470,Los Angeles,MA,Retail,16-08-2023,320
+500326,CUST500326,Heather,Richardson,"Aug 06, 1987",heather.richardson@yahoo.com,820.321.8632x411,MIAMI,IL,Small Business,26/11/2017,UNKNOWN
+500347,CUST500347,Maria,Ayers,12-09-1951,maria.ayers@hotmail.com,724.960.3137,Newark,TX,Private Banking,10/30/2017,443
+500419,CUST500419,Briana,Wallace,unknown,briana.wallace@gmail.com,(546)876-2506x4285,Denver,NJ,Private Banking,"Mar 30, 2023",403
+500492,CUST500492,Michele,Harrington,27-10-1956,  michele.harrington@gmail.com   ,7073519256,Denver,OH,Small Business,20260612,458
+500582,CUST500582,Cindy,Day,01/30/1953,cindy.day@gmail.com,538.645.4673x7716,Newark,GA,pRIVATE bANKING,20220226,421
+500008,CUST500008,James,Hanson,2001-04-29,james.hanson@yahoo.com,+1-851-316-3726x5167,Boston,NC,Retail,20240813,146
+500612,CUST500612,Timothy,Jones,"Sep 21, 1961",timothy.jones@yahoo.com,001-861-802-1365x40855,Charlotte,WA,Private Banking,05/02/2024,694
+500407,CUST500407,Sarah,Cruz,19940328,sarah.cruz@yahoo.com,380-237-2135x9631,Miami,MA,Private Banking,22/03/2020,749
+500160,CUST500160,Alyssa,Cunningham,15-07-1964,alyssa.cunningham@gmail.com,981.534.1384,Los Angeles,NJ,Private Banking,19/12/2015,427
+500410,CUST500410,Dustin,Hunt,1994-02-25,dustin.hunt@yahoo.com,441-531-7591x888,Miami,IL,small business,03-03-2016,53
+500596,CUST500596,Kathryn,Stone,19640214,kathryn.stone@hotmail.com,null,Boston,N/A,Small Business,2023-09-01,742
+500404,CUST500404,Nathaniel,Brown,27-02-1984,nathaniel.brown@hotmail.com,430.350.1451x7288,New York,IL,Private Banking,08-05-2017,554
+500506,CUST500506,Trevor,   Brown   ,03/01/1944,trevor.brown@hotmail.com,5792976468,NEWARK,FL,Retail,05/06/2016,693
+500288,CUST500288,Nicole,Wade,10/13/1950,nicole.wade@yahoo.com,N/A,Philadelphia,OH,Retail,12/03/2018,UNKNOWN
+500698,CUST500698,Blake,Rivers,1952-07-07,blake.rivers@yahoo.com,(713)537-7416,Columbus,IL,UNKNOWN,01/16/2019,760
+500600,CUST500600,Allison,Pittman,08/07/1942,allison.pittman@yahoo.com,(397)762-9290x32459,Miami,PA,Retail,24/09/2021,527
+500463,CUST500463,Christine,Ellis,,christine.ellis@yahoo.com,525-855-6790x2235,Houston,AZ,Small Business,2015-08-18,null
+500369,CUST500369,   Timothy   ,Hancock,25-11-1973,timothy.hancock@hotmail.com,854.541.4360,Phoenix,IL,Private Banking,20160424,626
+500479,CUST500479,Jerome,Davis,10/03/1969,jerome.davis@gmail.com,884.904.9778,Boston,AZ,Retail,20-12-2023,215
+500265,CUST500265,Chad,Molina,22/05/1948,chad.molina@gmail.com,564.889.1737x89588,New York,CA,Private Banking,"Apr 02, 2016",521
+500616,CUST500616,Pamela,Rivas,05-01-1979,pamela.rivas@gmail.com,8768469954,Newark,PA,Retail,26/02/2020,378
+500372,CUST500372,   Michael   ,Martin,"Mar 04, 1942",michael.martin@hotmail.com,+1-259-763-4950x8581,Philadelphia,WA,Small Business,20260429,844
+500064,CUST500064,Robert,Diaz,"Feb 02, 1939",robert.diaz@hotmail.com,+1-800-600-9541x8583,Philadelphia,MI,Private Banking,"Jun 03, 2020",354
+500235,CUST500235,Shawn,Fleming,27-04-1987,shawn.fleming@yahoo.com,+1-531-662-4318x073,Newark,PA,Private Banking,01/08/2020,518
+500621,CUST500621,Isabel,Wolfe,"Jun 12, 1965",isabel.wolfe@yahoo.com,371-925-5324,Philadelphia,IL,Private Banking,22/11/2025,689
+500470,CUST500470,Dillon,Hunter,25/03/2006,dillon.hunter@yahoo.com,(415)675-8622,Atlanta,MA,Retail,03/11/2025,760
+500019,CUST500019,Sean,Powers,1955-05-09,sean.powers@yahoo.com,9003883873,Los Angeles,WA,Small Business,06-03-2024,-
+500679,CUST500679,  Adam   ,Fowler,18/02/1946,adam.fowler@gmail.com,955-959-0211,Columbus,GA,Retail,08/27/2022,655
+500168,CUST500168,Adam,Riley,12/20/1959,adam.riley@yahoo.com,+1-402-224-6418x459,New York,TX,Retail,20141106,633
+500132,CUST500132,Steven,Williams,1984-12-19,steven.williams@gmail.com,+1-918-831-6586x89236,Seattle,CO,Rettail,01/01/2020,504
+500385,CUST500385,Christina,Watson,19460913,null,+1-313-740-4514x78271,Chicago,IL,Retail,18-11-2022,824
+500450,CUST500450,Melody,Martinez,04/29/1959,melody.martinez@hotmail.com,(299)728-0123x32556,Columbus,CA,Retail,2014-08-17,446
+500028,CUST500028,Charles,Hunter,18-03-2008,UNKNOWN,431.691.2845,Denver,CO,Private Banking,12/06/2026,341
+500013,CUST500013,Holly,  Mcdowell   ,05/20/2004,holly.mcdowell@hotmail.com,572.861.6751,Seattle,NY,Small Business,11/09/2017,231
+500045,CUST500045,Sandra,Evans,11-04-1988,sandra.evans@hotmail.com,903-417-7646,Seattle,MA,Small Business,2021-09-12,311
+500574,CUST500574,Brenda,Manning,"Apr 08, 1943",brenda.manning@yahoo.com,5817367667,Phoenix,N/A,Retail,05-05-2017,497
+500343,CUST500343,Kevin,Harris,2006-09-03,kevin.harris@hotmail.com,475.292.5778,Miami,NJ,Retail,"Dec 27, 2023",544
+500701,CUST500701,Mary,Walters,10-12-1975,mary.walters@hotmail.com,445-605-4032x76355,Philadelphia,PA,Small Business,2016-11-22,null
+500112,CUST500112,John,Johnson,14/04/1977,john.johnson@gmail.com,n/a,Los Angeles,AZ,Small Business,02/19/2018,796
+500055,CUST500055,Dustin,Campbell,25-08-1973,dustin.campbell@gmail.com,(473)542-0750x9619,Houston,CO,-,2025-08-18,396
+500366,CUST500366,Jonathan,Warner,,jonathan.warner@gmail.com,(872)814-1278x6036,Miami,GA,Private Banking,28-10-2022,384
+500724,CUST500724,Catherine,Martin,03/10/1983,catherine.martin@hotmail.com,975-365-4771,Miami,NY,Retail,10/04/2015,730
+500081,CUST500081,Heather,Mason,UNKNOWN,heather.mason@gmail.com,496-303-6996x393,Columbus,WA,Retail,20200215,715
+500393,CUST500393,Benjamin,Porter,28-11-1972,benjamin.porter@gmail.com,8543133747,Atlanta,AZ,Retail,27/06/2022,335
+500282,CUST500282,Cassandra,Roberts,1969-07-25,cassandra.roberts@hotmail.com,(937)418-5304,Seattle,PA,Retail,02/19/2023,332
+500702,CUST500702,Jim,jordan,09-07-1952,jim.jordan@yahoo.com,+1-503-294-0876,Boston,PA,Retail,06/01/2025,716
+500447,CUST500447,Anthony,  Fox   ,10/13/1981,anthony.fox@yahoo.com,(253)659-3843x03580,Houston,OH,Private Banking,05-01-2017,798
+500309,CUST500309,Dana,Bennett,1953-10-15,dana.bennett@gmail.com,770.411.0379x714,Houston,WA,Small Business,20240424,212
+500449,CUST500449,Andrew,peterson,1961-01-26,andrew.peterson@gmail.com,508.861.7114x061,Phoenix,OH,Small Business,"May 30, 2015",625
+500034,CUST500034,Christopher,pETERSON,02/04/1942,christopher.peterson@yahoo.com,001-630-766-6836,Phoenix,GA,Private Banking,-,541
+500748,CUST500748,Jason,Martin,1990-11-12,jason.martin@gmail.com,5516512923,Seattle,CA,Private Banking,29/05/2022,842
+500016,CUST500016,Traci,Kramer,unknown,traci.kramer@yahoo.com,902-742-6462x889,Denver,TX,Small Business,2015-11-08,340
+500096,CUST500096,Andrew,Knight,"Oct 26, 1977",andrew.knight@yahoo.com,001-280-816-9671,Chicago,OH,Private Banking,2025-06-28,671
+500586,CUST500586,Melissa,Cherry,UNKNOWN,melissa.cherry@hotmail.com,4849510026,Phoenix,GA,private banking,2018-08-29,486
+500243,CUST500243,   Blake   ,Mcdonald,07/23/1970,blake.mcdonald@hotmail.com,822-282-9851,Boston,NY,Retail,31-12-2025,65
+500026,CUST500026,Troy,   Reyes   ,19700728,troy.reyes@gmail.com,+1-931-292-5449x920,Houston,TX,Retail,2022-10-01,794
+500039,CUST500039,tyrone,Craig,07/04/1966,tyrone.craig@hotmail.com,(553)970-5656x30481,Philadelphia,GA,Private Banking,"Sep 01, 2017",536
+500587,CUST500587,Lindsay,Wilson,04-03-1973,  lindsay.wilson@hotmail.com   ,812-272-9815,Atlanta,AZ,Private Banking,"Jun 10, 2026",329
+500314,CUST500314,Stacy,Walters,05-04-1975,stacy.walters@hotmail.com,(353)893-4439,Denver,WA,-,17-11-2024,771
+500522,CUST500522,Daniel,Holloway,31/10/1953,daniel.holloway@hotmail.com,558.410.1935,Detroit,NJ,private banking,2026-01-05,702
+500716,CUST500716,Colleen,Turner,12/09/1943,colleen.turner@gmail.com,001-409-223-8059x270,Houston,NJ,Private Banking,20231129,531
+500591,CUST500591,Jason,Barton,"Aug 12, 1998",jason.barton@yahoo.com,+1-385-795-0040x242,Detroit,NJ,pRIVATE bANKING,07-11-2014,485
+500599,CUST500599,  Charles   ,Butler,19600423,charles.butler@gmail.com,(974)322-5905,Boston,FL,Small Business,2018-07-25,UNKNOWN
+500391,CUST500391,Ronald,Smith,20080413,ronald.smith@hotmail.com,+1-311-534-6365x97656,Atlanta,NC,Retaiil,2023-04-14,385
+500320,cust500320,Matthew,Hubbard,31-10-1951,matthew.hubbard@gmail.com,N/A,Columbus,WA,Private Banking,02-08-2022,454
+500340,CUST500340,Mark,Kirk,04/27/1960,mark.kirk@yahoo.com,660.523.8756,Chicago,CO,NULL,30-07-2019,56
+500008,CUST500008,James,Hanson,2001-04-29,james.hanson@yahoo.com,+1-851-316-3726x5167,Boston,NC,Retail,20240813,146
+500686,CUST500686,Katie,Garcia,18/10/1976,katie.garcia@gmail.com,+1-819-599-4716x13698,Seattle,CO,Retail,20171014,533
+500278,CUST500278,Kimberly,Rodriguez,19400918,kimberly.rodriguez@yahoo.com,948-737-5765,Columbus,TX,Retail,2019-03-20,449
+500739,CUST500739,Tina,Todd,04-05-1961,tina.todd@gmail.com,604.215.5379x79525,Denver,GA,-,"May 30, 2024",null
+500431,CUST500431,Lisa,Smith,,lisa.smith@yahoo.com,787-205-6297x2998,philadelphia,OH,Private Banking,20170514,430
+500113,CUST500113,David,Fischer,19-06-2006,david.fischer@yahoo.com,431.264.6204,Seattle,OH,Retail,10/02/2019,N/A
+500149,CUST500149,Bradley,Park,19940604,bradley.park@hotmail.com,(838)343-0255,Miami,GA,Private Banking,"Sep 18, 2017",664
+500184,CUST500184,Holly,Chandler,1939-02-17,holly.chandler@gmail.com,417-328-6023,Chicago,CO,Small Business,03-04-2025,711
+500726,CUST500726,   Patricia   ,  Moreno   ,08/13/1993,NULL,+1-553-538-3328x3382,New York,MA,Small Business,2017-01-12,803
+500576,CUST500576,Tiffany,Todd,19861228,tiffany.todd@gmail.com,+1-205-349-5363,Atlanta,MI,Private Banking,"Dec 13, 2017",52
+500405,CUST500405,Zachary,Hernandez,01/20/1963,zachary.hernandez@hotmail.com,001-357-917-5635x07733,Charlotte,FL,Retail,2018-03-21,330
+500211,CUST500211,Taylor,Martin,1974-09-10,unknown,546.383.2388,Boston,MA,Retail,"Aug 22, 2020",780
+500578,CUST500578,Mallory,Moore,2008-04-02,mallory.moore@gmail.com,934.634.1014x4582,Philadelphia,FL,Small Business,31-12-2023,UNKNOWN
+500594,CUST500594,Jennifer,Ward,09/03/1990,jennifer.ward@gmail.com,(824)478-6185,Atlanta,AZ,retail,20200118,649
+500434,CUST500434,Margaret,Jones,"Aug 18, 1944",margaret.jones@gmail.com,+1-863-633-3350,Houston,NC,   Private Banking   ,20/09/2018,522
+500202,CUST500202,Joshua,Flynn,11/19/1956,joshua.flynn@hotmail.com,+1-376-973-3026x102,Detroit,MA,Small Business,2023-01-26,404
+500281,CUST500281,John,Hughes,1994-07-05,john.hughes@yahoo.com,537-481-1467,Seattle,TX,Retail,01/14/2023,735
+500052,CUST500052,Lori,Ortiz,"Sep 29, 1962",lori.ortiz@gmail.com,407.387.1616,Seattle,CO,Retail,20220101,578
+500060,CUST500060,Mercedes,Ferrell,17-01-1989,mercedes.ferrell@gmail.com,(474)723-1594,Atlanta,GA,Private Banking,04/24/2024,834
+500136,CUST500136,Robert,Martinez,"Jan 18, 1947",N/A,2112287796,Phoenix,GA,Private Banking,2023-08-27,322
+500006,CUST500006,katherine,Evans,15-07-1982,katherine.evans@yahoo.com,552.553.8885x39336,   Chicago   ,FL,Retail,20150909,818
+500127,CUST500127,Zachary,Flowers,15/06/1961,zachary.flowers@hotmail.com,626.355.2399,Charlotte,FL,Private Banking,10/09/2023,829
+500461,CUST500461,Rebekah,Jordan,13/11/1969,rebekah.jordan@gmail.com,266.944.6470x7758,Denver,CA,Small Business,"May 15, 2023",522
+500575,CUST500575,Lindsay,Roberts,21/11/2002,lindsay.roberts@gmail.com,+1-902-418-8842x67341,Houston,CO,Retail,08-06-2016,645
+500538,CUST500538,Debra,Frost,19830110,debra.frost@yahoo.com,5386763560,Miami,AZ,Private Banking,2020-09-30,356
+500408,CUST500408,Catherine,Smith,01/18/2003,catherine.smith@hotmail.com,+1-544-406-9480x42733,Atlanta,MA,,2019-10-30,761
+500317,CUST500317,richard,Terry,06-07-1940,richard.terry@yahoo.com,848-826-5000,Miami,MA,Private Banking,2024-06-30,370
+500484,CUST500484,Kristin,Flowers,19881203,kristin.flowers@hotmail.com,944-737-9464x83224,Atlanta,NY,Private Banking,"Apr 22, 2016",489
+500352,cust500352,bRENDA,Lee,"Sep 30, 1982",brenda.lee@gmail.com,6375091863,Atlanta,-,Small Business,24-05-2020,744
+500473,CUST500473,Tanya,Lin,19440906,tanya.lin@yahoo.com,497.213.3209,NEWARK,TX,Retail,15/01/2024,442
+500031,CUST500031,Juan,Williams,1983-12-05,juan.williams@gmail.com,846.585.3560,Detroit,WA,Smalll Business,2022-03-03,435
+500003,CUST500003,Rachel,Deleon,19990612,rachel.deleon@yahoo.com,(766)217-6031x3721,Miami,IL,Retail,20240210,524
+500209,CUST500209,cody,Arnold,15-02-1993,cody.arnold@yahoo.com,7003891626,Philadelphia,OH,Retail,20210913,642
+500571,CUST500571,Marie,jUAREZ,19700625,marie.juarez@yahoo.com,857.797.7593x6601,Denver,OH,Private Banking,20210419,416
+500023,CUST500023,Phillip,Evans,07/27/1981,phillip.evans@hotmail.com,001-429-265-7249x20868,Los Angeles,GA,Small Business,08/11/2015,759
+500231,CUST500231,Deborah,Hutchinson,19630829,deborah.hutchinson@hotmail.com,399-784-9334,Phoenix,PA,Small Business,"Apr 13, 2025",513
+500491,CUST500491,Lucas,Palmer,13-06-1973,lucas.palmer@yahoo.com,(753)987-8251,Newark,AZ,Private Banking,28/02/2016,748
+500296,CUST500296,Jacqueline,Rasmussen,"Jan 19, 1965",jacqueline.rasmussen@yahoo.com,656-427-9800x75866,Newark,null,Retail,20181028,368
+500040,CUST500040,Tara,Collins,06/19/1995,tara.collins@gmail.com,441-897-9237x609,Miami,CA,Small Business,20170509,580
+500196,CUST500196,Christopher,Griffin,23-04-1964,christopher.griffin@hotmail.com,001-901-499-7766x72176,Phoenix,TX,Retail,20190718,493
+500441,CUST500441,michele,Johnson,10/23/1974,michele.johnson@gmail.com,452.466.9463x018,Chicago,NY,Private Banking,06/14/2021,458
+500361,CUST500361,Ann,Butler,01/27/1938,ann.butler@yahoo.com,001-871-711-6480,Phoenix,N/A,Small Business,20191124,166
+500311,CUST500311,Crystal,Patel,1998-01-03,crystal.patel@gmail.com,(775)806-3778x34281,Columbus,CA,private banking,11/21/2019,572
+500741,cust500741,Kevin,Madden,1950-04-19,kevin.madden@gmail.com,918.829.7268x2512,Boston,NY,Small Business,20161215,782
+500505,CUST500505,Jeffery,Miles,"Apr 13, 1948",jeffery.miles@hotmail.com,569-647-0658,Miami,WA,Small Business,20221028,714
+500512,CUST500512,Kyle,Garner,07/23/1980,kyle.garner@hotmail.com,226.621.2186x04788,Los Angeles,WA,Small Business,10-06-2025,63
+500639,CUST500639,Steven,Wong,19651210,steven.wong@hotmail.com,001-237-390-4918,Seattle,NC,Private Banking,09-07-2015,438
+500628,CUST500628,Janet,Jones,10-10-1944,janet.jones@gmail.com,001-978-265-3665x8653,HOUSTON,TX,rETAIL,23-02-2023,668
+500471,CUST500471,Stephanie,Powell,27-12-1991,stephanie.powell@gmail.com,001-716-323-1330x51168,Denver,CA,Small Business,11-05-2020,509
+500183,CUST500183,Christopher,  Morgan   ,08/27/2002,   christopher.morgan@yahoo.com   ,5938300289,Seattle,GA,Small Business,20-02-2023,831
+500262,CUST500262,Kyle,Mueller,05/21/1955,kyle.mueller@yahoo.com,5622560952,Philadelphia,FL,Retail,2026-03-21,541
+500155,CUST500155,John,Williams,1976-12-26,john.williams@hotmail.com,(403)476-7249x9123,Phoenix,CA,sMALL bUSINESS,2022-02-01,332
+500206,CUST500206,Steven,Chandler,12/25/1966,steven.chandler@gmail.com,7512388147,Detroit,TX,Private Banking,09/10/2022,481
+500338,CUST500338,Heather,Jones,09/01/2001,heather.jones@gmail.com,(768)674-5852x18871,Charlotte,GA,Private Banking,16/10/2016,396
+500275,CUST500275,John,Green,19660708,john.green@hotmail.com,5034038437,Phoenix,MI,Small Business,12/15/2020,406
+500015,CUST500015,Virginia,Powell,19660510,virginia.powell@gmail.com,001-350-358-7706x5894,Philadelphia,TX,Small Business,20181107,756
+500660,CUST500660,Richard,Cabrera,24/08/2000,richard.cabrera@gmail.com,(286)442-0398,Charlotte,MA,Private Banking,2018-09-11,700
+500656,CUST500656,Connie,  Stevens   ,2003-06-07,connie.stevens@hotmail.com,457.879.3457x3844,Los Angeles,TX,Small Business,"Nov 27, 2020",unknown
+500002,CUST500002,Edward,Barrett,1936-06-25,edward.barrett@gmail.com,240-926-8599x528,Los Angeles,PA,Retail,20240703,820
+500301,cust500301,Crystal,Fletcher,14/09/1948,crystal.fletcher@yahoo.com,3109210052,Columbus,NJ,Retail,09-02-2016,400
+500608,CUST500608,Ethan,Cooper,1986-01-24,ethan.cooper@yahoo.com,871.857.1472x64867,Chicago,TX,Retail,"May 29, 2025",null
+500051,CUST500051,Carrie,Hampton,1984-02-18,carrie.hampton@hotmail.com,+1-595-230-5520x340,Charlotte,TX,Private Banking,05/09/2014,810
+500482,CUST500482,Jasmine,Middleton,N/A,jasmine.middleton@gmail.com,976-352-2950x118,Atlanta,NY,Small Business,04/17/2022,493
+500214,CUST500214,Christopher,Malone,10/23/1978,christopher.malone@yahoo.com,(760)313-2822x52333,Columbus,TX,Small Business,10/12/2016,798
+500341,CUST500341,Gerald,Bush,19470814,gerald.bush@hotmail.com,9065356078,Detroit,NC,Small Busineess,12/07/2025,389
+500342,CUST500342,Amber,Jones,1948-05-04,amber.jones@hotmail.com,629.628.5488x27912,Denver,OH,Small Business,"Oct 27, 2016",487
+500333,CUST500333,Melissa,Macdonald,19661016,melissa.macdonald@yahoo.com,211.747.8694x06626,Detroit,FL,Private Banking,22/11/2016,738
+500646,CUST500646,Joshua,Golden,06/09/1954,joshua.golden@gmail.com,001-664-250-8197,Chicago,AZ,Small Business,2025-04-13,255
+500711,CUST500711,Bonnie,hOWARD,"Oct 03, 1990",bonnie.howard@gmail.com,7032551381,Phoenix,FL,Retail,2022-02-11,804
+500061,CUST500061,Peggy,Hill,"Feb 22, 1995",peggy.hill@hotmail.com,439.649.8355x0326,Detroit,WA,Small Business,24-04-2016,96
+500411,CUST500411,Derrick,Davis,28-06-1952,derrick.davis@gmail.com,(920)417-7364x32897,Houston,FL,Private Banking,20170429,578
+500152,CUST500152,James,Miles,22/04/1968,james.miles@yahoo.com,379.754.2810x077,Houston,PA,Retail,null,410
+500237,CUST500237,  Kevin   ,Williams,22-05-1948,kevin.williams@gmail.com,001-971-451-2577x155,Columbus,CA,Retail,20181102,497
+500364,CUST500364,Andrew,Bryant,09/05/1959,andrew.bryant@hotmail.com,+1-681-618-7535x1588,Denver,CO,Private Banking,02/28/2021,236
+500181,CUST500181,Stephanie,  Taylor   ,05-07-1957,stephanie.taylor@gmail.com,unknown,COLUMBUS,NY,Private Banking,20150828,758
+500324,CUST500324,Brian,Lee,24/10/1954,brian.lee@yahoo.com,374.931.7974x19722,Newark,MI,Retail,02/03/2022,691
+500744,CUST500744,Angela,Lyons,1998-04-24,angela.lyons@yahoo.com,328.392.8112,Charlotte,MA,Retail,"Feb 14, 2026",648
+500421,CUST500421,Suzanne,Davis,1943-07-26,suzanne.davis@yahoo.com,693-344-5091x90029,New York,CA,UNKNOWN,20180220,115
+500710,CUST500710,maria,Adams,11/22/2000,maria.adams@gmail.com,001-903-271-4330,Boston,NJ,Small Business,16-07-2024,554
+500513,CUST500513,Casey,Roman,11/15/1954,casey.roman@hotmail.com,+1-222-472-0558x02310,Phoenix,UNKNOWN,Small Business,2015-07-02,403
+500442,CUST500442,Jonathan,Aguirre,"Jul 03, 1998",jonathan.aguirre@gmail.com,001-300-995-5006x433,Newark,OH,Private Banking,20250208,455
+500567,CUST500567,Andrew,Graham,19701128,andrew.graham@gmail.com,(471)262-7920x422,Miami,MA,Retail,"Apr 17, 2016",636
+500374,CUST500374,Jason,Contreras,01-05-1949,jason.contreras@hotmail.com,970.820.2711x700,Atlanta,NJ,Retail,07/29/2018,521
+500205,CUST500205,Kyle,Scott,30/08/1975,kyle.scott@hotmail.com,360.556.2438,Denver,IL,Retail,20170227,700
+500093,CUST500093,Kelly,Carey,"Jan 28, 1965",kelly.carey@yahoo.com,853.271.5354x29106,Atlanta,CA,Small Business,09/08/2020,738
+500017,CUST500017,Christopher,Brown,1985-11-04,christopher.brown@gmail.com,701-841-9314x170,pHILADELPHIA,CO,Private Banking,20190902,614
+500696,CUST500696,Alejandra,Brewer,"Nov 20, 1994",alejandra.brewer@gmail.com,748.496.2317x234,Seattle,OH,Private Banking,20150908,772
+500365,CUST500365,Nathaniel,Gutierrez,20001005,nathaniel.gutierrez@hotmail.com,267.349.3282,Chicago,NJ,Small Business,2017-11-12,646
+500090,CUST500090,Robert,Wilcox,1970-02-24,robert.wilcox@yahoo.com,927.637.2890x257,Phoenix,TX,Private Banking,03/29/2021,68
+500557,CUST500557,Christian,Paul,22/07/1968,christian.paul@hotmail.com,647-945-5986,Los Angeles,WA,Retail,2016-02-02,2
+500091,CUST500091,Mary,Brooks,06-03-1966,UNKNOWN,(950)909-0518,Charlotte,IL,Retail,18/01/2026,334
+500547,CUST500547,Kimberly,Hernandez,"Sep 07, 1941",kimberly.hernandez@hotmail.com,562.395.3425x76791,Atlanta,UNKNOWN,Small Business,2020-11-01,809
+500105,CUST500105,Bradley,OSBORN,28/11/1962,bradley.osborn@hotmail.com,212.559.0548x901,new york,NC,Small Business,"Nov 13, 2015",805
+500555,CUST500555,Tiffany,Turner,08/24/1969,tiffany.turner@gmail.com,UNKNOWN,Philadelphia,WA,Small Business,13/11/2025,458
+500427,CUST500427,Chelsea,HERNANDEZ,"Jul 28, 1959",chelsea.hernandez@gmail.com,+1-611-326-4502,Phoenix,FL,Private Banking,24/11/2024,562
+500321,CUST500321,Rodney,Parker,28/12/1972,-,+1-422-246-5186x29071,New York,n/a,Retail,06/10/2025,789
+500585,CUST500585,LISA,West,null,lisa.west@hotmail.com,+1-313-499-0152x630,Chicago,MA,Retail,15-10-2024,129
+500011,cust500011,Amanda,Mills,"Dec 19, 1936",amanda.mills@gmail.com,UNKNOWN,Los Angeles,CO,Private Banking,"Nov 06, 2019",568
+500084,CUST500084,Jennifer,Hunt,04/09/1982,jennifer.hunt@hotmail.com,867-232-6819x50446,Charlotte,FL,Private Banking,06/24/2024,681
+500222,CUST500222,Sarah,English,19840330,sarah.english@hotmail.com,374-845-4680x77500,Chicago,CA,Private Banking,05/07/2015,680
+500178,CUST500178,David,Daniels,07/25/1950,david.daniels@yahoo.com,+1-752-822-8053x773,Houston,PA,Retail,13/11/2023,359
+500218,CUST500218,   Laura   ,Vega,07/05/2004,laura.vega@yahoo.com,235-396-4047,Phoenix,TX,Private Banking,"Jun 10, 2024",442
+500056,CUST500056,Christine,Mendez,"Dec 02, 1949",christine.mendez@hotmail.com,null,HOUSTON,WA,Private Banking,2020-03-28,392
+500437,cust500437,Paul,Walton,26/08/2004,paul.walton@yahoo.com,001-354-222-0917x853,miami,FL,Small Business,2025-02-19,781
+500592,CUST500592,Gary,Davidson,11-12-1957,gary.davidson@yahoo.com,(579)287-0479x43880,Philadelphia,UNKNOWN,-,2025-10-08,606
+500368,CUST500368,FELICIA,Jones,"May 15, 1976",felicia.jones@yahoo.com,477-554-9528x221,Boston,AZ,Private Banking,"Aug 28, 2016",45
+500380,CUST500380,Kevin,Orr,1938-11-24,kevin.orr@hotmail.com,8255030243,Miami,AZ,Private Banking,19-01-2018,249
+500161,CUST500161,Angela,Perez,30/05/1977,angela.perez@hotmail.com,001-391-361-7288,Columbus,OH,Private Banking,"Dec 13, 2015",812
+500191,CUST500191,John,Jackson,08-08-1995,john.jackson@hotmail.com,+1-705-665-6162x4615,Seattle,CO,Retail,02/02/2020,475
+500559,CUST500559,Tiffany,Curtis,01-08-1983,tiffany.curtis@hotmail.com,610-481-6702x2038,Phoenix,NY,Private Banking,05/27/2016,799
+500177,CUST500177,Anita,Ward,04/08/1974,anita.ward@yahoo.com,2874152361,Charlotte,WA,Private Banking,13/11/2017,576
+500632,CUST500632,Jason,Oconnor,06/19/1980,jason.oconnor@hotmail.com,001-983-956-1385x73832,Houston,PA,Small Business,02/11/2019,386
+500511,CUST500511,Eric,York,05/12/1973,eric.york@yahoo.com,352.943.7839x11809,Miami,GA,-,07/02/2015,510
+500609,CUST500609,Erin,Cooper,13-06-1948,erin.cooper@yahoo.com,677.803.0674x8880,Columbus,PA,Private Banking,08/02/2022,116
+500400,CUST500400,Michael,Blair,1977-10-08,michael.blair@hotmail.com,715-692-1448x6474,Los Angeles,CA,Retail,08/30/2016,121
+500390,CUST500390,Sean,Mcdonald,13-03-2002,sean.mcdonald@hotmail.com,799.522.4806x0487,Phoenix,FL,Retail,05/25/2025,732
+500151,CUST500151,crystal,Wilson,N/A,crystal.wilson@hotmail.com,+1-629-676-3140x57300,Los Angeles,MA,Private Banking,2025-10-26,569
+500242,CUST500242,Cynthia,Harmon,25-05-1938,cynthia.harmon@gmail.com,8076063308,Columbus,-,Small Business,21/09/2015,227
+500100,CUST500100,Susan,Conley,1980-01-21,susan.conley@hotmail.com,NULL,Atlanta,OH,  Retaail   ,2018-05-16,483
+500200,CUST500200,Angela,dixon,04/12/1966,angela.dixon@yahoo.com,566.784.4320,Columbus,TX,Small  Business,03/19/2015,-
+500398,CUST500398,Barbara,Goodwin,19780813,barbara.goodwin@hotmail.com,001-257-636-8937x07357,Los Angeles,OH,null,20221108,314
+500389,CUST500389,Wayne,   Mack   ,"Jan 12, 1947",wayne.mack@gmail.com,665.761.8162x4682,Newark,NJ,Retail,"Oct 03, 2019",797
+500173,CUST500173,James,Morrison,1998-09-06,james.morrison@gmail.com,402.290.1195,Chicago,TX,Small Business,04/29/2022,785
+500652,CUST500652,Casey,Johnson,1975-06-05,casey.johnson@gmail.com,387.649.0649,Los Angeles,NC,Small Business,21-08-2015,602
+500117,CUST500117,   Tanya   ,Jones,"Aug 23, 1961",tanya.jones@yahoo.com,001-569-304-1778x08820,Philadelphia,WA,Private Banking,2017-07-09,777
+500662,CUST500662,Patrick,Romero,1959-01-26,patrick.romero@yahoo.com,587.388.6144x85234,Columbus,AZ,Small Business,"Oct 15, 2018",353
+500680,CUST500680,Elizabeth,Mayo,07/18/1967,elizabeth.mayo@gmail.com,698.660.4342,New York,OH,Small Business,"Sep 27, 2019",313
+500497,CUST500497,Michael,Salazar,04/20/2000,michael.salazar@gmail.com,932.872.9411,DETROIT,GA,unknown,"Aug 02, 2023",373
+500474,CUST500474,Susan,Jones,"May 31, 1948",susan.jones@gmail.com,515-838-9029,PHOENIX,IL,Small Business,10-06-2021,778
+500053,CUST500053,Denise,Sanders,05/26/1955,denise.sanders@hotmail.com,560-249-5660x5366,Boston,PA,Private Banking,2026-05-18,73
+500070,CUST500070,Rebecca,Skinner,19500528,-,265.293.6877,Denver,IL,Private Banking,"Jul 01, 2016",659
+500392,CUST500392,Casey,Stone,03/07/1978,casey.stone@yahoo.com,+1-959-962-3988x65465,Los Angeles,WA,Private Banking,07-12-2019,701
+500302,CUST500302,Fernando,White,30/01/1980,fernando.white@gmail.com,(416)456-6473x702,Columbus,OH,Small Business,13/08/2022,763
+500059,cust500059,Ryan,Davis,11/13/1967,ryan.davis@gmail.com,4212581086,Los Angeles,CA,Small Business,06-09-2020,422
+500174,CUST500174,Jacob,hERRERA,19990706,jacob.herrera@gmail.com,255.807.6952,New York,CO,Small Business,20220324,471
+500189,CUST500189,Jimmy,Soto,12-11-1989,jimmy.soto@hotmail.com,668-649-5183,Chicago,NY,Retail,12-02-2019,473
+500246,CUST500246,Joshua,Parker,19570311,joshua.parker@hotmail.com,530-311-0193x86769,cHARLOTTE,WA,Retail,06/28/2020,12
+500645,CUST500645,Jennifer,Mcintyre,03/04/1961,jennifer.mcintyre@gmail.com,429-736-7956x574,New York,FL,Small Business,,687
+500050,CUST500050,Vicki,Garcia,04/06/1970,vicki.garcia@yahoo.com,(404)931-0399x315,Newark,N/A,unknown,12/05/2024,459
+500310,CUST500310,Summer,Brewer,19901204,summer.brewer@hotmail.com,652-323-7344x032,Miami,NY,Small Business,20220416,643
+500329,CUST500329,David,Fuller,19680225,david.fuller@yahoo.com,688.968.4460,New York,FL,Private Banking,26/01/2019,781
+500692,CUST500692,Jeffrey,Smith,19530805,jeffrey.smith@hotmail.com,(964)605-9252,Los Angeles,WA,Retail,14/10/2019,446
+500336,CUST500336,Larry,Butler,19620212,larry.butler@gmail.com,963-963-5936x08844,Seattle,GA,Retail,05/09/2025,503
+500360,CUST500360,Brenda,Pearson,08-10-1954,brenda.pearson@gmail.com,569.345.2982x624,Newark,MI,Private Banking,20250813,UNKNOWN
+500569,CUST500569,James,Moran,19781026,james.moran@hotmail.com,(473)816-4655,   Detroit   ,CO,Retail,20200317,468
+500323,CUST500323,Jacqueline,Stanley,19421222,jacqueline.stanley@hotmail.com,+1-345-353-4530x66612,Detroit,MA,Small Business,20190619,
+500325,CUST500325,Samuel,Keller,09/06/1937,samuel.keller@hotmail.com,7114530394,Chicago,OH,Small Business,"Oct 21, 2016",733
+500313,CUST500313,Noah,Rodriguez,UNKNOWN,noah.rodriguez@yahoo.com,,Phoenix,NJ,Private Banking,2020-07-18,824
+500109,CUST500109,Erica,Evans,10/12/1978,erica.evans@gmail.com,255.946.1576x2732,Charlotte,WA,Small Business,20-08-2023,336
+500143,CUST500143,amanda,Powell,19721105,amanda.powell@gmail.com,+1-581-784-6092x40612,Houston,CA,Private Banking,06/02/2016,625
+500102,CUST500102,Haley,Morris,03/03/1955,haley.morris@gmail.com,829-524-8758x1887,Boston,AZ,Small Business,"Jun 23, 2016",UNKNOWN
+500253,CUST500253,Marcus,Harris,19631205,marcus.harris@gmail.com,UNKNOWN,Houston,MI,Small Business,14-12-2023,648
+500703,CUST500703,Pamela,Beck,02/02/1961,pamela.beck@hotmail.com,(903)740-2284x24452,Chicago,CO,Retail,17-06-2015,337
+500359,CUST500359,Dana,Singh,12/12/2000,dana.singh@yahoo.com,677-361-6363x5766,Denver,CO,Small  Business,2016-01-03,457
+500570,cust500570,Henry,Peterson,19580328,henry.peterson@gmail.com,3474405057,Columbus,PA,Small Business,11/11/2023,404
+500254,CUST500254,Donna,White,1946-02-02,donna.white@gmail.com,(741)499-3014x0425,Phoenix,MI,Small Business,"Oct 05, 2015",469
+500337,CUST500337,Taylor,Smith,1984-01-12,taylor.smith@hotmail.com,+1-929-578-6214x714,Newark,CO,  Private Banking   ,09-02-2020,445
+500363,CUST500363,Mary,Williams,10/13/1989,mary.williams@hotmail.com,(449)801-1619x39474,Charlotte,IL,Small Business,10/07/2015,752
+500195,CUST500195,Bobby,Mullins,26-05-2006,bobby.mullins@hotmail.com,753-369-2939x513,Newark,TX,Retail,27-09-2019,396
+500303,CUST500303,Patricia,Leon,19810421,patricia.leon@yahoo.com,490.278.9077x09568,Philadelphia,IL,Retail,30/05/2022,400
+500383,CUST500383,Dennis,Torres,"Oct 04, 1986",dennis.torres@gmail.com,382.471.3243x004,Phoenix,TX,Retail,NULL,389
+500738,CUST500738,Julie,Knight,19750126,julie.knight@gmail.com,+1-643-413-1853x440,Columbus,TX,Private Banking,12/08/2020,479
+500624,CUST500624,  Shelly   ,Mitchell,18-04-1967,shelly.mitchell@gmail.com,463-944-8657x3554,Denver,GA,Small Business,20250413,387
+500033,CUST500033,   DIANA   ,Turner,"Apr 15, 1976",diana.turner@gmail.com,+1-521-538-7837x5762,Charlotte,MA,Retail,"Apr 21, 2019",306
+500499,CUST500499,Caleb,Stephenson,"Dec 17, 1952",caleb.stephenson@yahoo.com,(760)823-5494,New York,CO,Private Banking,20190125,n/a
+500659,CUST500659,Christopher,Hill,"Mar 25, 1987",christopher.hill@yahoo.com,546.320.1368,Phoenix,CO,small business,"Oct 16, 2023",240
+500297,CUST500297,Angela,Bates,1989-04-06,angela.bates@gmail.com,+1-656-359-9352x8862,Denver,IL,Private Banking,2025-11-30,396
+500190,CUST500190,Regina,Kennedy,"Apr 11, 1988",regina.kennedy@yahoo.com,001-432-718-5838,Seattle,GA,Retail,27-10-2020,527
+500169,CUST500169,Robyn,Orr,22/07/1942,robyn.orr@yahoo.com,+1-791-854-3214x5583,Philadelphia,UNKNOWN,Retail,"Dec 23, 2016",828
+500260,CUST500260,Dustin,Lara,18-08-2004,dustin.lara@yahoo.com,+1-623-709-7173x04723,Detroit,AZ,small business,20230605,750
+500186,CUST500186,Ricky,Hawkins,19620127,ricky.hawkins@hotmail.com,8787485646,Phoenix,IL,Small Business,09/24/2014,455
+500595,CUST500595,Michael,Jackson,11/27/1968,null,+1-515-503-6128,Los Angeles,FL,Small Business,2016-04-13,585
+500583,CUST500583,Alice,   Riley   ,05/17/1949,alice.riley@yahoo.com,001-374-374-4903x7518,Los Angeles,GA,Private Banking,20220301,686
+500455,CUST500455,Patrick,Harris,13-10-1935,patrick.harris@gmail.com,526-345-5520x84970,Houston,NJ,Private Banking,"Sep 13, 2017",739
+500280,CUST500280,Samuel,  Miller   ,05/09/1964,samuel.miller@hotmail.com,8044281152,Philadelphia,TX,Small Business,"Sep 22, 2015",751
+500273,CUST500273,Jacob,Hickman,"Jul 05, 1976",jacob.hickman@gmail.com,001-466-540-3417x119,Los Angeles,NY,Small Business,20/03/2015,738
+500220,CUST500220,Donna,Roman,19440531,donna.roman@gmail.com,(926)745-2523x5964,Boston,CO,Retail,28-09-2022,605
+500708,CUST500708,Julia,Chandler,"Dec 09, 1976",julia.chandler@hotmail.com,337-374-0399x60121,Columbus,MI,Small Business,20250622,510
+500535,CUST500535,John,Williams,11/09/1975,john.williams@gmail.com,(801)642-1221,NEW YORK,MI,Retail,20150728,581
+500507,CUST500507,Tiffany,Allen,15-10-1979,tiffany.allen@gmail.com,209-731-2569,Miami,PA,N/A,12/02/2020,528
+500481,CUST500481,Peter,Brooks,19630601,peter.brooks@hotmail.com,400.567.8092x05118,Seattle,NJ,Small Businesss,20151026,610
+500740,CUST500740,Christopher,Johnson,19990213,christopher.johnson@hotmail.com,573-222-1318,Newark,-,Retail,20211008,
+500381,CUST500381,Julie,Robbins,09/02/2007,julie.robbins@hotmail.com,001-921-437-8652,Columbus,MA,Private Banking,"Oct 10, 2023",746
+500138,CUST500138,Brian,Zamora,19780220,brian.zamora@yahoo.com,7932330292,Newark,OH,Small Business,-,741
+500074,CUST500074,Jose,   Bell   ,03-07-2003,jose.bell@yahoo.com,298-574-9060x68157,Newark,FL,Small Business,03/07/2015,389
+500304,CUST500304,Robin,Castro,01/01/1946,robin.castro@yahoo.com,(808)880-5639,Philadelphia,NC,Retail,08-09-2016,710
+500041,CUST500041,bRIAN,Johnson,14/02/1979,brian.johnson@hotmail.com,5264751125,New York,MA,Small Business,21/07/2019,534
+500560,CUST500560,Jeremy,Fox,12-11-1935,jeremy.fox@hotmail.com,368-485-8326,Atlanta,-,Retail,"Jan 13, 2015",679
+500188,CUST500188,Christopher,Oliver,19380122,christopher.oliver@yahoo.com,001-785-878-5790x778,Boston,FL,Retail,20230220,779
+500403,CUST500403,  Rhonda   ,Sanchez,"Jun 09, 1954",rhonda.sanchez@gmail.com,730.938.3287,Houston,NY,Private Banking,27-10-2022,504
+500514,CUST500514,James,Baker,19860622,james.baker@yahoo.com,387-425-7178,Detroit,FL,Retail,19/02/2017,700
+500539,cust500539,Lauren,Lewis,19850224,lauren.lewis@hotmail.com,(918)331-6729,Houston,PA,Small Business,"Apr 11, 2017",490
+500721,CUST500721,Rick,Callahan,1946-12-02,rick.callahan@yahoo.com,364.829.8163x05475,Phoenix,OH,Retail,17-10-2024,722
+500584,CUST500584,Caitlin,Hayden,20050505,caitlin.hayden@yahoo.com,(219)553-8917x14780,Charlotte,PA,Retail,"Jul 23, 2023",389
+500339,CUST500339,Michelle,Clark,1999-09-02,michelle.clark@yahoo.com,+1-798-494-4195x158,Denver,PA,Small Business,13-11-2018,621
+500122,CUST500122,Alyssa,Jones,20-03-1967,alyssa.jones@gmail.com,626.667.0009,Boston,IL,Retail,13/08/2020,689
+500531,CUST500531,Erin,Wilson,1954-07-07,erin.wilson@yahoo.com,774.473.4588,Houston,IL,Private Banking,04-05-2018,n/a
+500445,CUST500445,Gina,Lynch,"Jul 04, 1966",gina.lynch@yahoo.com,881-998-2553x9337,detroit,OH,Small Business,10/26/2016,631
+500556,CUST500556,Terri,Pratt,"Apr 08, 1960",terri.pratt@yahoo.com,580-489-3095,Boston,MI,,"Nov 02, 2015",302
+500277,CUST500277,Christopher,Williams,08-02-1973,christopher.williams@hotmail.com,970.635.1885,Atlanta,AZ,Small Business,28-05-2016,UNKNOWN
+500131,CUST500131,Teresa,Vance,20050521,teresa.vance@yahoo.com,001-874-884-8968,Newark,CA,null,"Nov 28, 2014",747
+500274,CUST500274,Laura,Hayes,19691019,laura.hayes@hotmail.com,379-962-0393,Boston,AZ,Private Banking,23/04/2024,573
+500564,CUST500564,Derek,HULL,1959-02-21,derek.hull@gmail.com,001-249-916-7846x50379,Miami,MI,rETAIL,29-05-2018,649
+500690,CUST500690,Barbara,White,09-06-1936,null,+1-611-942-8824x7887,Boston,CO,Retail,01/06/2019,642
+500718,CUST500718,Alexander,Larsen,07/21/1945,alexander.larsen@yahoo.com,633-534-4258x4499,Seattle,CO,Small Business,11/10/2016,308
+500353,CUST500353,Sheila,Jackson,30/11/1960,sheila.jackson@gmail.com,UNKNOWN,Atlanta,GA,Small Business,05-11-2015,623
+500025,CUST500025,Joseph,Bryant,20/09/1940,joseph.bryant@hotmail.com,581-974-1433,New York,WA,Retail,09/18/2025,306
+500103,CUST500103,Kristin,Bowen,24/04/2007,kristin.bowen@gmail.com,+1-567-834-9067x81851,Detroit,GA,Small Business,"Apr 16, 2018",788
+500652,CUST500652,Casey,Johnson,1975-06-05,casey.johnson@gmail.com,387.649.0649,Los Angeles,NC,Small Business,21-08-2015,602
+500066,CUST500066,Brian,Nicholson,08-10-2000,brian.nicholson@hotmail.com,498.573.2000x806,Atlanta,MA,Private Banking,09/09/2021,695
+500001,CUST500001,Sabrina,crawford,"Sep 30, 1947",sabrina.crawford@yahoo.com,(368)446-5632,Columbus,NC,Small Business,2019-05-22,NULL
+500580,CUST500580,Cameron,Frost,07/01/1986,cameron.frost@yahoo.com,001-601-850-7958x876,Detroit,AZ,Private Banking,20160707,220
+500718,CUST500718,Alexander,Larsen,07/21/1945,alexander.larsen@yahoo.com,633-534-4258x4499,Seattle,CO,Small Business,11/10/2016,308
+500077,CUST500077,Michael,Morales,05/29/1964,michael.morales@gmail.com,(205)734-4688x26372,Seattle,FL,Private Banking,20250319,n/a
+500736,CUST500736,Stacy,Conrad,"Apr 11, 1971",stacy.conrad@yahoo.com,(740)698-2496,Miami,NY,n/a,05/21/2021,577
+500528,CUST500528,Debra,Evans,20/06/1995,debra.evans@gmail.com,653-920-9162,los angeles,WA,Private Banking,29/07/2015,79
+500166,CUST500166,Alexander,Peterson,15/08/1946,alexander.peterson@gmail.com,8125996727,New York,CO,Private Banking,2020-07-31,640
+500573,cust500573,Steven,Proctor,02/06/1993,n/a,732.930.6999x5493,Columbus,OH,Retail,11-03-2024,373
+500693,CUST500693,Heather,Mendoza,18-09-1959,heather.mendoza@yahoo.com,(381)782-5784,Denver,CA,null,11-03-2017,787
+500428,CUST500428,Nathan,Cooper,10/27/1946,nathan.cooper@yahoo.com,+1-705-945-8150x5865,Boston,IL,Private Banking,07/07/2024,532
+500468,CUST500468,Joseph,Weeks,1988-06-03,joseph.weeks@hotmail.com,414-990-4232x9897,Detroit,IL,Small Business,"Sep 01, 2020",758
+500451,CUST500451,Ryan,Anderson,2008-06-01,ryan.anderson@hotmail.com,580-835-6373x4056,Miami,CO,Retail,"Jul 07, 2020",694
+500194,CUST500194,Jonathan,  Baker   ,"Aug 01, 1967",jonathan.baker@yahoo.com,832-764-9507,Boston,FL,Retail,20201110,346
+500737,cust500737,Curtis,Cook,1954-05-13,curtis.cook@hotmail.com,800.902.6944,Chicago,IL,Private Banking,20180208,145
+500159,CUST500159,Timothy,Holland,19570614,timothy.holland@hotmail.com,8337712958,Detroit,FL,Retail,11/09/2018,353
+500071,cust500071,Samuel,Hardy,19770328,samuel.hardy@gmail.com,(799)419-2200x1192,Columbus,TX,Private Banking,09/04/2018,651
+500638,CUST500638,Zachary,Chandler,03/12/1943,zachary.chandler@hotmail.com,820-675-6279x411,Los Angeles,MA,Retail,"Jul 27, 2019",530
+500467,CUST500467,Rhonda,Martinez,19960321,rhonda.martinez@gmail.com,001-379-823-7470,Detroit,AZ,Retail,03-12-2022,363
+500298,CUST500298,Derek,Strong,"Oct 25, 2006",derek.strong@yahoo.com,774.658.0588x571,Miami,PA,NULL,"Dec 12, 2021",362
+500289,CUST500289,Craig,Bauer,06/09/1979,craig.bauer@yahoo.com,001-262-461-6354x5827,Seattle,AZ,Smalll Business,2015-04-17,426
+500266,CUST500266,Charles,Merritt,1977-03-27,charles.merritt@hotmail.com,236-958-4109x735,Miami,AZ,Private Banking,"Oct 06, 2016",243
+500695,cust500695,Michael,Walters,11/02/2004,michael.walters@gmail.com,,Seattle,FL,Retail,22/11/2016,
+500150,CUST500150,James,Collins,28-07-1945,james.collins@hotmail.com,533.708.7254x2299,Philadelphia,IL,Retail,01/10/2023,315
+500328,CUST500328,Jessica,  Martinez   ,"Jul 01, 1961",jessica.martinez@gmail.com,+1-648-628-0669x208,Miami,NJ,Private Banking,2021-04-07,703
+500669,CUST500669,Peggy,  Sloan   ,02/11/1959,peggy.sloan@gmail.com,4875041569,Detroit,CO,Small Business,19-11-2014,416
+500332,CUST500332,Paula,Allison,11-12-1998,paula.allison@yahoo.com,(752)222-5403,Houston,FL,Private Banking,"Nov 02, 2019",576
+500476,CUST500476,Bianca,Allen,11/18/1976,bianca.allen@yahoo.com,+1-467-296-9620x95970,Columbus,NJ,Retail,17/10/2024,760
+500533,CUST500533,Adam,Gonzalez,10-06-1960,adam.gonzalez@yahoo.com,526.833.5054x0344,Detroit,NY,Private Banking,18/09/2016,414
+500058,cust500058,Paul,Richardson,1972-05-13,paul.richardson@gmail.com,+1-477-737-9727x611,Detroit,MI,Small Business,20160924,647
+500495,CUST500495,Laurie,Castaneda,01/27/1940,laurie.castaneda@hotmail.com,(685)835-0552,Newark,FL,Private Banking,2020-09-21,792
+500363,CUST500363,Mary,Williams,10/13/1989,mary.williams@hotmail.com,(449)801-1619x39474,Charlotte,IL,Small Business,10/07/2015,752
+500579,CUST500579,Bryce,Jones,17-09-1958,bryce.jones@hotmail.com,(740)769-7120,Detroit,MA,Small Business,25-12-2023,821
+500263,CUST500263,Eric,Cain,19791121,eric.cain@hotmail.com,001-462-743-8146x228,Miami,OH,Retail,06/04/2020,561
+500315,CUST500315,Alejandro,Tran,08/16/1950,alejandro.tran@gmail.com,001-231-841-3904x06145,Columbus,NULL,Retail,20200825,249
+500406,CUST500406,Kim,Curry,1979-06-18,kim.curry@gmail.com,238-655-1618,Chicago,CA,Retaiil,18/10/2015,835
+500252,CUST500252,Michael,Thomas,04/11/1943,michael.thomas@hotmail.com,001-947-721-4466x271,Miami,FL,Private Banking,26-06-2020,506
+500623,CUST500623,Annette,Chavez,19901104,annette.chavez@hotmail.com,917.856.0248x68272,Atlanta,CO,Retail,23-07-2023,797
+500197,cust500197,William,Summers,19840717,william.summers@yahoo.com,+1-504-385-6711,Los Angeles,NY,Small Business,05/06/2023,533
+500631,CUST500631,Chad,Hall,19811201,chad.hall@yahoo.com,001-459-922-6934x3320,Los Angeles,TX,Private Banking,20190529,803
+500244,CUST500244,Charles,Johnson,"Dec 05, 1982",charles.johnson@hotmail.com,+1-599-281-0894x760,Seattle,NJ,Retail,20150816,755
+500515,CUST500515,Troy,Brown,unknown,troy.brown@gmail.com,(735)313-3590,Newark,MA,Retail,17/07/2022,175
+500381,CUST500381,Julie,Robbins,09/02/2007,julie.robbins@hotmail.com,001-921-437-8652,Columbus,MA,Private Banking,"Oct 10, 2023",746
+500187,CUST500187,Amber,   Reyes   ,1946-08-23,amber.reyes@yahoo.com,(503)398-4963,New York,NY,Small Business,09/02/2023,782
+500249,CUST500249,Aaron,Wise,19530112,aaron.wise@gmail.com,+1-321-905-6551,Detroit,IL,,08-09-2018,627
+500634,CUST500634,Michelle,Richardson,"Feb 24, 1957",michelle.richardson@yahoo.com,(883)721-6463x3032,Miami,PA,Private Banking,27-09-2025,705
+500163,CUST500163,Bobby,Miles,05/13/2005,bobby.miles@gmail.com,001-226-619-3915x255,Charlotte,MI,Small Business,"Jan 30, 2020",725
+500399,CUST500399,Kelly,Barker,19450807,kelly.barker@hotmail.com,+1-334-687-9234x650,PHOENIX,PA,Small Business,"Aug 21, 2023",394
+500049,CUST500049,Scott,Lopez,19521017,scott.lopez@hotmail.com,351.964.3883,Charlotte,GA,Small Business,2017-12-15,768
+500104,CUST500104,Bethany,Prince,20/03/2000,bethany.prince@yahoo.com,493.533.3124x59956,Detroit,WA,Private Banking,"Oct 27, 2020",609
+500563,CUST500563,Joseph,Fields,19950421,joseph.fields@gmail.com,001-575-901-3522,Charlotte,NJ,Retail,2018-01-26,NULL
+500251,CUST500251,John,Scott,19370815,john.scott@gmail.com,+1-249-392-1916x4111,Newark,FL,Small Business,20221102,747
+500743,CUST500743,Austin,Bell,19/12/1978,austin.bell@gmail.com,935.780.0963x34219,Miami,MA,NULL,10/26/2020,651
+500199,CUST500199,Lisa,Wiggins,"Mar 24, 1946",lisa.wiggins@hotmail.com,6286484156,Atlanta,NC,Private Banking,2018-08-03,237
+500119,CUST500119,Curtis,Kane,14-12-1987,curtis.kane@gmail.com,579.584.1116x289,Boston,TX,n/a,21-02-2015,491
+500705,CUST500705,Robert,Long,1985-12-04,robert.long@yahoo.com,500-882-5900,Los Angeles,MI,Private Banking,2019-09-27,384
+500501,CUST500501,Martha,Moore,24-10-1991,martha.moore@gmail.com,383.962.8430x3320,Columbus,TX,Small Business,12-04-2015,614
+500171,CUST500171,Brenda,Thomas,1988-02-26,brenda.thomas@hotmail.com,+1-751-939-1924,Charlotte,NY,Retail,10/08/2017,562
+500653,CUST500653,Dominic,Hughes,28/06/2001,dominic.hughes@hotmail.com,314.560.6465x375,Los Angeles,MI,RETAIL,2018-12-12,583
+500670,CUST500670,David,Mcdowell,06-05-1975,david.mcdowell@yahoo.com,(531)991-5162x137,Philadelphia,TX,Small Business,22/11/2023,770
+500464,CUST500464,Mark,Anderson,16/10/1976,mark.anderson@hotmail.com,3996350289,Columbus,unknown,Private Banking,24/07/2021,n/a
+500271,CUST500271,Christopher,Wright,04/10/1948,unknown,700.311.1327,pHOENIX,GA,Small Business,09/06/2016,389
+500162,CUST500162,Steve,Parks,"May 04, 1975",steve.parks@gmail.com,null,Atlanta,FL,Small Business,02/19/2026,825
+500035,CUST500035,Karen,Jimenez,11/07/1977,karen.jimenez@hotmail.com,883.914.3667x64020,New York,OH,Private Banking,2018-11-23,327
+500217,CUST500217,Tanya,Cobb,19531231,tanya.cobb@gmail.com,839.878.3790,Chicago,PA,  Private Banking   ,20240804,405
+500462,CUST500462,Frank,Flowers,30-05-1957,frank.flowers@gmail.com,NULL,Newark,PA,Private Banking,06/07/2020,443
+500224,CUST500224,Glenn,Lawrence,04/20/2007,glenn.lawrence@gmail.com,980-268-6167x5452,chicago,NJ,Small Business,2022-01-28,610
+500107,CUST500107,Brent,Grant,03/01/1999,brent.grant@gmail.com,+1-961-414-5931x862,Detroit,-,Small Business,"Jan 24, 2020",315
+500430,CUST500430,Samantha,Garcia,19450924,samantha.garcia@hotmail.com,+1-803-903-0326x822,Denver,GA,Private Banking,08/13/2022,383
+500604,CUST500604,Jennifer,Walter,"Dec 12, 1941",jennifer.walter@yahoo.com,521.261.3036,Seattle,NJ,Retail,10/29/2014,376
+500526,CUST500526,   Stephen   ,Medina,20/07/1978,stephen.medina@yahoo.com,642-918-0325x0854,Newark,OH,Retail,2025-03-18,271
+500523,CUST500523,Michelle,ballard,14/08/1967,michelle.ballard@gmail.com,671.408.0172,Columbus,CO,Retail,18-09-2016,454
+500053,CUST500053,Denise,Sanders,05/26/1955,denise.sanders@hotmail.com,560-249-5660x5366,Boston,PA,Private Banking,2026-05-18,73
+500652,CUST500652,Casey,Johnson,1975-06-05,casey.johnson@gmail.com,387.649.0649,Los Angeles,NC,Small Business,21-08-2015,602
+500644,CUST500644,Diana,Smith,NULL,diana.smith@hotmail.com,236-971-4710,Los Angeles,AZ,Retail,20240512,760
+500384,CUST500384,Kendra,Schultz,18/05/1996,kendra.schultz@yahoo.com,(425)462-9744,Denver,CO,Small Business,2026-05-03,N/A
+500508,CUST500508,Stacy,Romero,12/30/1974,stacy.romero@yahoo.com,(317)418-7551,Seattle,GA,Private Banking,09/02/2020,344
+500021,CUST500021,Brian,Ortega,29-05-1963,brian.ortega@yahoo.com,+1-734-707-2247x045,Los Angeles,CO,Private Banking,2020-08-18,78
+500414,CUST500414,Andre,Griffith,19640614,andre.griffith@hotmail.com,950-739-0204,Boston,FL,Small Bussiness,12/14/2019,315
+500426,CUST500426,Fred,Powell,19441112,fred.powell@hotmail.com,383-665-1859x71889,Denver,NY,Small Business,2019-03-12,830
+500722,CUST500722,John,Hodges,"Nov 08, 1996",john.hodges@gmail.com,(744)766-8670,Seattle,NC,Small Business,04/21/2016,617
+500239,CUST500239,Jessica,Schmidt,"Aug 14, 1937",jessica.schmidt@gmail.com,503.298.1559x877,Atlanta,OH,sMALL bUSINESS,04/17/2024,431
+500674,CUST500674,Stephanie,Murray,"Mar 19, 1980",stephanie.murray@yahoo.com,907-964-9218,Denver,FL,Private Banking,2019-06-04,690
+500416,CUST500416,Roger,Lewis,1988-06-30,roger.lewis@hotmail.com,992.719.0663x8193,Chicago,CA,Private Banking,27-11-2019,229
+500362,CUST500362,David,Kennedy,1936-10-03,david.kennedy@gmail.com,+1-511-783-9812x4674,Seattle,GA,Retail,27-05-2016,439
+500072,CUST500072,Jaclyn,Johnson,15/09/1945,jaclyn.johnson@gmail.com,001-510-519-5381x613,Chicago,NJ,Retail,09-04-2022,844
+500144,CUST500144,Jacob,Vance,1940-07-28,null,001-443-614-1342x64567,Phoenix,TX,Private Banking,06/29/2025,316
+500733,CUST500733,William,Dean,04/11/1987,william.dean@yahoo.com,(383)467-6434x804,Denver,CA,Small Business,20190209,436
+500170,CUST500170,Matthew,Padilla,22/08/1984,matthew.padilla@yahoo.com,653.435.2230x76769,Denver,NC,Private Banking,2025-02-17,634
+500715,CUST500715,Elizabeth,Martinez,19730924,elizabeth.martinez@gmail.com,769.586.3470x4439,mIAMI,OH,Private Banking,20160514,631
+500650,CUST500650,Amanda,GRAY,"Mar 29, 1946",amanda.gray@yahoo.com,255-463-6165x53811,columbus,MI,Small Business,17/11/2025,781
+500581,CUST500581,Anna,Nichols,12-10-1960,anna.nichols@yahoo.com,515.337.3419,Chicago,AZ,Private Banking,11-08-2018,375
+500378,CUST500378,   Jessica   ,Harrison,19910801,jessica.harrison@yahoo.com,9968940735,Detroit,FL,Small Business,2024-09-13,649
+500667,CUST500667,Joshua,Pacheco,05/19/1982,joshua.pacheco@hotmail.com,(989)914-9478,Houston,MI,Private Banking,2018-02-28,336
+500204,CUST500204,James,Davis,11-04-1939,james.davis@yahoo.com,001-776-420-2027x439,Atlanta,CA,Small Business,"Apr 08, 2017",546
+500496,CUST500496,Jason,Herrera,23-05-1944,jason.herrera@yahoo.com,(954)437-9859x66141,Los Angeles,OH,Small Business,2025-04-11,null
+500550,CUST500550,Christopher,Mcintosh,2003-07-02,christopher.mcintosh@yahoo.com,(309)943-9335x089,Columbus,NY,Retail,13-02-2023,837
+500357,CUST500357,Rachel,   Jordan   ,"Apr 02, 1936",rachel.jordan@yahoo.com,+1-823-972-4632x6040,Boston,GA,Retail,"Sep 08, 2017",652
+500469,CUST500469,Albert,Clark,NULL,albert.clark@yahoo.com,6573136472,Boston,OH,Private Banking,09/17/2018,166
+500165,CUST500165,Heather,Smith,13-10-2007,heather.smith@gmail.com,611.942.2846x2948,Detroit,OH,Small Business,"Nov 05, 2019",304
+500234,CUST500234,Nicholas,Blevins,08/02/1955,nicholas.blevins@gmail.com,(468)896-3058x5417,Newark,NC,Private Banking,"Sep 02, 2015",638
+500418,CUST500418,Seth,Morris,03-08-1950,seth.morris@hotmail.com,+1-528-444-9472x447,Seattle,MI,Small Business,2024-11-22,652
+500687,CUST500687,Elizabeth,Martin,06/14/1977,elizabeth.martin@yahoo.com,4277334511,Columbus,IL,Private Banking,01/21/2024,371
+500349,CUST500349,TARA,cLARK,"Oct 01, 2004",tara.clark@gmail.com,(591)744-5174x699,Boston,IL,Retail,2022-05-23,238
+500620,CUST500620,Mark,Smith,"Dec 31, 1986",mark.smith@hotmail.com,8844180528,Phoenix,CA,Small Business,20160801,463
+500020,CUST500020,Dominique,Santos,13-07-1983,UNKNOWN,843.435.3265x02014,Atlanta,WA,Private  Banking,20210208,364
+500605,CUST500605,Edward,Andrews,1951-03-26,edward.andrews@yahoo.com,662.469.2457x836,Los Angeles,MA,Private Banking,28-04-2025,294
+500223,CUST500223,Seth,Potter,20000827,seth.potter@hotmail.com,205.872.0423x998,Charlotte,PA,Private Banking,2023-04-16,780
+500683,CUST500683,Zachary,Smith,12/18/2002,zachary.smith@gmail.com,001-817-286-5848,Miami,AZ,Retail,05/07/2017,unknown
+500165,CUST500165,Heather,Smith,13-10-2007,heather.smith@gmail.com,611.942.2846x2948,Detroit,OH,Small Business,"Nov 05, 2019",304
+500004,CUST500004,Curtis,Knight,1974-10-11,curtis.knight@hotmail.com,7139962459,New York,IL,Retail,28-11-2025,340
+500415,CUST500415,Renee,Kerr,09/10/1952,renee.kerr@yahoo.com,477-261-3251x597,Seattle,AZ,Smmall Business,30/07/2022,711
+500213,CUST500213,aSHLEY,Martinez,25/01/1984,ashley.martinez@gmail.com,+1-680-731-9510x392,Columbus,NC,Small Business,"Mar 13, 2017",694
+500208,CUST500208,   Betty   ,Garcia,12/09/1935,betty.garcia@gmail.com,+1-340-925-5773x55214,Detroit,CO,Private Banking,20161201,149
+500607,CUST500607,Lisa,Harris,01/18/1990,lisa.harris@yahoo.com,519.656.7599,Phoenix,CA,retail,10/03/2024,615
+500076,CUST500076,Tammy,Watkins,24-06-2005,tammy.watkins@hotmail.com,(343)737-2117,Houston,NC,Small Business,2020-09-27,825
+500537,CUST500537,Brittany,Blair,10/03/1947,brittany.blair@hotmail.com,7344075702,Charlotte,MI,Private Banking,2021-01-07,420
+500331,CUST500331,Michael,Johnson,"Oct 30, 2005",michael.johnson@hotmail.com,unknown,Houston,CA,Private Banking,08/11/2020,76
+500618,CUST500618,Danielle,Mercer,19420608,danielle.mercer@gmail.com,(843)330-4472x09079,   Phoenix   ,TX,Retail,02/16/2018,750
+500007,CUST500007,Zachary,Kelly,09/19/1937,zachary.kelly@yahoo.com,543.795.7551x3137,Phoenix,AZ,Small Business,08-12-2014,672
+500145,CUST500145,Gregory,Richardson,1993-12-16,UNKNOWN,6735651241,Denver,OH,Retail,20221102,NULL
+500370,CUST500370,Noah,Smith,1998-06-30,noah.smith@gmail.com,836-343-0917,Philadelphia,NY,Retail,27-01-2019,393
+500373,CUST500373,jonathan,Manning,14/06/2004,jonathan.manning@yahoo.com,(587)477-7951x92132,Phoenix,FL,Private Banking,14-09-2017,781
+500212,CUST500212,Alexis,Harding,1971-04-04,alexis.harding@hotmail.com,331.622.4066,Atlanta,MA,Small Business,"Jan 11, 2024",449
+500012,CUST500012,Nicole,Brown,19490726,nicole.brown@gmail.com,978.501.7598x98347,Boston,NY,Private Banking,08-02-2015,366
+500629,CUST500629,Kaitlyn,Palmer,19891013,kaitlyn.palmer@hotmail.com,567.698.8193,Detroit,AZ,Retail,"Jun 27, 2020",177
+500641,CUST500641,   Carrie   ,Rodriguez,20030410,carrie.rodriguez@hotmail.com,555.409.6986x38069,Philadelphia,NJ,Small Business,"Aug 08, 2019",540
+500543,CUST500543,Sarah,Lopez,29-12-2007,sarah.lopez@yahoo.com,430.381.3360x19750,Boston,FL,Small Business,20210612,779
+500477,CUST500477,Misty,Green,"Jul 26, 1974",misty.green@yahoo.com,+1-714-714-2808x3673,Chicago,GA,Retail,07/17/2020,364
+500230,CUST500230,Becky,Powell,26/06/1977,becky.powell@hotmail.com,(623)438-1406,Houston,PA,Small Business,12/11/2017,672
+500094,CUST500094,Raymond,Rodriguez,,raymond.rodriguez@yahoo.com,+1-908-489-6929x130,PHOENIX,NY,Small Business,2024-05-25,517
+500436,CUST500436,Daisy,Hunter,1937-08-14,daisy.hunter@yahoo.com,(734)759-9150,Chicago,NY,Small Business,"Mar 18, 2023",459
+500412,CUST500412,Bobby,   Peters   ,11/10/1950,bobby.peters@gmail.com,001-237-911-5889x8204,Houston,OH,Private Banking,08/02/2018,825
+500118,CUST500118,Jeffrey,White,1943-02-05,jeffrey.white@gmail.com,5139409978,Miami,GA,Private Banking,20170802,650
+500185,CUST500185,Alyssa,Franco,25/06/2005,alyssa.franco@gmail.com,514.220.4410,Columbus,,Private Banking,07/11/2015,648
+500589,CUST500589,Justin,Chang,21/01/1946,justin.chang@hotmail.com,790-641-2904x561,Newark,NJ,Private Banking,"Aug 02, 2025",529
+500032,CUST500032,Jennifer,Williams,01/24/1989,jennifer.williams@gmail.com,+1-647-808-2276x5444,Newark,CO,Small Business,2019-12-23,658
+500734,CUST500734,Lori,   Green   ,20020303,lori.green@yahoo.com,001-569-816-7454,Columbus,NC,Small Business,"Mar 18, 2017",793
+500240,CUST500240,John,Bullock,14-07-1963,john.bullock@hotmail.com,(237)979-9719,Houston,WA,Private Banking,04/11/2015,396
+500130,CUST500130,Oscar,Evans,18/10/1974,oscar.evans@yahoo.com,,Los Angeles,MI,Small Business,03-03-2024,NULL
+500664,CUST500664,Natalie,Collins,07/19/1947,natalie.collins@hotmail.com,-,Phoenix,CO,Private Banking,2019-09-10,724
+500490,CUST500490,Jason,Buchanan,"Apr 01, 1976",jason.buchanan@hotmail.com,571-235-8703,Columbus,NC,Small Business,15-04-2023,568
+500062,CUST500062,Erin,Woodard,1947-12-03,erin.woodard@gmail.com,001-880-757-8891x48654,Philadelphia,PA,Private Banking,"Dec 15, 2023",437
+500689,CUST500689,Jason,Thompson,21/12/1962,jason.thompson@hotmail.com,431.994.4720x10239,Philadelphia,NY,Small Business,26/02/2017,821
+500045,CUST500045,Sandra,Evans,11-04-1988,sandra.evans@hotmail.com,903-417-7646,Seattle,MA,Small Business,2021-09-12,311
+500047,CUST500047,Calvin,Johnson,n/a,calvin.johnson@yahoo.com,914-491-3167,Seattle,AZ,SMALL BUSINESS,2018-06-26,822
+500294,CUST500294,Katie,Sanchez,13/02/1950,katie.sanchez@yahoo.com,(796)344-2371x239,Philadelphia,FL,Private Banking,2016-07-10,314
+500651,CUST500651,Mark,Ramirez,1940-04-06,mark.ramirez@yahoo.com,489.360.8788x95123,Los Angeles,n/a,Private Banking,12/11/2020,696
+500290,CUST500290,Cassidy,gray,04/25/1996,cassidy.gray@gmail.com,(208)519-5003,   Charlotte   ,NJ,Retail,20250429,568
+500489,CUST500489,cOREY,Roberts,"Jan 20, 1975",corey.roberts@yahoo.com,001-735-740-9313x66495,Miami,AZ,Private Banking,01/22/2016,null
+500601,CUST500601,Jonathon,Rivera,19540918,jonathon.rivera@gmail.com,(236)982-2240,Los Angeles,WA,Small Business,2025-06-17,548
+500346,CUST500346,Carrie,Arellano,1975-12-23,carrie.arellano@gmail.com,001-843-941-8799x2687,Columbus,AZ,Retail,"Sep 01, 2014",719
+500261,CUST500261,Brandy,Ayers,19641212,brandy.ayers@gmail.com,(973)517-5873x933,New York,NY,Retail,09/11/2022,749
+500516,CUST500516,Katrina,  Berry   ,null,katrina.berry@yahoo.com,353.769.9423x40284,Houston,AZ,Retail,2015-08-24,342
+500367,CUST500367,James,Estrada,unknown,james.estrada@yahoo.com,(396)586-3628x5870,Newark,NC,Retail,27/03/2026,737
+500590,CUST500590,Sherry,Arias,19630124,sherry.arias@hotmail.com,806.823.1614x815,Chicago,WA,pRIVATE bANKING,11/03/2022,621
+500101,CUST500101,Joshua,Howell,02/14/1983,joshua.howell@hotmail.com,990-629-4963x66693,Los Angeles,NY,Small Business,28-02-2024,638
+500720,CUST500720,Jose,Bennett,18/03/2007,jose.bennett@gmail.com,890-840-3740,Phoenix,TX,Retail,N/A,507
+500120,CUST500120,Dylan,Berry,"Feb 07, 1990",dylan.berry@gmail.com,+1-766-899-8060x5563,Newark,FL,Retail,24/07/2016,556
+500054,CUST500054,Ryan,Moore,19431122,ryan.moore@hotmail.com,(772)420-0826x199,mIAMI,OH,Private Banking,2015-09-06,204
+500647,CUST500647,Joshua,Zuniga,29-09-1967,joshua.zuniga@yahoo.com,001-244-215-2143x96535,Columbus,NC,Retail,26-12-2018,285
+500029,CUST500029,Olivia,Warner,1952-06-29,olivia.warner@yahoo.com,(302)707-7642x6565,Newark,NJ,sMALL bUSINESS,"Apr 19, 2025",581
+500673,CUST500673,Elizabeth,Patton,1965-02-18,elizabeth.patton@gmail.com,739.752.9675x688,Boston,FL,Rettail,01/03/2019,682
+500259,CUST500259,Corey,Ramirez,03/16/1993,corey.ramirez@hotmail.com,474.728.0807x0837,Philadelphia,TX,Retail,06/01/2015,N/A
+500654,CUST500654,Jason,Smith,1955-03-31,jason.smith@gmail.com,434-259-6681,Detroit,GA,   Small Business   ,20211229,428
+500650,CUST500650,Amanda,GRAY,"Mar 29, 1946",amanda.gray@yahoo.com,255-463-6165x53811,columbus,MI,Small Business,17/11/2025,781
+500264,CUST500264,   Olivia   ,Brown,09/15/1952,olivia.brown@hotmail.com,264.693.2461x061,Houston,NY,Private Banking,2016-08-06,598
+500553,CUST500553,Michael,Thompson,11/05/1993,michael.thompson@yahoo.com,895-503-1451x39307,Detroit,OH,Private Banking,28-11-2023,545
+500649,CUST500649,Robert,Buchanan,11/16/1947,robert.buchanan@yahoo.com,+1-635-750-6183,Philadelphia,GA,Small Business,2017-04-20,638
+500731,CUST500731,Jeffrey,Williams,06/03/1937,jeffrey.williams@hotmail.com,+1-423-964-2943x577,Atlanta,MI,Small Business,08/08/2025,355
+500663,CUST500663,Daniel,Odonnell,2008-06-05,daniel.odonnell@hotmail.com,(477)788-2535,Atlanta,WA,Private Banking,"May 18, 2024",704
+500305,CUST500305,Matthew,Mendoza,1977-12-12,matthew.mendoza@gmail.com,463-943-9095x58495,Philadelphia,MA,Private Banking,2026-04-09,NULL
+500633,CUST500633,Drew,Young,01/19/1989,drew.young@hotmail.com,266.346.7732,Detroit,NY,n/a,20141029,487
+500233,CUST500233,  Amanda   ,   Mcdonald   ,01/12/1970,amanda.mcdonald@yahoo.com,689-833-8349x80320,Miami,MI,Private Banking,09-02-2018,770
+500713,CUST500713,Diane,Neal,19481024,diane.neal@hotmail.com,NULL,Houston,NY,Small Business,18/04/2026,326
+500247,CUST500247,Roberta,hood,03-12-1987,-,(660)629-4742,Phoenix,NJ,unknown,20-12-2014,
+500486,CUST500486,Heather,Anderson,23/03/1958,n/a,477.926.8056x04815,Los Angeles,GA,Retail,2024-10-01,148
+500238,CUST500238,Melissa,Rice,11-12-1953,melissa.rice@yahoo.com,303-548-6626x220,Philadelphia,OH,Private Banking,20190328,658
+500425,CUST500425,Carrie,Casey,1945-01-02,carrie.casey@hotmail.com,482-962-8452,New York,PA,Small Business,02/10/2018,636
+500448,CUST500448,Alexander,Zimmerman,01/10/2005,alexander.zimmerman@yahoo.com,667.950.9729x02759,Denver,PA,Private Banking,2014-11-23,410
+500459,CUST500459,John,THOMAS,19410323,null,+1-313-719-8001x9991,Los Angeles,PA,NULL,"Oct 11, 2018",14
+500201,CUST500201,Sarah,Douglas,n/a,sarah.douglas@yahoo.com,778.205.0816,Newark,IL,Private Banking,14/04/2016,687
+500747,CUST500747,Barbara,Braun,14-02-1965,barbara.braun@yahoo.com,992.277.9087,LOS ANGELES,NJ,UNKNOWN,04-09-2024,734
+500488,CUST500488,Ryan,Dixon,19680526,ryan.dixon@gmail.com,+1-528-307-4305x09549,Miami,MA,Private Banking,27/03/2015,551
+500114,CUST500114,Scott,Romero,21/11/1972,scott.romero@hotmail.com,525-460-6349x2228,Denver,CA,Retail,"Nov 18, 2019",848
+500248,CUST500248,Meghan,Johnson,07/06/1963,meghan.johnson@gmail.com,+1-779-754-3068x0538,Denver,NJ,Private Banking,14-07-2016,287
+500299,CUST500299,Paul,Lynch,23-12-1992,paul.lynch@yahoo.com,(515)580-4547x2601,Atlanta,AZ,Private Banking,20170916,658
+500439,CUST500439,Renee,Todd,1960-11-18,renee.todd@yahoo.com,705-309-0388x719,Phoenix,NJ,Small Business,20141123,755
+500134,CUST500134,   Alexandria   ,Cabrera,"Oct 09, 1950",alexandria.cabrera@yahoo.com,(209)291-5906,New York,PA,Small Business,20250330,302
+500257,cust500257,Ronald,brown,07/13/1949,ronald.brown@yahoo.com,335.280.1837x3996,Houston,WA,null,20171010,768
+500295,CUST500295,William,White,"Aug 16, 1970",william.white@hotmail.com,374.778.3798x2823,Chicago,AZ,Private Banking,05/11/2019,818
+500730,CUST500730,James,George,24-11-1953,NULL,832.632.3097x461,Denver,NC,Retail,05/21/2017,52
+500735,CUST500735,Ricardo,Castro,01/23/2004,ricardo.castro@hotmail.com,2798244123,Columbus,CO,Retail,14-02-2018,664
+500258,CUST500258,Sherry,Warren,07/02/1953,sherry.warren@yahoo.com,911.774.7721,Miami,NJ,Retail,20160820,584
+500387,CUST500387,Randy,Harris,1978-07-04,randy.harris@yahoo.com,885.726.1464x413,Detroit,CA,Small Business,"Oct 17, 2019",739
+500742,CUST500742,Amy,Boone,"Nov 20, 1935",amy.boone@gmail.com,782.525.7983x511,Chicago,MI,Retail,30/10/2018,736
+500456,CUST500456,Rachel,Bryant,08/04/1950,rachel.bryant@gmail.com,587-881-0529,Philadelphia,NY,Private Banking,2024-05-16,577
+500146,CUST500146,Jennifer,Williams,19380710,jennifer.williams@gmail.com,001-842-760-8429x39784,Atlanta,TX,Small Business,2016-07-14,763
+500684,CUST500684,Zachary,Hughes,04-10-1944,zachary.hughes@hotmail.com,001-217-543-7011x3160,Newark,NY,Retail,07/12/2019,791
+500610,CUST500610,Ashley,Gonzales,19380704,ashley.gonzales@gmail.com,001-348-267-4727,Columbus,NY,Small Business,20160607,668
+500658,CUST500658,andrew,Jones,15-07-2004,andrew.jones@hotmail.com,001-859-774-5289,Boston,CO,RETAIL,30/03/2016,164
+500637,CUST500637,Jacob,Baldwin,1975-08-21,jacob.baldwin@hotmail.com,(551)224-3440x26244,Newark,NJ,Retail,2019-10-21,667
+500577,CUST500577,Andrea,Carpenter,23-08-1985,andrea.carpenter@yahoo.com,4862996536,Boston,WA,Small Business,"Feb 20, 2021",467
+500681,CUST500681,Shannon,Tanner,1994-09-07,shannon.tanner@hotmail.com,+1-601-256-2082,Detroit,TX,Small Business,"Mar 11, 2019",732
+500706,cust500706,Laura,Smith,09/30/1949,laura.smith@hotmail.com,(487)708-2357,HOUSTON,MI,Retail,06/07/2015,256
+500335,CUST500335,Jesus,Willis,21/07/1977,unknown,001-558-991-8713,Columbus,AZ,Small Business,10-06-2018,501
+500500,CUST500500,Devin,Perkins,19840504,devin.perkins@gmail.com,346-599-4940,New York,CO,Retail,20200624,738
+500657,CUST500657,Sara,Thompson,10-11-1944,-,001-211-833-0027,Charlotte,NC,Retail,20240111,675
+500699,CUST500699,Brenda,Jordan,10/11/1965,brenda.jordan@hotmail.com,(216)470-3946x03829,Columbus,TX,Small Business,08/27/2021,491
+500443,CUST500443,Jason,   Jones   ,21/04/1986,jason.jones@gmail.com,879-915-6572,New York,PA,Private Banking,11/20/2015,809
+500291,CUST500291,William,Cantu,24/06/1976,william.cantu@hotmail.com,906.229.4943x638,Columbus,FL,Small Business,2016-04-25,415
+500307,CUST500307,Brianna,  Anderson   ,31-01-1963,brianna.anderson@hotmail.com,(774)517-5107x43144,Miami,NC,Retail,2025-01-17,35
+500682,CUST500682,Gavin,Sanchez,"Jul 22, 1998",gavin.sanchez@yahoo.com,+1-644-585-5396x19036,Phoenix,PA,Small Business,21/05/2021,735
+500635,CUST500635,Jeremy,Johnson,"Oct 10, 1974",jeremy.johnson@gmail.com,null,Atlanta,IL,Private Banking,2019-12-20,680
+500111,CUST500111,  Marcus   ,Young,16-01-1944,marcus.young@yahoo.com,802.878.2724,Newark,IL,Small Business,"Dec 18, 2018",519
+500141,CUST500141,James,Campbell,1952-12-01,james.campbell@hotmail.com,4529321348,Atlanta,PA,Private Banking,07-01-2015,689
+500478,CUST500478,Jon,Copeland,2001-06-15,jon.copeland@gmail.com,819-790-0459x7442,Boston,-,Private Banking,20251012,363
+500270,CUST500270,Katie,Turner,10-04-1954,katie.turner@hotmail.com,290.430.9868x401,Los Angeles,NY,Small Business,"May 23, 2024",660
+500198,CUST500198,Ashley,Smith,"Nov 18, 1971",ashley.smith@gmail.com,001-470-835-7086,Chicago,TX,Private Banking,09/16/2024,308
+500732,CUST500732,Priscilla,Cox,"Jul 23, 1952",priscilla.cox@gmail.com,+1-973-983-3955x476,Columbus,FL,Small BBusiness,20200917,769
+500133,CUST500133,Scott,Weber,04/27/2008,scott.weber@hotmail.com,001-812-455-5148x2145,Phoenix,NC,Private Banking,10/09/2018,529
+500046,CUST500046,Sarah,White,11/03/1994,sarah.white@hotmail.com,001-529-835-5759x18362,Philadelphia,CO,Small Business,20230527,539
+500276,CUST500276,James,Collins,12/20/1983,james.collins@gmail.com,2377546584,Boston,PA,Small Business,2017-09-16,492
+500005,CUST500005,David,Sweeney,20080207,david.sweeney@yahoo.com,412-215-4728x0385,Boston,NY,Private Banking,"Feb 26, 2020",138
+500322,CUST500322,Justin,Williams,19390202,N/A,001-938-262-3364x713,Seattle,-,Small Business,23/10/2020,345
+500126,CUST500126,Michelle,Allen,28-03-1976,michelle.allen@yahoo.com,940.202.8195,Atlanta,MA,Small Business,06/16/2020,544
+500541,CUST500541,Sarah,Key,1957-10-24,sarah.key@gmail.com,700-558-1461x1891,  Chicago   ,CA,Retail,20190518,-
+500292,CUST500292,Christopher,Smith,1960-06-09,christopher.smith@hotmail.com,584.338.2392,Miami,MA,Private Banking,"Feb 22, 2023",520
+500044,CUST500044,Billy,Johnson,1940-03-03,billy.johnson@yahoo.com,619.755.4590,Miami,AZ,Private Banking,26-07-2025,535
+500137,CUST500137,Gabrielle,Riley,09-02-1946,gabrielle.riley@yahoo.com,(804)219-1537,Phoenix,MI,null,10-06-2017,636
+500440,CUST500440,Amanda,Scott,"Oct 05, 1942",amanda.scott@hotmail.com,573.328.4857x469,Newark,PA,Small Business,2026-01-07,452
+500283,CUST500283,Theresa,Gilbert,26/06/1958,theresa.gilbert@yahoo.com,+1-536-700-3950x49005,Seattle,AZ,Private Banking,"Apr 18, 2023",NULL
+500568,cust500568,Kathryn,Jones,10/02/1980,kathryn.jones@hotmail.com,755-504-1945x9536,Charlotte,MA,Private Banking,"Nov 16, 2014",608
+500030,CUST500030,Aaron,Christensen,10/11/1996,aaron.christensen@gmail.com,001-604-245-1669x156,Philadelphia,NY,Private Banking,13-01-2016,848
+500245,CUST500245,Jacob,Hunter,22/09/1996,jacob.hunter@hotmail.com,+1-336-719-1885x1131,Miami,NY,Private Banking,"Feb 02, 2017",607
+500228,CUST500228,Michael,Case,12/26/1954,michael.case@gmail.com,+1-819-861-4221,  Phoenix   ,IL,Private Banking,2017-07-03,492
+500640,CUST500640,Noah,Sweeney,19-12-1987,noah.sweeney@hotmail.com,859-461-1999x6484,New York,NULL,RETAIL,"Jul 05, 2020",645
+500345,CUST500345,James,Roach,1960-05-03,james.roach@yahoo.com,(511)909-1024x441,Boston,CO,Small Business,,673
+500358,CUST500358,   Jennifer   ,Meyer,19520702,jennifer.meyer@gmail.com,n/a,Seattle,MA,Small Business,05/31/2015,497
+500642,CUST500642,Ashlee,Taylor,08/19/1973,ashlee.taylor@gmail.com,(806)823-9692x30585,Charlotte,NC,Small Business,21-10-2023,844
+500749,CUST500749,Jennifer,Smith,12/11/1971,jennifer.smith@yahoo.com,001-433-997-4703x588,Chicago,OH,Small Busineess,"Mar 12, 2022",828
+500099,CUST500099,Courtney,Fletcher,"Mar 23, 1969",courtney.fletcher@yahoo.com,6004009164,New York,TX,RETAIL,-,454
+500423,CUST500423,Joshua,Bishop,"Sep 09, 1952",joshua.bishop@gmail.com,+1-665-492-6543x288,Newark,PA,Private Banking,19/11/2023,261
+500319,cust500319,Robert,Stephens,19360915,robert.stephens@yahoo.com,(830)835-3179,Chicago,CA,Retail,18/04/2015,372
+500714,CUST500714,Alyssa,Stewart,26/05/1979,,457.527.2316x84678,Charlotte,TX,Private Banking,10/09/2024,568
+500503,CUST500503,Shelby,Mejia,16/08/1983,shelby.mejia@hotmail.com,2838802298,Miami,PA,Retail,07-09-2023,711
+500395,CUST500395,Bradley,Tucker,02/05/1938,bradley.tucker@hotmail.com,001-845-373-4272x2752,Boston,NJ,Private Banking,2023-05-20,360
+500123,CUST500123,Courtney,Drake,"Mar 20, 1938",courtney.drake@gmail.com,606.330.4145x21098,phoenix,MA,Private Banking,20151020,712
+500128,CUST500128,Joanne,Paul,19910123,joanne.paul@hotmail.com,001-426-810-6891x769,Seattle,GA,Retail,04/07/2020,329
+500691,CUST500691,   Dennis   ,Doyle,19790522,dennis.doyle@yahoo.com,001-877-845-8370x1673,Newark,NJ,Private Banking,02/14/2025,581
+500626,CUST500626,Victoria,Mcdonald,08-07-2005,victoria.mcdonald@hotmail.com,(243)728-6872x47148,Chicago,PA,Private Banking,2026-05-09,730
+500472,CUST500472,Jennifer,Johnson,19730405,jennifer.johnson@gmail.com,697.251.5116x1503,Miami,WA,Retail,11/01/2021,3
+500310,CUST500310,Summer,Brewer,19901204,summer.brewer@hotmail.com,652-323-7344x032,Miami,NY,Small Business,20220416,643
+500723,CUST500723,William,Brown,01-10-1970,william.brown@hotmail.com,979.400.9554x2784,Phoenix,OH,Private Banking,"May 22, 2025",734
+500116,CUST500116,matthew,Wilkinson,"Sep 18, 1998",matthew.wilkinson@gmail.com,(772)943-2950x25990,Philadelphia,NY,Private Banking,23-06-2020,443
+500121,CUST500121,Megan,Elliott,"Jul 28, 2007",megan.elliott@yahoo.com,+1-705-382-5360,Phoenix,GA,Retail,04/06/2018,421
+500603,CUST500603,Raymond,Travis,04/11/1991,raymond.travis@yahoo.com,984.314.9190x66967,Denver,MA,Small Business,11/30/2017,557
+500000,CUST500000,Deborah,Kaiser,09/08/1995,deborah.kaiser@yahoo.com,+1-850-875-2917x03423,boston,UNKNOWN,Small Business,"Dec 29, 2017",434
+500729,CUST500729,Robert,Price,2008-02-27,robert.price@gmail.com,677.394.7534x02554,Phoenix,MA,Small Business,30-07-2016,332
+500371,CUST500371,John,Mitchell,03-06-2006,john.mitchell@gmail.com,990-697-8262,Chicago,NJ,Private Banking,14/01/2019,UNKNOWN
+500588,CUST500588,William,Allison,1963-04-30,william.allison@gmail.com,338-722-4353x168,Newark,TX,Retail,08/23/2017,810
+500219,CUST500219,Natalie,Alvarez,08/04/1965,natalie.alvarez@gmail.com,983-815-6790x45142,Columbus,CA,Retail,20180304,743
+500085,CUST500085,Alexander,Barnes,21-04-1966,alexander.barnes@yahoo.com,001-941-534-6836,Columbus,CO,  Small Business   ,03/12/2022,206
+500615,CUST500615,Miguel,Wagner,20011231,miguel.wagner@hotmail.com,2657066984,Atlanta,PA,Small Business,21/01/2016,755
+500226,CUST500226,Joseph,Vance,19700405,joseph.vance@yahoo.com,(814)456-5674x1397,Seattle,IL,Retail,12/31/2021,848
+500269,CUST500269,Michael,Chang,-,michael.chang@hotmail.com,5267514833,  Phoenix   ,NY,Retail,09-04-2024,680
+500712,CUST500712,Edward,Wilson,1987-08-04,edward.wilson@gmail.com,(939)685-4075,Boston,MA,Private Banking,2025-05-24,560
+500401,CUST500401,Dominique,Maddox,"Oct 19, 1988",dominique.maddox@gmail.com,336-745-0440x84235,Denver,MI,Rettail,02-04-2017,339
+500089,CUST500089,Michael,Hernandez,"Aug 08, 2001",null,+1-391-684-3738x171,Miami,CO,Retail,14/01/2024,74
+500424,CUST500424,Barbara,Huang,"Dec 16, 1975",barbara.huang@yahoo.com,487.228.6972x05105,New York,WA,Retail,12/20/2014,835
+500256,CUST500256,Brent,Alvarado,08/30/1996,brent.alvarado@gmail.com,477.511.7871x6177,Phoenix,NJ,pRIVATE bANKING,"May 26, 2017",675
+500009,CUST500009,Jenny,Jackson,"Nov 16, 1944",jenny.jackson@yahoo.com,null,Los Angeles,CA,Private Banking,2016-05-27,767
+500636,CUST500636,Heather,Wood,19760907,heather.wood@yahoo.com,(421)266-2025x33287,Chicago,TX,Private Banking,27/12/2018,773
+500097,CUST500097,Brittney,Kaiser,28-09-1983,brittney.kaiser@yahoo.com,+1-211-373-2060,Columbus,null,Private Banking,20160614,517
+500316,CUST500316,Michael,Mckinney,30/06/1974,michael.mckinney@hotmail.com,723.813.1498,Chicago,OH,Private Banking,2016-10-03,293
+500458,CUST500458,Jordan,Andrews,10/04/1984,jordan.andrews@yahoo.com,(416)582-2242x28378,Los Angeles,NULL,Small Business,2017-05-21,373
+500154,CUST500154,Kim,Franco,26-03-1957,kim.franco@hotmail.com,721.649.5625x53528,Columbus,CA,Retail,20161025,728
+500446,CUST500446,Samuel,Pearson,19981112,samuel.pearson@yahoo.com,811-541-7277x06190,Chicago,WA,Private Banking,2017-01-09,283
+500067,CUST500067,Erik,Buck,"Apr 06, 1943",erik.buck@hotmail.com,426.638.9869,Houston,GA,Private Banking,2021-11-26,656
+500157,CUST500157,Bryan,Smith,23/05/2005,bryan.smith@hotmail.com,(964)307-9593,Columbus,AZ,Retail,14-09-2016,533
+500048,CUST500048,Jim,Butler,"Nov 19, 1980",jim.butler@hotmail.com,+1-614-544-9454,Atlanta,CO,Small Business,2022-08-20,638
+500728,CUST500728,Kyle,Gonzalez,"Dec 07, 1990",kyle.gonzalez@yahoo.com,+1-469-558-0522,Chicago,GA,Small Business,06/08/2023,NULL
+500625,CUST500625,Anthony,Alexander,23-08-1989,anthony.alexander@hotmail.com,748.463.1665,Phoenix,MI,Small Business,2021-02-13,557
+500287,CUST500287,Leah,Finley,19580323,leah.finley@hotmail.com,855.245.9199x8177,Columbus,OH,Retail,2022-02-19,394
+500267,cust500267,Thomas,Gregory,16-05-1987,thomas.gregory@gmail.com,753.861.3866x235,Denver,CO,Retail,2022-04-26,135
+500043,CUST500043,Michael,Underwood,19950812,michael.underwood@gmail.com,001-573-858-7355x706,Los Angeles,AZ,   Private Banking   ,"Oct 04, 2019",571
+500622,CUST500622,John,Gonzales,21-03-1950,john.gonzales@hotmail.com,001-512-630-1912x48606,Atlanta,NJ,Retail,03/26/2023,749
+500697,CUST500697,Aaron,Moreno,12/01/1975,aaron.moreno@yahoo.com,001-329-820-9004x90100,Columbus,CA,Retail,08/20/2020,330
+500272,CUST500272,Alexa,Flores,19660127,alexa.flores@yahoo.com,901-442-4119x04255,Seattle,null,Retail,2020-04-22,628
+500558,CUST500558,Jennifer,Hall,1960-02-19,jennifer.hall@yahoo.com,433-802-4257x1527,Denver,MA,Retail,04-05-2015,678
+500182,CUST500182,Ryan,Taylor,12/12/2003,ryan.taylor@gmail.com,(902)842-8512,New York,IL,Small Business,10/07/2022,303
+500700,CUST500700,Jessica,Harris,1998-04-07,jessica.harris@yahoo.com,368.295.3268x2425,Seattle,NY,Small Business,29-11-2016,679
+500527,CUST500527,Carl,Wright,"Apr 12, 1972",carl.wright@yahoo.com,992.518.5121x1909,Seattle,CA,Private Banking,20141014,n/a
+500257,cust500257,Ronald,brown,07/13/1949,ronald.brown@yahoo.com,335.280.1837x3996,Houston,WA,null,20171010,768
+500348,CUST500348,William,Mason,17/07/1937,william.mason@hotmail.com,001-456-932-5762x826,Charlotte,MI,Small Business,01-08-2023,NULL
+500279,CUST500279,Christine,Garcia,11/14/1968,christine.garcia@yahoo.com,(308)721-7904,Seattle,NJ,Private Banking,11/03/2022,638
+500250,CUST500250,Evan,Schmidt,19830119,evan.schmidt@yahoo.com,613.834.0461x29792,Newark,OH,  Private Banking   ,2021-01-07,375
+500630,CUST500630,Diana,Russo,10-01-1956,UNKNOWN,4388934482,Columbus,OH,Private Banking,28-11-2020,UNKNOWN
+500010,CUST500010,Valerie,Lee,05/26/1999,valerie.lee@gmail.com,883-495-4862x0579,Los Angeles,null,Retail,12/08/2014,312
+500454,CUST500454,Debra,Gross,08/03/1975,debra.gross@gmail.com,632-702-7208,Houston,OH,Small Business,20230422,240
+500746,CUST500746,Lauren,Parks,"Oct 18, 1967",lauren.parks@gmail.com,001-238-896-6827x646,Miami,MI,Retail,07/02/2019,512
+500675,CUST500675,Elizabeth,Fisher,08/04/2007,,001-698-865-6753x3150,Houston,PA,Small Business,02/25/2017,581
+500666,CUST500666,Maria,Holt,19940805,maria.holt@gmail.com,879.819.1553,Atlanta,AZ,Small Business,20260212,619
+500413,CUST500413,Becky,Fisher,19390708,becky.fisher@hotmail.com,(316)938-8586x26454,Charlotte,IL,Small Business,07/13/2018,581
+500546,CUST500546,John,Hall,unknown,john.hall@yahoo.com,(510)711-5919x700,Philadelphia,OH,Retail,2026-01-24,717
+500438,CUST500438,Nathaniel,Lutz,08/25/1974,nathaniel.lutz@yahoo.com,+1-801-684-8519,New York,NY,Small Business,01/02/2026,315
+500432,CUST500432,Jennifer,Cordova,"Feb 06, 1987",jennifer.cordova@hotmail.com,(205)376-5907,Columbus,TX,Private Banking,"Mar 06, 2021",564
+500439,CUST500439,Renee,Todd,1960-11-18,renee.todd@yahoo.com,705-309-0388x719,Phoenix,NJ,Small Business,20141123,755
+500022,CUST500022,John,Sheppard,19580314,john.sheppard@gmail.com,861-274-8338x01412,Boston,IL,Retail,20181107,771
+500095,CUST500095,Craig,White,"Apr 20, 1938",craig.white@hotmail.com,2527484426,dENVER,AZ,Retail,null,446
+500525,CUST500525,Teresa,Macdonald,19910114,teresa.macdonald@hotmail.com,001-898-714-9551x1749,New York,IL,Private Banking,01/13/2016,633
+500176,CUST500176,Eric,Thomas,"Aug 11, 1991",eric.thomas@yahoo.com,(658)998-2995x39470,Atlanta,FL,Small Business,20150904,389
+500668,cust500668,Brittany,Bradley,06/08/1956,brittany.bradley@hotmail.com,848-686-6304,Phoenix,NJ,Retail,02/04/2018,117
+500566,CUST500566,Kelly,Lane,23-10-1962,kelly.lane@yahoo.com,(353)262-8749,Phoenix,n/a,Retail,20251123,631
+500548,CUST500548,Ashley,Harrington,20030329,ashley.harrington@hotmail.com,897.473.0943x0654,Philadelphia,NC,-,2020-04-18,748
+500080,CUST500080,Franklin,Barrett,1949-11-14,franklin.barrett@gmail.com,846-843-1143x6700,Philadelphia,NY,Small Business,05/26/2016,360
+500396,CUST500396,James,Beltran,19840902,james.beltran@hotmail.com,985-863-9500,Charlotte,MA,Small Business,12/12/2020,587
+500545,CUST500545,Alisha,Gray,10/15/1976,alisha.gray@yahoo.com,(216)589-4606,Philadelphia,CO,null,"Sep 05, 2015",463
+500164,CUST500164,David,Watson,"Jun 04, 1989",david.watson@hotmail.com,709.551.5859x1034,Houston,GA,Private Banking,20251124,830
+500510,CUST500510,Alexander,Ross,1999-08-17,alexander.ross@yahoo.com,(570)735-4842x311,Atlanta,PA,Retail,"Oct 15, 2019",740
+500520,CUST500520,April,Ryan,"Feb 15, 2005",april.ryan@gmail.com,241-389-2807x46357,Chicago,CO,Small Business,04-07-2020,831
+500139,CUST500139,Rachel,Cabrera,1957-10-09,rachel.cabrera@yahoo.com,236-593-6467,Phoenix,CA,Small Business,"Oct 13, 2021",415
+500156,CUST500156,Scott,Booker,19420223,scott.booker@yahoo.com,833.750.0986x2410,Atlanta,OH,Small Business,20150129,702
+500153,CUST500153,tina,Elliott,19430719,tina.elliott@yahoo.com,238.250.5149x4312,Phoenix,NY,Private Banking,05-06-2020,835
+500351,CUST500351,Mary,Reeves,19670628,mary.reeves@gmail.com,(428)925-3664x21293,Seattle,TX,  Small Business   ,2024-09-14,437
+500727,CUST500727,Jeremiah,Butler,n/a,jeremiah.butler@gmail.com,646.263.2505x1703,Los Angeles,WA,Retail,03-07-2022,844
+500493,CUST500493,Amanda,  mCCOY   ,"Sep 20, 1967",amanda.mccoy@hotmail.com,287-823-2881x660,Los Angeles,CO,Private Banking,01/02/2020,494
+500661,CUST500661,  Larry   ,Perkins,"Dec 23, 1965",larry.perkins@gmail.com,(354)647-2013,Chicago,CO,Private Banking,20170310,502
+500388,CUST500388,Sean,lopez,10-07-1999,sean.lopez@yahoo.com,(391)517-1976x4746,Columbus,MA,Small Business,"Jan 30, 2024",839
+500110,CUST500110,Jennifer,Lee,03/26/1938,jennifer.lee@gmail.com,995-727-1601,Detroit,CO,Small Business,28-08-2025,516
+500379,CUST500379,Dale,Fuller,"Aug 25, 1979",dale.fuller@yahoo.com,+1-439-969-0678,Chicago,CA,Small Business,25/03/2015,647
+500375,CUST500375,William,Miller,"Jul 15, 1952",william.miller@gmail.com,001-263-754-7660,Phoenix,MA,Retail,2016-04-01,248
+500078,CUST500078,Bonnie,Boyd,20-12-1998,bonnie.boyd@hotmail.com,001-552-677-4932x5738,New York,MA,Private Banking,"Dec 20, 2019",533
+500551,CUST500551,Katherine,Cook,19860812,katherine.cook@yahoo.com,335-923-5757x16307,Los Angeles,OH,Private Banking,20190614,n/a
+500124,CUST500124,Steven,Ferguson,19460609,steven.ferguson@gmail.com,869-544-3184x7993,Philadelphia,MI,Retail,30/01/2016,424
+500215,CUST500215,Wendy,Moody,"Aug 16, 1970",wendy.moody@yahoo.com,491-930-5615,Newark,MA,Small Business,12-07-2020,455
+500597,CUST500597,Jennifer,Powell,08/03/1971,jennifer.powell@yahoo.com,001-253-452-1455x88835,newark,WA,Small Business,2019-08-23,219
+500316,CUST500316,Michael,Mckinney,30/06/1974,michael.mckinney@hotmail.com,723.813.1498,Chicago,OH,Private Banking,2016-10-03,293
+500069,CUST500069,David,Vance,20030221,david.vance@yahoo.com,001-404-686-8443x180,Seattle,MA,Retail,02-11-2025,224
+500037,CUST500037,Kimberly,Hall,04-10-2002,kimberly.hall@yahoo.com,(548)861-1148,Chicago,MA,Retail,2022-04-18,null
+500225,CUST500225,Laura,Reed,24/10/1945,n/a,(748)424-0946,Philadelphia,NJ,Small Business,2020-10-01,676
+500216,CUST500216,Emily,Reese,"Jun 15, 1945",emily.reese@yahoo.com,3793266849,Houston,NY,Small Business,20240622,648
+500561,CUST500561,lYNN,Flores,20021028,lynn.flores@hotmail.com,001-860-683-0589x05995,Newark,MA,Retail,01/13/2024,424
+500627,CUST500627,Dennis,Howard,12/25/1959,dennis.howard@yahoo.com,001-999-563-2557x5077,Miami,AZ,Retail,03/10/2023,770
+500344,CUST500344,Denise,Rodriguez,19800408,denise.rodriguez@hotmail.com,524.412.8009x37178,Columbus,MA,Retail,12/31/2014,324
+500014,CUST500014,Charles,Caldwell,30/10/1992,charles.caldwell@gmail.com,001-452-842-7316x723,Denver,TX,Retail,20250416,737
+500433,CUST500433,Taylor,Davis,19641026,taylor.davis@hotmail.com,917.588.7948x985,Charlotte,IL,Private Banking,"May 17, 2017",218
+500457,CUST500457,Alyssa,Barrett,"Nov 21, 1949",alyssa.barrett@yahoo.com,612-575-1396,Detroit,NC,Retail,2021-06-10,766
+500665,CUST500665,William,Powell,"Aug 04, 1981",william.powell@yahoo.com,001-828-453-1064,Detroit,IL,Small Business,20210209,12
+500075,CUST500075,Jennifer,Carey,1977-07-18,jennifer.carey@yahoo.com,9834400571,Boston,FL,Private Banking,09-01-2018,430
+500460,CUST500460,John,Lawrence,1974-04-08,john.lawrence@hotmail.com,(896)988-2804x3329,Philadelphia,WA,Private Banking,2018-08-27,178
+500509,CUST500509,Michael,Owens,19500508,michael.owens@yahoo.com,(935)898-3764,phoenix,CO,Retail,2016-04-29,615
+500140,CUST500140,  Christopher   ,Jackson,09/04/1963,christopher.jackson@yahoo.com,(585)815-8656x1165,Miami,MI,private banking,11/09/2014,UNKNOWN
+500688,CUST500688,Andrew,Moore,"May 11, 2002",andrew.moore@yahoo.com,(869)533-3632,Houston,NY,Retail,05/12/2024,811
+500057,CUST500057,Blake,Hart,24/11/1990,blake.hart@yahoo.com,569-878-4649,Newark,IL,Small Business,2015-01-21,153
+500241,cust500241,Gary,Pearson,10/07/1998,gary.pearson@hotmail.com,+1-877-592-1796x1330,New York,OH,Private Banking,26-05-2026,825
+500354,CUST500354,Johnny,Miller,04/30/1971,johnny.miller@yahoo.com,935.236.1301x517,Atlanta,WA,Small Business,08/02/2017,623
+500725,CUST500725,Eddie,Smith,"Apr 26, 1939",eddie.smith@yahoo.com,,Philadelphia,WA,Small Business,2019-02-20,322
+500534,CUST500534,Dustin,Levy,"Apr 18, 1983",dustin.levy@gmail.com,446-529-9132,Philadelphia,PA,Small Business,02/19/2021,758
+500453,CUST500453,Ralph,Adams,06/13/1946,ralph.adams@hotmail.com,627.748.7043x837,Charlotte,OH,Retail,11/27/2024,607
+500106,CUST500106,Veronica,Cline,08-02-1971,veronica.cline@yahoo.com,001-346-217-9924x05326,Miami,NJ,Small Business,20210512,838
+500129,CUST500129,Melissa,Ramirez,12/18/1980,melissa.ramirez@yahoo.com,001-274-954-5688x965,Atlanta,CA,Small Business,05-12-2015,494
+500685,CUST500685,Matthew,Morton,12/12/1979,matthew.morton@gmail.com,285-292-2638,Chicago,TX,Retail,2019-09-06,300
+500617,CUST500617,Aaron,Anderson,19680205,aaron.anderson@hotmail.com,540.610.7075x709,Denver,TX,Private Banking,2020-04-14,431
+500475,CUST500475,Kelli,Holmes,1943-12-02,kelli.holmes@hotmail.com,9112446865,Seattle,GA,Small Business,04/03/2017,589
+500203,cust500203,henry,  Nielsen   ,"Jul 24, 1976",henry.nielsen@yahoo.com,943.382.2381,Charlotte,NY,Retail,20240222,365
+500485,CUST500485,Diane,Jones,06/03/1955,diane.jones@yahoo.com,001-441-311-7250x96738,New York,MI,Retail,2026-03-07,695
+500167,CUST500167,Morgan,Bishop,19410221,null,729-790-3257x5976,Columbus,FL,Private Banking,"Jul 11, 2018",391
+500565,CUST500565,Mallory,Griffin,"Oct 16, 1968",mallory.griffin@yahoo.com,637-935-0446,Philadelphia,CO,Small Business,"Jul 13, 2020",257
+500108,CUST500108,Nathan,Young,"Mar 20, 1988",nathan.young@yahoo.com,(208)500-4870x125,Seattle,NY,Small Business,"Aug 27, 2016",704
+500402,CUST500402,Matthew,Romero,1966-10-16,matthew.romero@yahoo.com,945.788.0569x4827,Atlanta,-,Small Business,"Aug 21, 2015",827
+500391,CUST500391,Ronald,Smith,20080413,ronald.smith@hotmail.com,+1-311-534-6365x97656,Atlanta,NC,Retaiil,2023-04-14,385
+500544,CUST500544,Charles,Arnold,09/21/2005,charles.arnold@gmail.com,888.654.0974,Newark,CA,Retail,14-11-2023,800
+500494,CUST500494,Savannah,Taylor,20000228,savannah.taylor@hotmail.com,+1-724-886-1766,Denver,CO,Private Banking,2015-02-21,534
+500268,CUST500268,Elizabeth,Wang,"Nov 30, 1944",elizabeth.wang@gmail.com,710-782-6961x797,Los Angeles,OH,Small Business,2017-04-03,677
+500098,CUST500098,Valerie,Garrison,15/07/1951,valerie.garrison@yahoo.com,3496372052,Boston,WA,Small Business,20160119,573
+500554,CUST500554,Howard,Wallace,23/03/1966,howard.wallace@hotmail.com,(514)621-7027,New York,FL,Retail,20240914,500
+500635,CUST500635,Jeremy,Johnson,"Oct 10, 1974",jeremy.johnson@gmail.com,null,Atlanta,IL,Private Banking,2019-12-20,680
+500487,CUST500487,Melissa,Campbell,19940508,melissa.campbell@hotmail.com,001-644-983-4065x5819,Chicago,PA,Small Business,12/05/2022,362
+500676,CUST500676,Anne,Stevens,03/16/1945,anne.stevens@hotmail.com,256-345-1511x8264,Newark,NY,Small Business,06-05-2023,825
+500602,CUST500602,Randall,Salinas,13-06-1975,randall.salinas@gmail.com,350.528.5219x2657,Denver,PA,Private Banking,29-09-2022,157
+500382,CUST500382,Megan,Hayden,1956-09-10,megan.hayden@hotmail.com,470-812-0681x551,nEW yORK,FL,Small Business,01/08/2019,677
+500562,CUST500562,Erin,berger,26-07-1962,erin.berger@yahoo.com,(844)266-9725x3812,Newark,MI,Retail,14/11/2020,348
+500036,CUST500036,TAMMY,BURNS,"Dec 10, 1940",tammy.burns@hotmail.com,273.213.2281x718,Phoenix,MA,Retail,08/09/2025,594
+500417,CUST500417,Jeff,Barry,19420312,jeff.barry@gmail.com,001-785-215-9014x6928,Newark,MI,Small Business,20211123,370
+500024,CUST500024,Margaret,Silva,12/10/2000,margaret.silva@hotmail.com,+1-531-900-2516x7800,Miami,NY,Small Business,"Sep 27, 2022",UNKNOWN
+500142,CUST500142,Stuart,Norton,N/A,stuart.norton@gmail.com,UNKNOWN,Denver,OH,Private Banking,2018-12-27,495
+500147,CUST500147,Shari,Rodriguez,1991-05-10,shari.rodriguez@gmail.com,001-390-831-0535,Houston,GA,Private Banking,31/05/2022,843
+500148,CUST500148,Heather,Long,05-03-1990,heather.long@yahoo.com,915.567.5878x03682,New York,AZ,Retail,20240623,632
+500207,CUST500207,Karen,Crawford,25-06-2003,karen.crawford@yahoo.com,649-298-1327x439,Newark,NY,Small Business,2015-09-17,215
+500027,CUST500027,Todd,Compton,"Nov 13, 1942",todd.compton@yahoo.com,684-977-7183x4170,Boston,WA,Retail,13/03/2017,339
+500125,CUST500125,Amy,Richardson,2000-09-15,amy.richardson@yahoo.com,740.435.3388x6960,Detroit,IL,Retail,22/03/2018,649
+500529,CUST500529,Jesse,Woods,28/01/1951,jesse.woods@hotmail.com,+1-692-605-9839x9788,Chicago,GA,Private Banking,2024-12-25,477
+500229,CUST500229,Meagan,Clarke,12/11/1996,meagan.clarke@yahoo.com,252-528-8642x35161,Denver,MI,Retail,05/15/2019,-
+500429,CUST500429,Joshua,Dyer,26-01-1994,joshua.dyer@gmail.com,001-336-400-8488x268,Chicago,TX,Private Banking,2018-03-29,N/A
+500088,CUST500088,Brian,Carey,"Sep 23, 2001",brian.carey@gmail.com,null,Denver,MA,Retail,12/12/2023,675
+500063,CUST500063,Barbara,  Ward   ,1991-06-04,barbara.ward@gmail.com,+1-604-884-4950x032,Denver,OH,Private Banking,20191115,278
+500598,CUST500598,Jacqueline,Freeman,14/03/1964,n/a,2467288941,Denver,WA,Private Banking,05-08-2023,558
+500498,CUST500498,Michelle,   Cannon   ,19750424,michelle.cannon@yahoo.com,551.411.6154x5840,Phoenix,MA,Private Banking,02/06/2023,653
+500255,CUST500255,Devon,French,19531221,null,+1-613-224-6033x36537,Boston,NJ,Privatee Banking,2018-12-19,393
+500306,CUST500306,Stephanie,Garrison,10/14/2007,stephanie.garrison@gmail.com,(261)396-4986,Seattle,NC,rETAIL,19-06-2020,325
+500265,CUST500265,Chad,Molina,22/05/1948,chad.molina@gmail.com,564.889.1737x89588,New York,CA,Private Banking,"Apr 02, 2016",521
+500073,cust500073,Daniel,Johnson,"Jun 27, 1997",daniel.johnson@hotmail.com,747-812-1345,Charlotte,WA,Retail,20240411,320
+500232,CUST500232,Erica,Proctor,27/02/1994,erica.proctor@hotmail.com,211.253.0727x48079,pHILADELPHIA,AZ,Private Banking,21-11-2018,392
+500158,CUST500158,Amy,Black,"Nov 16, 1966",amy.black@hotmail.com,(869)791-0594,Newark,MI,Small Business,21-12-2020,356
+500083,CUST500083,Patricia,Murphy,unknown,patricia.murphy@gmail.com,9485323851,Detroit,CA,Private Banking,07-07-2024,439
+500308,CUST500308,Samantha,  Hahn   ,14/06/2008,samantha.hahn@hotmail.com,001-447-756-7102x409,Houston,AZ,Private Banking,20190909,670
+500221,CUST500221,Stephanie,   Hunter   ,20071008,stephanie.hunter@gmail.com,(880)402-1379x4518,Houston,FL,Retail,11/10/2016,573
+500285,CUST500285,Oscar,Franco,10-05-1945,oscar.franco@yahoo.com,+1-705-725-2808x75773,Charlotte,PA,Small Business,"Jan 10, 2021",430
+500536,CUST500536,Corey,Mccormick,19750428,corey.mccormick@yahoo.com,001-400-218-2836x4312,Houston,OH,Retail,"Feb 12, 2024",null
+500572,CUST500572,Michele,Orozco,"Apr 02, 1977",michele.orozco@yahoo.com,519.935.6076x91382,Philadelphia,MI,Small Business,2023-08-10,624
+500542,CUST500542,Linda,Thompson,"May 10, 1999",linda.thompson@yahoo.com,+1-326-460-1600,Detroit,NULL,Small Business,20160421,825
+500086,CUST500086,Franklin,Noble,19/08/1940,franklin.noble@gmail.com,683.825.6748x2753,Detroit,CO,Retail,"Feb 12, 2024",751
+500356,CUST500356,Gregory,Russell,01-09-2000,gregory.russell@hotmail.com,null,Atlanta,MI,Small Business,2019-06-18,189
+500704,CUST500704,Donald,Poole,2002-12-15,donald.poole@gmail.com,913-240-5848x054,Columbus,FL,Small Business,2020-12-06,514
+500420,CUST500420,Tina,Petersen,19441226,tina.petersen@hotmail.com,488.393.2258x406,Chicago,null,Small Business,20250627,unknown
+500518,CUST500518,Jill,Adams,1976-01-18,jill.adams@hotmail.com,null,Boston,PA,Small Business,"Sep 15, 2014",632
+500377,CUST500377,Alexander,Reyes,"Sep 14, 1954",alexander.reyes@gmail.com,288.361.7161x7689,Columbus,NC,Retail,"Dec 31, 2021",708
+500082,CUST500082,Shawn,Edwards,19810620,shawn.edwards@yahoo.com,862.446.7709,New York,CO,Small Business,20151008,N/A
+500677,CUST500677,Corey,Turner,26/12/1950,NULL,721.661.7853,Miami,PA,Small Business,-,427
+500717,CUST500717,Joseph,Martin,05/18/1997,joseph.martin@yahoo.com,304.353.9165,Houston,AZ,Private Banking,23-04-2023,336
+500465,CUST500465,Nathaniel,Day,22/04/1956,nathaniel.day@yahoo.com,348.533.7427,Los Angeles,NJ,Small Business,"Jul 17, 2025",713
+500611,CUST500611,Teresa,Rodriguez,21-11-1951,teresa.rodriguez@yahoo.com,001-875-311-9194x8517,NEW YORK,null,Retail,15/12/2017,351
+500115,CUST500115,James,Miller,12/25/1941,james.miller@yahoo.com,001-242-732-9394x30186,Philadelphia,OH,rETAIL,2021-11-08,386
+500480,CUST500480,Andrew,   Bell   ,19371130,andrew.bell@yahoo.com,(405)353-1908x8753,New York,PA,Private Banking,03/30/2015,839
+500397,CUST500397,Kimberly,Higgins,08/12/1957,kimberly.higgins@hotmail.com,343.258.7956,Houston,PA,Retail,"May 15, 2017",491
+500065,CUST500065,Brianna,  Harris   ,02/24/1981,brianna.harris@gmail.com,6322711246,Philadelphia,NY,Retaail,2020-04-05,402
+500409,CUST500409,aNTHONY,Fields,"Nov 08, 1984",anthony.fields@yahoo.com,(950)466-0817x90627,Newark,NJ,Retail,"Oct 25, 2017",446
+500180,CUST500180,Anthony,Smith,05/19/1987,anthony.smith@yahoo.com,956.644.7392,Columbus,NY,Retail,26/06/2017,514
+500593,CUST500593,Debra,Wilson,19820723,debra.wilson@yahoo.com,2613788191,Detroit,IL,Small Business,09/27/2018,697
+500719,CUST500719,Taylor,White,21/01/2002,taylor.white@yahoo.com,(981)808-8131,Columbus,NJ,unknown,18-08-2025,627
+500483,CUST500483,  Charlene   ,Murphy,01/08/1990,charlene.murphy@yahoo.com,001-703-421-1986x571,Columbus,MA,RETAIL,20250627,424
+500293,CUST500293,Kara,Joseph,UNKNOWN,kara.joseph@yahoo.com,707.807.1186x25723,Chicago,NY,Small Business,20171107,654
+500678,CUST500678,Michael,Galvan,"Oct 21, 1957",michael.galvan@hotmail.com,+1-409-228-9759,New York,CA,retaail,2018-02-12,71
+500210,CUST500210,Nicholas,Alvarado,19470726,nicholas.alvarado@gmail.com,307-742-4113x12748,Miami,NC,Private Banking,16-08-2016,338
+500549,CUST500549,Toni,Holder,19610905,toni.holder@gmail.com,995.237.5695x08329,Newark,MI,Private Banking,20260104,573
+500452,CUST500452,Sarah,Cruz,07/04/1942,sarah.cruz@hotmail.com,570-819-0302,new york,CA,   Small Business   ,"Nov 12, 2015",293
+500648,CUST500648,Christina,Eaton,12-12-1948,christina.eaton@gmail.com,359.508.7377x2075,Columbus,OH,Retail,20190808,847
+500175,CUST500175,Laura,Miller,19800503,laura.miller@hotmail.com,(347)200-5950x6952,Seattle,WA,Private Banking,06/11/2023,671
+500386,CUST500386,Richard,White,28-09-1950,richard.white@gmail.com,361-223-7067,Miami,NY,Small Business,2025-09-19,163
+500672,CUST500672,Paul,Powell,2006-07-24,paul.powell@yahoo.com,(733)627-7381x7128,Philadelphia,TX,Private Banking,13-03-2023,540
+500524,CUST500524,Matthew,Harmon,19971228,matthew.harmon@hotmail.com,8987689444,Charlotte,OH,Private Banking,25-07-2023,821
+500330,CUST500330,Malik,Maldonado,03/11/1988,malik.maldonado@hotmail.com,275-715-3364x5048,New York,MI,Retail,2024-11-16,377
+500613,CUST500613,Michael,Young,10-11-1980,michael.young@yahoo.com,427-885-8526x87458,Phoenix,CA,Retail,"Dec 17, 2024",690
+500435,CUST500435,Justin,Smith,26/02/1966,NULL,(794)492-7774x6017,Chicago,OH,   Small Business   ,20250723,841
+500694,CUST500694,Michael,Wagner,1941-10-01,michael.wagner@yahoo.com,001-829-471-1204,Boston,CO,Retail,"Jul 30, 2020",370
+500284,CUST500284,Lori,Adams,1962-04-23,lori.adams@yahoo.com,(664)713-0693x0224,Philadelphia,OH,Private Banking,25/01/2019,344
+500312,CUST500312,Pamela,Melendez,2001-03-22,pamela.melendez@yahoo.com,001-351-787-9525,Boston,TX,Retail,20200313,511

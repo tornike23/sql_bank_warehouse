@@ -1,0 +1,19 @@
+branch_id,branch_name,city,state,manager_name,opened_date
+BR100,Seattle Downtown Branch,Seattle,WA,Chris Curtis,2012-07-17
+BR101,Detroit Plaza Branch,Detroit,MI,Holly Brown,03/14/2018
+BR102,Atlanta Main Branch,Atlanta,GA,  Jeffrey Jones   ,"Oct 12, 2012"
+BR103,Miami West Branch,Miami,FL,Ronald Martinez,07/03/2014
+BR104,Los Angeles Plaza Branch,Los Angeles,CA,Theresa Ray,20161004
+BR105,Boston Main Branch,Boston,MA,Amber Garrison,2015-05-15
+BR106,Detroit Main Branch,Detroit,MI,Bruce Parker,20220318
+BR107,Newark North Branch,Newark,NJ,Kevin Fowler,2016-06-11
+BR108,Houston West Branch,Houston,TX,Amy Brown,20140412
+BR109,Miami Downtown Branch,Miami,FL,Jessica Edwards,03/20/2019
+BR110,Columbus Plaza Branch,Columbus,OH,Elijah Bauer,20200908
+BR111,BOSTON WEST BRANCH,Boston,MA,   Kenneth Fox   ,24-12-2022
+BR112,Charlotte Main Branch,Charlotte,NC,Donna Baird,20130219
+BR113,  Denver North Branch   ,Denver,CO,Peter Hernandez,"Dec 16, 2017"
+BR114,Newark Main Branch,Newark,NJ,Michael Duran,"Jan 19, 2019"
+BR115,Philadelphia Plaza Branch,Philadelphia,PA,Emily Dominguez,05/01/2019
+BR116,Miami Plaza Branch,Miami,FL,Joy Larsen,19/11/2023
+BR117,  Seattle North Branch   ,Seattle,WA,Matthew Brown,20/09/2020

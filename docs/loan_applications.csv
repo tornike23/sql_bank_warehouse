@@ -1,0 +1,661 @@
+loan_id,customer_ref,loan_type,amount_requested,amount_approved,interest_rate,term_months,application_date,status,credit_score_at_application
+LN5221,500372,Auto Loan,261808.85,233130.39,8.35,UNKNOWN,20260522,Approved,708
+LN5080,500201,Business Loan,333723.1,,12.86,120,"Jun 28, 2024",Withdrawn,757
+ln5136,500456,Business Loan,285660.21,283975.3,9.94,48,17-05-2024,Approved,706
+LN5318,500667,Student Loan,66211.71,65690.32,n/a,24,2025-06-23,Approved,801
+LN5224,michael.blair@hotmail.com,Business Loan,313768.57,,9.33,24,20230906,Withdrawn,742
+LN5591,katherine.cook@yahoo.com,Personal Loan,51472.8,37202.9,11.88,48,2025-07-21,Approved,747
+LN5634,susan.conley@hotmail.com,Student Loan,221684.34,,4.92,360,28-11-2022,Denied,689
+LN5021,500464,Student Loan,18927.05,14832.93,9.0,60,28-06-2023,Approved,638
+LN5481,james.baker@yahoo.com,Mortgage,406484.06,,10.4,120,11-01-2023,Pending Review,744
+LN5553,500708,Personal Loan,31762.21,23653.72,7.02,24,"Dec 29, 2023",Approved,707
+LN5269,500587,Personal Loan,"$4,100.58",3545.67,13.02,360,09/21/2025,Approved,504
+LN5397,ronald.smith@hotmail.com,Mortgage,243317.89,202692.32,8.02,120,15/11/2022,Approved,null
+LN5309,virginia.powell@gmail.com,Business Loan,72150.16,63108.63,13.0,60,29/05/2024,Approved,791
+LN5207,500659,Personal Loan,61247.59,,5.2,360,"Jan 29, 2025",Pending Review,617
+LN5194,dylan.berry@gmail.com,Personal Loan,157685.75,152330.98,14.41,12,"Jun 24, 2024",Approved,827
+LN5323,500421,Auto Loan,50772.88,45824.7,7.51,12,2024-09-03,Approved,
+LN5471,500051,MORTGAGE,328724.87,,4.45,48,2023-11-22,Pending Review,783
+ln5220,jennifer.johnson@gmail.com,Mortgage,415996.08,353983.12,9.32,120,2024-04-02,Approved,775
+LN5580,500152,Personal Loan,68858.9,48758.25,13.4,12,2024-10-06,Approved,653
+LN5606,500583,Mortgage,328604.89,,6.56,36,04/02/2024,Pending Review,576
+LN5542,500219,Student Loan,118813.34,118398.13,5.32,12,20220924,Approved,756
+LN5321,500703,Mortgage,243766.23,191249.47,8.99,120,05/27/2025,Approved,644
+LN5393,seth.potter@hotmail.com,Business Loan,137456.73,,4.43,360,20260416,Pending Review,505
+LN5604,500412,Auto Loan,105482.26,,unknown,-,22/07/2023,Pending Review,607
+LN5155,500370,Student Loan,404514.69,,5.24,36,30-08-2023,Denied,658
+LN5398,renee.kerr@yahoo.com,Student Loan,74748.88 usd,"68,181.44",3.97,48,20230504,Approved,755
+LN5149,paula.allison@yahoo.com,Personal Loan,431653.94,,11.24,unknown,"Jan 14, 2026",Denied,690
+LN5545,500063,Personal Loan,80217.32,63651.29,12.96,36,"Sep 15, 2024",Approved,802
+LN5038,500717,Auto Loan,144821.83,,4.08,180,"Dec 17, 2023",Denied,709
+LN5264,500664,Mortgage,327041.98,258252.03,10.59,36,14/03/2026,Approved,517
+LN5253,500038,Business Loan,41065.33,,11.46,60,15/05/2025,Pending Review,N/A
+LN5512,   500735   ,Student Loan,425840.03,337353.71,3.56,24,05/15/2025,   Approved   ,813
+LN5581,margaret.silva@hotmail.com,Mortgage,294287.29,218436.2,4.85,360,2022-09-03,Approved,769
+LN5429,500133,Mortgage,"$101,460.01",98174.06,4.12,null,20230215,Approved,539
+LN5009,500254,Business Loan,57206.01,,5.81,120,20230120,Denied,501
+LN5161,500411,Auto Loan,432639.86,424633.6,7.68,180,27/04/2026,Approved,683
+LN5193,brent.grant@gmail.com,aUTO lOAN,418301.04,321575.31,6.69,24,11/05/2024,Approved,700
+LN5605,500217,Student Loan,60880.09,,10.4,24,"Mar 03, 2024",Denied,543
+LN5296,sarah.english@hotmail.com,Mortgage,74450.43,,9.82,120,07-03-2025,Denied,539
+LN5147,500419,Auto Loan,392295.63 usd,,13.01,36,2026-06-09,Withdrawn,unknown
+LN5024,500703,Business Loan,361377.95,341530.92,12.81,48,07/10/2025,Approved,571
+LN5345,500023,Personal Loan,155020.75,,NULL,36,08/10/2022,Denied,630
+LN5380,adam.fowler@gmail.com,NULL,394044.93,276897.68,5.25,24,20230816,Approved,692
+LN5474,500472,   Student Loan   ,279968.49,,4.15,360,2022-09-25,Pending Review,848
+LN5212,peter.brooks@hotmail.com,Business Loan,242422.59,,5.2,12,"May 27, 2024",Withdrawn,604
+LN5192,500013,Mortgage,250580.37,197065.07,7.67,48,07-11-2024,Approved,531
+LN5406,ashley.gonzales@gmail.com,Personal Loan,75675.81,75343.49,N/A,60,10-09-2025,Approved,575
+LN5346,500378,Student Loan,"$200,743.59",,3.89,48,"Jul 04, 2024",Denied,691
+LN5381,500707,Business Loan,397291.89,"299,087.33",8.07,12,"May 06, 2024",Approved,526
+LN5331,matthew.arnold@gmail.com,aUTO lOAN,182492.37,168633.72,7.43,60,03/06/2023,Approved,660
+LN5578,500505,Mortgage,131474.56,118028.32,13.55,48,2026-06-13,Approved,798
+ln5307,500440,PERSONAL LOAN,262712.18,211336.78,10.22,180,n/a,Approved,782
+ln5445,angela.perez@hotmail.com,   Auto Loan   ,156011.3,,13.27,360,20250505,Pending Review,699
+LN5324,500746,Student Loan,110122.47,85431.65,8.18,24,03/24/2026,Approved,794
+LN5217,debra.frost@yahoo.com,Student Loan,422984.83,393541.79,7.9,180,11/10/2022,Approved,647
+LN5206,500065,Student Loan,241556.26,171941.65,N/A,12,20241202,Approved,774
+LN5014,500208,Personal Loan,414258.89,,12.52,360,"Jan 01, 2024",Pending Review,802
+LN5338,ronald.brown@yahoo.com,Mortgage,292509.15,,13.32,36,07/02/2025,Denied,741
+LN5313,jason.buchanan@hotmail.com,Mortgage,178970.06,166402.06,7.45,36,2024-04-27,Approved,591
+LN5572,500021,Personal Loan,166353.35,,4.27,120,2025-10-05,Pending Review,533
+LN5148,500330,Student Loan,27066.95 usd,24837.18,13.6,180,03/01/2024,Approved,791
+ln5208,500663,Auto Loan,349904.33,,8.07,360,08/03/2023,Denied,705
+LN5062,500603,Auto Loan,"366,662.64",277420.03,14.65,120,2025-07-24,Approved,758
+LN5251,500518,Auto Loan,287834.2,208516.1,9.91,12,05/28/2026,Approved,780
+LN5368,500579,Personal Loan,154620.51,139841.88,6.45,12,19/06/2025,Approved,590
+LN5443,marcus.harris@gmail.com,Business Loan,26156.43,22153.21,12.41,24,"May 02, 2025",Approved,672
+LN5006,500544,Mortgage,282328.16,,6.24,360,25/03/2024,Denied,691
+LN5428,adam.gonzalez@yahoo.com,Business Loan,65413.36,52443.99,10.6,60,02/21/2023,Approved,827
+LN5182,500407,Business Loan,342286.58,,6.72,12,20251013,Pending Review,631
+LN5466,heather.mason@gmail.com,Business Loan,150331.85,107983.5,5.15,N/A,22/12/2022,Approved,745
+LN5369,500095,Auto Loan,139070.39,129821.38,12.28,48,16-09-2022,Approved,816
+LN5283,andrew.martin@hotmail.com,Business Loan,328627.16,,10.78,48,2025-01-04,Denied,N/A
+LN5292,jordan.andrews@yahoo.com,Auto Loan,100164.59,96652.75,5.48,60,2024-08-26,Approved,531
+LN5168,500608,Personal Loan,225086.42,184680.17,8.37,48,25-01-2024,Approved,592
+LN5250,500691,Student Loan,171623.45,"$164,565.21",5.16,180,28/12/2024,Approved,732
+   LN5503   ,500567,Auto Loan,146328.18,146167.76,13.49,N/A,20260301,Approved,642
+LN5272,500546,Student Loan,290982.24,,10.43,360,2022-09-14,Pending Review,784
+LN5526,500621,Business Loan,318188.05,,6.6,48,04/01/2025,Pending Review,560
+ln5277,500717,Personal Loan,269209.75,,7.08,120,2025-06-26,Withdrawn,843
+LN5563,500184,Mortgage,302248.61,267818.12,5.15,48,"May 22, 2024",Approved,804
+LN5167,500497,Personal Loan,187653.52,,9.32,24,2023-01-24,Withdrawn,737
+LN5493,500020,Student Loan,110471.94,,7.52,N/A,31-05-2023,Pending Review,725
+LN5529,adam.fowler@gmail.com,Auto Loan,241787.59,192501.4,9.45,120,27/05/2023,Approved,581
+LN5360,500032,Personal Loan,241638.3,,4.66,N/A,2024-02-25,Denied,669
+LN5400,mary.reeves@gmail.com,Mortgage,364415.61,,14.42,36,20240917,Denied,727
+LN5013,500248,pERSONAL lOAN,133236.08,,5.14,360,06/30/2024,Denied,691
+LN5222,500652,Personal Loan,283961.9,,N/A,24,21-02-2023,Denied,678
+LN5235,500668,Mortgage,NULL,,8.78,12,2024-03-08,Pending Review,731
+LN5536,500091,Mortgage,29809.12,,13.41,120,"May 16, 2025",Withdrawn,593
+LN5175,500134,Student Loan,82866.93,76054.85,12.64,48,2024-02-16,Approved,652
+LN5409,500421,Auto Loan,399575.91,368380.9,9.17,12,01/03/2026,Approved,832
+LN5267,steven.ferguson@gmail.com,Mortgage,241962.67,171909.43,5.9,60,20260323,Approved,697
+LN5186,alyssa.franco@gmail.com,Mortgage,394235.21,343957.66,6.15,360,08/05/2024,Approved,758
+LN5036,500018,Personal Loan,441033.53,,4.74,180,2023-10-14,Denied,551
+LN5599,500185,Business Loan,87829.73,71319.84,9.47,36,2023-10-02,Approved,580
+LN5616,500667,STUDENT LOAN,346940.08,299289.98,10.45,12,2023-03-26,Approved,647
+LN5097,500055,Auto Loan,359029.98,,9.83,36,06/05/2024,Withdrawn,605
+LN5068,500439,Auto Loan,200605.72,149772.89,12.85,360,11/15/2024,Approved,624
+LN5141,500363,Business Loan,100485.26,77170.52,7.59,12,01-05-2026,Approved,UNKNOWN
+LN5229,500673,Student Loan,140768.91,140700.38,10.74,36,04/22/2025,Approved,555
+LN5396,kathryn.stone@hotmail.com,Personal Loan,440222.25,402070.19,6.94,180,22-03-2023,Approved,734
+LN5297,500668,n/a,123889.15,"100,284.70",4.97,360,03-09-2025,Approved,568
+LN5446,colleen.turner@gmail.com,Business Loan,262372.19,243230.34,4.89,180,2023-07-03,Approved,796
+LN5414,500096,Student Loan,77307.17,73889.92,4.95,180,25/01/2024,Approved,765
+LN5042,500493,Mortgage,56294.26,,10.14,180,25/12/2025,Denied,711
+LN5120,500403,Student Loan,181217.37,,7.4,48,2025-01-17,Denied,559
+LN5075,500566,Personal Loan,368674.52,297887.77,7.03,120,"Nov 12, 2025",Approved,754
+LN5645,DEBRA.EVANS@GMAIL.COM,Mortgage,46794.0,,8.4,180,"Nov 01, 2022",Withdrawn,794
+LN5584,laura.vega@yahoo.com,NULL,76133.44,57280.65,4.01,180,20221021,Approved,658
+LN5248,500390,Auto Loan,2578.56,,14.88,60,"Apr 03, 2023",Pending Review,740
+ln5615,500177,Auto Loan,199404.82,140822.14,12.67,48,04-06-2026,Approved,767
+LN5371,500248,Student Loan,17322.56,,11.07,24,05-06-2024,Pending Review,839
+LN5577,500667,Business Loan,186271.32,,10.68,180,11/13/2024,  Denied   ,UNKNOWN
+LN5262,500438,Mortgage,272905.65,,4.88,180,15/04/2024,Pending Review,n/a
+LN5255,500341,Mortgage,396533.73,,6.64,36,2024-08-01,Denied,692
+LN5370,500253,Mortgage,56829.66,,10.61,36,21/05/2023,Pending Review,786
+LN5590,500272,Business Loan,35949.55,,7.56,36,20/03/2024,Withdrawn,518
+LN5084,500160,Business Loan,326482.77,"248,071.79",9.02,36,20251128,Approved,531
+LN5003,500158,Business Loan,82816.11,73436.58,7.1,36,20260725,  Approved   ,567
+LN5484,500649,Auto Loan,66071.07,58957.09,8.46,36,13-08-2022,Approved,842
+LN5448,aaron.wise@gmail.com,Student Loan,367238.99,301198.21,14.69,12,15-04-2025,Approved,UNKNOWN
+LN5227,michael.robertson@hotmail.com,Student Loan,"5,577.04",5497.03,9.4,36,2023-03-04,Approved,743
+LN5562,holly.chandler@gmail.com,Mortgage,65068.88,,7.45,24,19-01-2025,Denied,766
+LN5115,elizabeth.martin@yahoo.com,Business Loan,415971.25,340420.88,7.92,24,"Apr 28, 2026",   Approved   ,522
+LN5270,jennifer.smith@yahoo.com,Mortgage,27923.93,26153.27,4.12,120,"Dec 31, 2024",Approved,561
+LN5103,gavin.sanchez@yahoo.com,Student Loan,364190.11,267375.98,14.57,unknown,2022-09-18,Approved,849
+ln5327,500293,Personal Loan,30534.89,,12.19,48,"May 30, 2023",Pending Review,741
+LN5090,EDWARD.ANDREWS@YAHOO.COM,Mortgage,152617.58,143070.99,6.36,360,07/06/2023,Approved,523
+LN5560,500614,Auto Loan,357621.01,,3.68,60,20240518,Denied,608
+LN5621,500289,Student Loan,68760.73,56393.92,12.07,360,20260319,Approved,685
+LN5392,michael.case@gmail.com,Mortgage,437317.71,343239.16,8.65,120,2024-06-21,Approved,690
+LN5480,500027,Personal Loan,30080.75,,7.61,36,20221213,Pending Review,529
+LN5354,500002,Business Loan,"$224,607.94",185509.5,8.03,48,18-09-2025,Approved,611
+LN5556,debra.gross@gmail.com,Student Loan,320028.71,,6.13,360,02/18/2026,Denied,845
+LN5246,kevin.madden@gmail.com,Student Loan,unknown,113515.37,8.67,36,09/11/2025,Approved,689
+LN5091,500092,Student Loan,74141.1,62422.35,10.72,12,08-01-2024,Approved,634
+LN5643,500196,Auto Loan,294681.38,231102.17,6.22,360,"Jun 26, 2026",Approved,790
+LN5541,500748,Auto Loan,40147.35,,13.29,180,20221229,Denied,657
+LN5089,500005,Business Loan,253071.23,,14.32,360,2024-10-24,Pending Review,727
+LN5555,500362,mORTGAGE,406001.8,399235.56,12.34,48,20240831,Approved,536
+LN5011,500508,Personal Loan,322056.16,,6.94,36,20230924,Denied,801
+LN5239,500439,Student Loan,79934.06,66097.93,4.55,60,22/12/2023,Approved,534
+LN5431,blake.rivers@yahoo.com,Mortgage,n/a,,13.15,36,-,Pending Review,741
+LN5112,500090,Student Loan,147147.83,,6.84,36,"Oct 08, 2023",Denied,821
+LN5087,500181,Personal Loan,293605.26,,6.18,60,08/22/2023,Denied,764
+LN5106,500050,Business Loan,168226.73,151365.61,10.96,12,22-02-2024,   Approved   ,718
+LN5174,500709,Business Loan,42755.01,,11.1,48,07/13/2025,Denied,735
+LN5437,500233,Student Loan,37926.62,,7.94,180,17/03/2023,Denied,788
+LN5185,blake.rivers@yahoo.com,Auto Loan,"$357,689.23",,12.66,120,01/09/2026,Denied,589
+LN5285,500088,Student Loan,276995.02,228388.13,11.89,120,07/11/2024,Approved,597
+LN5427,500259,Personal Loan,231488.01,224236.03,6.37,360,07/31/2024,Approved,826
+LN5311,phillip.evans@hotmail.com,Personal Loan,303296.59,214509.67,13.3,24,12/02/2025,Approved,516
+LN5280,500265,Personal Loan,244137.99,177567.54,10.57,180,"Apr 20, 2023",Approved,501
+LN5573,ashley.martinez@gmail.com,Mortgage,195380.61,161083.36,9.28,N/A,2022-08-24,approved,803
+LN5092,rebekah.jordan@gmail.com,Auto Loan,74719.28,,,48,20240702,Denied,791
+LN5375,500655,Student Loan,169571.02,133081.84,14.1,48,"Oct 11, 2025",Approved,635
+LN5263,grace.mcgrath@hotmail.com,Business Loan,246041.31,239969.31,13.99,180,"Oct 09, 2022",Approved,614
+LN5157,500059,Personal Loan,291339.55,,8.13,12,"Dec 02, 2024",Withdrawn,576
+LN5027,500415,Student Loan,58988.93,,13.33,36,20-04-2026,Denied,789
+LN5442,500599,Business Loan,276515.9,,10.09,24,01/18/2023,Withdrawn,651
+LN5625,diane.neal@hotmail.com,Student Loan,4496.33,3360.63,8.3,120,03/20/2025,Approved,705
+LN5524,500131,Business Loan,159737.71,144040.39,3.91,48,"Oct 15, 2022",Approved,739
+LN5352,500365,Student Loan,236747.41,,9.8,360,29-08-2023,Pending Review,842
+LN5334,500221,Business Loan,"$403,118.12",330568.34,null,24,20240602,Approved,586
+LN5099,500670,Student Loan,294733.81,267730.46,7.48,120,2024-07-12,Approved,729
+LN5570,MATTHEW.HARMON@HOTMAIL.COM,Business Loan,183382.7,,5.13,360,"Dec 12, 2022",Withdrawn,NULL
+LN5467,calvin.johnson@yahoo.com,Business Loan,378193.64,,8.07,24,23-04-2026,Pending Review,594
+LN5642,500698,Student Loan,120799.95,,14.38,120,20231204,Withdrawn,676
+LN5257,500469,Business Loan,72226.83,59810.36,7.92,48,14/10/2023,Approved,846
+LN5423,500429,Business Loan,273681.17,,4.47,48,08-04-2023,Withdrawn,612
+LN5308,500185,Business Loan,404346.16,,10.22,n/a,29-11-2023,Withdrawn,711
+LN5207,500659,Personal Loan,61247.59,,5.2,360,"Jan 29, 2025",Pending Review,617
+LN5391,500403,Business Loan,308473.88,267949.12,9.21,24,"Apr 11, 2024",Approved,695
+LN5236,pamela.melendez@yahoo.com,Student Loan,231586.4,,12.83,,20230208,Denied,744
+LN5205,kelly.carey@yahoo.com,Business Loan,236466.12,193610.68 usd,11.38,360,12/29/2025,Approved,813
+LN5107,500746,STUDENT LOAN,193704.03,136093.01,12.8,12,31/08/2025,Approved,605
+LN5388,500625,Student Loan,60358.17,43316.68,5.65,12,20231125,Approved,555
+LN5620,500000,Student Loan,226348.65,,3.53,24,"Jan 22, 2023",Denied,825
+LN5240,500670,Business Loan,151749.36,,9.71,24,2023-12-16,Pending Review,599
+ln5072,NATHANIEL.DAY@YAHOO.COM,Business Loan,157944.54,,14.2,n/a,20240311,Pending Review,716
+LN5568,500524,Mortgage,422462.95,,13.41,24,2023-06-17,Withdrawn,745
+LN5019,500367,Business Loan,263792.13,234238.36,4.12,48,2023-01-12,Approved,517
+LN5225,500518,NULL,140626.36,,11.05,36,04/01/2024,PENDING REVIEW,645
+LN5325,500008,Mortgage,206682.09,,6.43,180,"Feb 05, 2026",Denied,626
+LN5007,500313,Personal Loan,427349.15,334984.84,6.63,360,20230131,Approved,616
+LN5586,shawn.miller@hotmail.com,PERSONAL LOAN,227909.76,226433.6,12.31,60,02/04/2024,Approved,535
+LN5426,500195,Personal Loan,427839.2,334221.68,5.44,12,02/28/2023,Approved,759
+LN5365,500579,Business Loan,282508.38,,11.53,60,03/03/2024,pending review,792
+LN5383,500022,Personal Loan,89160.27,83040.21,10.0,48,20250227,Approved,644
+LN5390,500608,Business Loan,210426.14,208716.28,9.25,36,11-05-2023,Approved,690
+LN5158,500357,Personal Loan,308825.64,,9.36,360,16-11-2025,Denied,813
+LN5101,500198,  Auto Loan   ,372448.52,,9.54,360,20240201,Pending Review,663
+LN5023,500378,Mortgage,367718.34,304074.59,8.78,48,13-08-2024,Approved,815
+LN5165,500041,Student Loan,412679.95,,10.21,24,"Aug 14, 2024",Denied,796
+LN5102,500559,Business Loan,329022.54,283495.85,6.69,48,"Jun 02, 2026",Approved,680
+LN5374,500355,Student Loan,158930.21,158811.89,13.13,36,"Jan 16, 2023",Approved,598
+LN5339,500603,Business Loan,417650.1,,5.78,60,08/04/2023,Denied,534
+LN5451,lisa.smith@yahoo.com,Auto Loan,214584.43,152242.22,14.06,180,09/28/2022,Approved,601
+LN5465,500019,Personal Loan,120851.57,120093.55,11.49,36,20250125,Approved,821
+LN5528,500738,Business Loan,371724.46,345789.27,12.31,48,22-12-2023,Approved,518
+LN5395,jim.jordan@yahoo.com,Auto Loan,57573.33,43237.82,7.25,180,"Sep 07, 2024",Approved,801
+LN5463,500167,Business Loan,321262.23,,UNKNOWN,48,"Dec 12, 2025",Pending Review,683
+LN5347,sean.mcdonald@hotmail.com,Mortgage,171679.07,"$139,875.78",14.76,36,20241116,Approved,N/A
+LN5100,500136,Business Loan,17547.57,,13.86,12,27/10/2025,Withdrawn,781
+LN5216,500643,Mortgage,null,,14.37,60,11-09-2022,Denied,501
+LN5105,500743,Personal Loan,"$53,063.42",38658.16,8.81,60,2025-03-04,Approved,762
+LN5143,500439,Personal Loan,430439.18,,4.56,12,20231229,Denied,663
+LN5258,500167,Business Loan,202747.32,175752.96,5.63,12,10/03/2022,Approved,687
+LN5373,500035,Student Loan,262660.31,255295.03,11.67,48,2023-06-25,Approved,582
+LN5438,samuel.keller@hotmail.com,Student Loan,172257.13,136950.67,13.81,12,23/12/2025,Approved,605
+LN5525,500045,Personal Loan,282017.24,201939.74,10.72,120,01/10/2026,Approved,725
+LN5108,500723,Business Loan,"154,307.04",133929.85,14.42,120,2025-07-05,Approved,768
+LN5404,500336,Business Loan,"$375,161.40",369561.34,6.92,360,07-01-2026,Approved,703
+LN5083,500474,Mortgage,"$434,475.45",394948.48,,360,09/16/2025,   Approved   ,586
+LN5410,ashlee.taylor@gmail.com,Auto Loan,441420.07,,3.66,60,20260429,Withdrawn,738
+LN5639,500045,Personal Loan,unknown,,13.73,60,24/01/2026,Denied,665
+LN5386,lindsay.roberts@gmail.com,Mortgage,218659.7,195774.02,3.69,48,"Nov 12, 2022",Approved,678
+LN5073,500341,Personal Loan,219848.3,199136.14,6.2,48,20240318,Approved,UNKNOWN
+LN5508,500559,Mortgage,295301.67,225704.63,4.59,36,07/09/2023,Approved,746
+LN5113,500117,Mortgage,147595.4,,7.5,unknown,05-01-2026,Denied,685
+LN5123,500407,Mortgage,38545.78,33022.39,3.79,24,06/09/2023,Approved,823
+LN5626,500515,Business Loan,428977.43,,6.68,24,20241229,Withdrawn,559
+LN5173,500481,Personal Loan,65612.76,53750.47,5.0,48,"May 02, 2023",Approved,742
+LN5111,500407,Student Loan,181827.86,137225.85,7.59,120,13-01-2024,  Approved   ,727
+LN5178,500548,Mortgage,329342.14,,3.74,120,20250310,Pending Review,830
+LN5035,tiffany.curtis@hotmail.com,Auto Loan,265021.57,,7.3,36,2022-11-19,Pending Review,540
+LN5507,500402,Business Loan,200650.64,,6.45,36,20240328,Denied,
+LN5170,500363,Auto Loan,364340.6,,5.85,60,2022-08-24,Withdrawn,510
+LN5153,500353,Auto Loan,309378.22,241311.5,5.67,12,"Oct 02, 2024",Approved,507
+LN5340,500363,Business Loan,59847.26,,5.19,12,22-08-2025,Denied,698
+LN5142,500255,Personal Loan,N/A,295819.89,11.08,48,10-07-2024,Approved,805
+LN5245,misty.green@yahoo.com,Student Loan,283278.36,,12.55,12,20251231,Pending Review,741
+LN5527,nathaniel.lutz@yahoo.com,Business Loan,N/A,,9.94,60,21-05-2026,Withdrawn,791
+LN5439,500210,Personal Loan,70228.58,70126.77,10.09,120,01-11-2023,Approved,596
+ln5046,  eric.cain@hotmail.com   ,Business Loan,"117,553.45",82376.09,14.57,120,20230926,approved,821
+LN5518,500664,Auto Loan,250738.11,,8.78,120,20260505,Denied,830
+LN5238,kimberly.higgins@hotmail.com,Student Loan,203216.78,,3.57,180,24-11-2025,Withdrawn,573
+LN5132,mary.walters@hotmail.com,Auto Loan,"$331,807.08",295191.33,6.91,36,08/22/2023,Approved,793
+LN5382,isabel.wolfe@yahoo.com,Student Loan,315382.48,,6.57,24,2025-01-09,Pending Review,586
+LN5326,betty.garcia@gmail.com,Auto Loan,"$92,358.24",,9.71,48,07/12/2026,Withdrawn,776
+LN5502,valerie.lee@gmail.com,Business Loan,338239.2,,6.49,60,2026-01-24,Withdrawn,849
+LN5197,500724,Auto Loan,105588.37,94424.67,9.06,12,01/14/2024,Approved,781
+LN5176,500070,Personal Loan,376628.51,,11.01,24,02/25/2024,Withdrawn,541
+LN5416,500086,Mortgage,111196.62,"91,083.36",13.09,24,2023-08-06,Approved,538
+LN5609,500309,Student Loan,334789.42,297953.67,7.59,120,07/01/2026,Approved,677
+LN5441,500689,Auto Loan,422764.99,,13.59,48,01/20/2023,Pending Review,778
+LN5098,veronica.cline@yahoo.com,Student Loan,,,13.64,48,20240410,Pending Review,704
+LN5415,john.lawrence@hotmail.com,Mortgage,N/A,117990.7,10.34,120,13/06/2024,Approved,510
+   ln5150   ,500348,Business Loan,56834.33,44463.79,10.65,36,20/07/2026,Approved,764
+LN5510,500488,Business Loan,269261.6,234680.35,4.39,36,01/31/2025,Approved,562
+LN5458,500329,Mortgage,52320.71,,12.97,180,2026-03-28,Denied,749
+LN5328,michele.orozco@yahoo.com,Auto Loan,217528.05,194266.17,4.64,60,20260121,Approved,716
+LN5026,ashley.harrington@hotmail.com,Personal Loan,214387.55,,4.07,60,20241204,Denied,556
+LN5094,kimberly.hernandez@hotmail.com,Mortgage,179785.78,,13.97,60,12/22/2022,Pending Review,670
+LN5367,500470,Personal Loan,383314.8,292932.93,8.45,60,29-03-2026,Approved,836
+LN5629,500237,Business Loan,315781.94,279379.36,6.61,48,13/06/2024,Approved,595
+LN5408,500648,Mortgage,385973.68,,9.8,360,13/08/2025,Denied,726
+LN5610,500288,Personal Loan,50025.65,,9.82,120,2023-01-26,Pending Review,848
+LN5151,500030,Business Loan,379658.75,340238.44,7.25,12,20220906,Approved,534
+LN5276,500215,Personal Loan,369823.67,,4.54,60,20230915,Denied,516
+LN5628,500451,Mortgage,296810.63,,12.38,48,03-05-2024,Pending Review,679
+LN5081,500540,Mortgage,437932.41,,5.2,36,"Sep 23, 2023",Withdrawn,524
+ln5226,500509,Personal Loan,244827.15,,3.6,360,20230221,Pending Review,750
+LN5613,jason.oconnor@hotmail.com,Auto Loan,189017.86,145686.6,13.96,60,"Nov 15, 2024",Approved,724
+LN5532,dale.fuller@yahoo.com,Mortgage,241063.44,198748.08,10.57,180,"Jul 18, 2024",Approved,654
+LN5535,500691,Business Loan,106316.5,82286.83,5.73,60,20240819,Approved,754
+LN5289,500091,Business Loan,393485.73,334170.46,4.8,24,06/19/2025,Approved,518
+LN5469,henry.nielsen@yahoo.com,Auto Loan,"438,608.45",427991.83,9.27,48,"Oct 21, 2022",Approved,651
+LN5543,500351,Auto Loan,118124.49,104499.16,6.45,36,"Nov 09, 2024",Approved,510
+LN5217,debra.frost@yahoo.com,Student Loan,422984.83,393541.79,7.9,180,11/10/2022,Approved,647
+LN5468,500053,Student Loan,132605.67,95958.42,11.62,48,10/25/2023,Approved,780
+LN5096,500045,Student Loan,189588.18,162110.44,14.31,60,10/11/2025,Approved,unknown
+LN5363,heather.wood@yahoo.com,Personal Loan,364652.41,297474.16,12.73,24,24-08-2022,Approved,578
+LN5279,500524,Personal Loan,344772.32,279829.61,14.32,360,2025-03-05,Approved,510
+LN5640,500698,  Student Loan   ,379841.73,,3.53,180,"Dec 11, 2024",Denied,805
+ln5601,charles.merritt@hotmail.com,Business Loan,45669.03,35725.29,12.1,60,20250526,Approved,528
+LN5223,500695,Personal Loan,389007.04,,14.53,180,2023-06-07,Pending Review,615
+LN5598,500577,Student Loan,109246.21,80243.05,6.69,120,01/03/2024,Approved,501
+LN5242,  500072   ,Business Loan,46816.08,,11.11,360,20230810,   Denied   ,537
+LN5350,500352,Mortgage,434999.75,,13.62,24,"Sep 08, 2024",Pending Review,712
+LN5497,tammy.watkins@hotmail.com,Mortgage,279846.57,240499.12,9.67,60,2023-06-15,aPPROVED,755
+LN5589,500622,Student Loan,222609.12,188545.1,14.36,120,04/07/2025,Approved,545
+LN5302,500133,Business Loan,382624.58,345518.3,9.81,60,"Jul 29, 2026",Approved,661
+LN5602,james.morrison@gmail.com,Auto Loan,423102.05,,13.39,360,2023-02-08,Pending Review,591
+ln5104,ashlee.taylor@gmail.com,aUTO lOAN,357228.62,,13.14,12,05/20/2025,Denied,516
+LN5418,jeffery.miles@hotmail.com,-,389204.72,,12.41,360,03-01-2024,Pending Review,785
+LN5505,peter.brooks@hotmail.com,Student Loan,440519.37,,5.13,60,31/12/2025,Pending Review,603
+LN5137,500335,,414026.23,,4.21,-,13-04-2025,Withdrawn,780
+LN5587,500136,Student Loan,396495.33,,6.45,48,30/07/2024,Denied,652
+LN5077,500233,Auto Loan,361193.79,303092.97,6.61,12,06/29/2026,Approved,595
+LN5485,brenda.manning@yahoo.com,Mortgage,83384.31,70898.93,10.77,48,06/07/2026,Approved,793
+LN5523,lynn.ferguson@yahoo.com,Student Loan,76578.87,55174.47 usd,5.83,24,"Nov 03, 2025",Approved,749
+LN5387,500614,Business Loan,NULL,,14.26,60,16-10-2022,Withdrawn,790
+LN5477,500501,Personal Loan,25457.25,"$24,329.99",10.17,180,2025-07-14,Approved,509
+LN5456,500308,Student Loan,302827.23,296793.09,10.37,24,06/05/2023,Approved,839
+LN5650,500673,Student Loan,89500.02,71811.78,12.06,48,20240530,Approved,678
+LN5513,500345,Mortgage,240115.24,203362.18,12.46,60,20221024,APPROVED,603
+LN5029,blake.rivers@yahoo.com,Business Loan,145698.89,110721.53,9.12,60,"Jun 07, 2025",Approved,UNKNOWN
+LN5243,500533,Student Loan,318021.36,271099.77,9.04,12,08/06/2023,Approved,792
+LN5430,pamela.jones@gmail.com,Personal Loan,272065.83,,12.26,36,05/28/2026,Withdrawn,624
+LN5138,500130,Auto Loan,84167.72,,10.06,60,02-11-2022,Denied,595
+LN5130,ryan.dixon@gmail.com,Business Loan,290452.23,,-,60,2025-11-18,Denied,786
+LN5297,500668,n/a,123889.15,"100,284.70",4.97,360,03-09-2025,Approved,568
+LN5444,jason.jones@gmail.com,Student Loan,127553.58,,12.06,36,20251011,Denied,650
+LN5135,samuel.keller@hotmail.com,Business Loan,173632.42,,3.61,360,28-05-2025,Pending Review,544
+LN5204,500073,Student Loan,178556.27,161924.31,12.68,24,2025-01-25,Approved,836
+ln5074,500312,Mortgage,20293.78,15676.62,5.59,12,"Jan 18, 2025",Approved,746
+LN5028,500229,Student Loan,175769.5,,5.66,360,27/02/2023,Denied,626
+LN5566,500031,Mortgage,119634.53,107525.84,13.53,120,20240916,Approved,808
+LN5449,500577,Business Loan,154525.15,125425.75,14.49,48,01/19/2026,Approved,534
+LN5131,500202,Personal Loan,258435.34,238127.45,7.64,120,20250806,Approved,747
+LN5499,cameron.frost@yahoo.com,  Personal Loan   ,363274.85,,10.44,36,20251119,Denied,713
+LN5548,500668,Business Loan,275428.72,232127.69,6.16,60,2022-10-23,Approved,527
+LN5417,500396,Student Loan,215696.92,,5.15,120,06/01/2026,Withdrawn,709
+LN5040,500299,Mortgage,121232.3,96795.81,3.86,60,04/12/2024,Approved,588
+LN5179,james.collins@hotmail.com,Personal Loan,328504.7,,10.7,360,07/01/2025,Pending Review,613
+LN5348,500630,Mortgage,40826.82,,13.15,12,"Aug 07, 2026",Withdrawn,545
+LN5571,500650,Personal Loan,159376.74,127197.6,13.99,360,15/07/2024,Approved,721
+LN5495,amy.black@hotmail.com,Mortgage,125829.7 usd,,12.71,120,2026-07-13,Withdrawn,715
+LN5256,500215,Student Loan,261399.0,256777.82,5.34,60,08/18/2023,Approved,680
+ln5534,benjamin.french@gmail.com,Mortgage,198921.15,,14.05,180,20260619,Pending Review,632
+LN5065,500343,Business Loan,136526.95,,12.33,120,2024-05-01,Pending Review,850
+LN5402,   timothy.hancock@hotmail.com   ,Student Loan,337979.89,,6.2,36,2022-09-18,Denied,554
+LN5171,julie.knight@gmail.com,Auto Loan,64816.39,,10.47,24,"May 14, 2024",Withdrawn,686
+LN5010,zachary.smith@gmail.com,Student Loan,151267.63,130148.61,5.13,360,2024-10-13,Approved,687
+LN5554,500570,Business Loan,81481.27,72864.53,6.6,60,01/04/2024,Approved,574
+LN5366,500281,Auto Loan,277466.87,,6.65,24,2026-07-06,Pending Review,752
+LN5394,robert.price@gmail.com,Student Loan,441681.88,386934.61,6.33,360,2023-02-21,Approved,607
+LN5399,noah.sweeney@hotmail.com,Auto Loan,44939.55,,11.05,360,20230401,Pending Review,628
+LN5332,500296,Personal Loan,214708.0,163599.0,9.67,24,11/15/2022,Approved,583
+LN5389,500052,Auto Loan,129025.0,,8.23,36,20250811,Denied,603
+LN5284,mary.williams@hotmail.com,Mortgage,420625.5 usd,316319.82,6.51,60,01/09/2024,Approved,570
+ln5638,500668,Business Loan,8269.85,,3.64,24,-,Withdrawn,618
+LN5413,500044,Mortgage,129799.95,,14.18,48,2022-11-27,Denied,695
+LN5184,500659,Personal Loan,170498.48,,5.97,n/a,02-06-2023,Denied,790
+LN5361,500420,Student Loan,133240.34,103536.26,4.36,60,02/06/2026,Approved,792
+LN5641,500451,Mortgage,193286.33,,8.78,60,11/24/2023,Denied,797
+LN5496,500524,Mortgage,373726.19,344819.66 usd,3.74,360,20250507,Approved,704
+LN5575,500325,Mortgage,329431.2,,5.31,360,2023-02-10,Denied,n/a
+LN5082,christine.ellis@yahoo.com,Auto Loan,281941.02,251817.9,11.81,24,13-02-2026,Approved,728
+LN5574,michael.case@gmail.com,Business Loan,413017.98,,6.44,24,"Nov 19, 2024",Pending Review,615
+LN5452,500182,Student Loan,99911.06,98726.12,14.59,360,15-08-2023,Approved,555
+LN5312,patrick.romero@yahoo.com,Mortgage,null,213711.74,8.68,24,26-04-2024,APPROVED,687
+LN5095,catherine.martin@hotmail.com,Business Loan,120624.29,119612.38,9.95,36,20260223,Approved,802
+LN5247,jennifer.mcintyre@gmail.com,Auto Loan,38525.55,34484.22,10.57,36,06/01/2025,Approved,597
+LN5310,patrick.romero@yahoo.com,Mortgage,173179.05,167849.41,,48,20230529,Approved,unknown
+LN5187,alyssa.jones@gmail.com,mortgage,,,13.94,12,05-10-2022,Pending Review,n/a
+LN5344,gabrielle.riley@yahoo.com,Mortgage,108479.97,95455.69,8.07,60,2026-03-10,Approved,612
+ln5358,500004,Mortgage,179338.27 usd,128950.85,6.41,120,20240820,Approved,777
+LN5317,renee.todd@yahoo.com,Personal Loan,116576.12,"92,897.42",9.13,180,17-02-2025,Approved,638
+LN5440,500326,Personal Loan,345687.83,270207.22,6.46,36,05-08-2023,Approved,633
+LN5219,500117,Personal Loan,14180.51,12015.72,9.67,120,"Mar 25, 2026",Approved,826
+LN5144,william.miller@gmail.com,Personal Loan,53933.24,38674.32,5.16,36,10-01-2024,Approved,608
+LN5118,500635,Personal Loan,348576.06,,5.62,180,30/06/2023,Denied,728
+LN5172,ronald.smith@hotmail.com,Auto Loan,183403.56,166365.99,4.36,60,10-02-2023,Approved,850
+LN5420,500675,Personal Loan,185182.52,176186.1,14.3,180,22-04-2023,Approved,650
+LN5617,500007,Student Loan,"$348,698.19",348439.26,13.99,48,25/04/2023,Approved,843
+LN5475,aaron.wise@gmail.com,Auto Loan,428025.25,,14.62,60,20260523,Pending Review,721
+LN5282,VICKI.GARCIA@YAHOO.COM,Mortgage,98684.32,73874.37,9.38,360,"Aug 19, 2025",Approved,671
+LN5275,casey.johnson@gmail.com,  Personal Loan   ,148748.71,126361.21,7.92,120,07-04-2026,Approved,541
+LN5378,500305,Personal Loan,171249.68,"141,208.05",6.01,120,02/04/2023,Approved,624
+LN5129,500022,Business Loan,123293.12,105164.85,12.42,-,2026-01-27,Approved,664
+LN5088,michael.martin@hotmail.com,Student Loan,259173.49,,9.75,120,24/09/2022,Withdrawn,515
+LN5637,500524,Personal Loan,247127.84,230806.14,6.92,360,26/02/2023,aPPROVED,512
+LN5498,500134,Auto Loan,369355.38,,11.54,360,17-10-2024,Pending Review,547
+LN5159,sherry.arias@hotmail.com,Personal Loan,76604.31,,8.08,120,05/07/2023,Pending Review,618
+LN5595,500084,Student Loan,28308.23,"25,936.56",7.95,12,19/05/2026,Approved,507
+LN5300,500538,Auto Loan,306347.42,221391.15,10.87,120,08/29/2023,approved,839
+LN5078,500477,-,179693.25,168388.67,3.75,360,20240603,Approved,784
+LN5295,500479,Auto Loan,32283.35 usd,,11.35,36,12/06/2022,Pending Review,744
+LN5401,500516,Mortgage,"358,397.61",254202.82,5.08,60,28-01-2026,Approved,700
+LN5644,500664,Auto Loan,329527.05,,5.6,12,2024-02-29,Pending Review,806
+LN5434,500341,Student Loan,295992.61,,9.31,360,2025-06-15,Pending Review,756
+LN5547,500528,Student Loan,317697.68,,13.72,24,25/04/2023,Withdrawn,812
+ln5425,donna.roman@gmail.com,Student Loan,362804.96,,6.36,36,"Feb 08, 2023",Denied,797
+LN5336,taylor.glenn@hotmail.com,Mortgage,260540.71,,10.78,null,25/10/2024,Denied,553
+LN5196,500239,Student Loan,231741.02,196763.77,6.24,36,03/24/2025,Approved,536
+LN5163,lori.adams@yahoo.com,Personal Loan,161506.95,117909.58,11.38,120,2025-11-11,Approved,746
+LN5037,500725,Personal Loan,448875.25,426162.27,11.62,12,20250210,Approved,680
+LN5117,bradley.park@hotmail.com,Mortgage,346477.2,,9.8,120,01/21/2023,  Pending Review   ,514
+LN5488,christine.ellis@yahoo.com,Personal Loan,442423.29,,12.18,12,18/09/2025,Withdrawn,589
+ln5190,500387,Student Loan,61399.23,,4.23,36,2023-11-29,Withdrawn,785
+LN5109,casey.johnson@gmail.com,UNKNOWN,91189.55,74128.9,13.01,12,15/12/2022,Approved,819
+LN5086,500604,Personal Loan,269449.82,190791.46,14.22,180,12/07/2022,Approved,698
+LN5139,christopher.oliver@yahoo.com,Student Loan,265198.77,,5.45,180,19/03/2024,Withdrawn,542
+LN5284,mary.williams@hotmail.com,Mortgage,420625.5 usd,316319.82,6.51,60,01/09/2024,Approved,570
+LN5030,500257,Auto Loan,270914.39,,7.09,180,"Jun 27, 2025",Denied,573
+LN5286,courtney.fletcher@yahoo.com,Mortgage,68239.75,52024.55,9.83,60,01/09/2024,Approved,841
+LN5134,500310,Personal Loan,267848.26,,9.06,180,01/27/2023,Pending Review,n/a
+LN5177,500639,Mortgage,null,,6.9,24,11/11/2024,Pending Review,689
+LN5181,500629,AUTO LOAN,342327.25,287717.05,11.75,180,"Oct 26, 2023",Approved,786
+LN5249,linda.thompson@yahoo.com,Personal Loan,413510.93,354849.17,9.33,180,21-09-2024,Approved,673
+LN5294,500388,Student Loan,111021.77,,7.24,360,20240815,Pending Review,543
+LN5551,500437,Business Loan,420037.94,336266.03,9.12,12,26/07/2024,Approved,755
+LN5085,500271,Personal Loan,112882.48,102189.17,8.38,60,"Dec 09, 2023",Approved,584
+LN5008,TYRONE.CRAIG@HOTMAIL.COM,Business Loan,341771.42,240004.01,5.48,12,2023-10-10,Approved,601
+LN5290,500065,Student Loan,"$278,609.44",264798.22,6.28,120,2022-09-10,Approved,646
+LN5353,500501,Student Loan,134283.44,129343.03 usd,n/a,24,16/09/2024,Approved,642
+LN5549,blake.rivers@yahoo.com,Personal Loan,400803.26,386392.94,10.29,24,04/01/2025,Approved,763
+LN5335,SARAH.WHITE@HOTMAIL.COM,Auto Loan,74702.98,54140.68,6.27,36,04/26/2025,Approved,550
+LN5278,julie.knight@gmail.com,Auto Loan,332553.91,264438.2,10.03,24,07/12/2024,  Approved   ,605
+LN5064,500339,Mortgage,383124.75,313863.36,7.3,24,17/07/2026,Approved,508
+LN5234,500162,Student Loan,206171.16,186007.28,9.97,48,08-11-2022,approved,668
+LN5124,gary.davidson@yahoo.com,Auto Loan,152607.95,,4.94,60,11-11-2023,Pending Review,780
+LN5455,500395,Business Loan,148283.27,112415.48 usd,3.99,36,02/01/2024,Approved,848
+LN5559,jennifer.carey@yahoo.com,Auto Loan,24412.13,,null,360,24/06/2025,Pending Review,643
+LN5500,troy.brown@gmail.com,Auto Loan,117106.96,,7.02,36,07/08/2026,Pending Review,768
+LN5154,500692,Auto Loan,443525.85,,4.56,12,20230412,Pending Review,772
+LN5066,tiffany.allen@gmail.com,Personal Loan,136187.59,,12.75,36,"Jul 03, 2023",Pending Review,845
+LN5379,regina.kennedy@yahoo.com,Personal Loan,64639.29,57462.7,14.59,48,07/21/2026,Approved,515
+LN5180,500700,Auto Loan,58094.37,,-,12,04-04-2024,Denied,609
+LN5582,500111,Student Loan,226465.55,172339.32,9.46,120,01-01-2023,Approved,unknown
+LN5012,jessica.schmidt@gmail.com,Mortgage,,,4.81,36,21/06/2023,Withdrawn,626
+LN5630,500531,Student Loan,122694.9,,7.53,60,"Nov 23, 2025",Denied,780
+LN5362,500061,Mortgage,107688.92,"84,274.87",5.9,60,02/10/2022,Approved,654
+LN5093,500681,Student Loan,4481.99,4350.44,7.59,24,20251007,Approved,840
+LN5033,michael.johnson@hotmail.com,Student Loan,397618.81,300562.95,n/a,36,20260530,Approved,850
+LN5049,500290,Personal Loan,418121.12,378767.23,13.08,360,20250508,Approved,651
+LN5022,henry.nielsen@yahoo.com,Personal Loan,5540.31,,11.21,60,04-08-2026,Denied,524
+LN5039,jason.jones@gmail.com,Student Loan,409576.09,302014.01,8.36,60,"Dec 14, 2022",Approved,657
+LN5584,laura.vega@yahoo.com,NULL,76133.44,57280.65,4.01,180,20221021,Approved,658
+LN5121,500532,Business Loan,22489.66,,8.82,360,"Jun 07, 2026",Denied,NULL
+LN5494,tina.elliott@yahoo.com,Mortgage,206396.91,,7.42,60,20251213,Denied,564
+LN5459,500366,Business Loan,225875.2,218528.07,5.05,120,09/21/2024,Approved,797
+LN5052,michael.wagner@yahoo.com,Personal Loan,30896.13,28107.75,10.23,48,2023-04-07,Approved,565
+LN5063,evan.schmidt@yahoo.com,Personal Loan,400504.9,380979.83,11.17,180,"Apr 25, 2025",Approved,751
+LN5530,debra.gross@gmail.com,Auto Loan,409355.82,293913.15,5.92,180,20240914,Approved,804
+ln5464,500702,Student Loan,235772.55,,N/A,60,04/26/2024,Withdrawn,727
+ln5215,isabella.nguyen@gmail.com,Mortgage,430583.9,382922.04,7.67,24,20260624,Approved,null
+ln5213,500096,Personal Loan,205129.76,176475.98 usd,5.89,60,20240221,Approved,654
+LN5305,500170,Personal Loan,160530.34,,9.09,180,N/A,Pending Review,824
+LN5320,500667,Student Loan,343233.58,310226.61,5.5,48,"Sep 04, 2023",Approved,710
+LN5058,michael.thompson@yahoo.com,Personal Loan,116735.11,,7.29,60,"Dec 25, 2025",Pending Review,743
+LN5169,jacqueline.stanley@hotmail.com,Mortgage,313404.43,,6.93,60,14-09-2022,Denied,674
+LN5538,500738,Auto Loan,303079.1,,13.04,12,17/01/2023,Pending Review,723
+LN5228,bethany.prince@yahoo.com,Business Loan,286989.3,261514.13,11.22,24,20241008,Approved,576
+LN5478,savannah.taylor@hotmail.com,Auto Loan,50705.19,43473.09,4.57,48,10/24/2025,Approved,708
+LN5504,500136,Student Loan,147268.74,,5.55,120,14/01/2023,Withdrawn,776
+LN5487,joshua.golden@gmail.com,Student Loan,449002.96,326256.49 usd,NULL,12,05/07/2025,Approved,544
+LN5044,500398,Student Loan,277383.51,,13.86,60,02-06-2023,Denied,780
+LN5128,500708,Mortgage,276803.69,,11.12,360,05/23/2024,Pending Review,548
+LN5450,500262,Business Loan,435479.02,,8.87,120,"Jun 26, 2023",Pending Review,666
+LN5274,500078,Student Loan,422044.13,381440.82,5.5,36,13/07/2024,Approved,573
+LN5342,500529,Student Loan,16233.34,14409.37,3.85,48,05/07/2025,Approved,653
+LN5209,500366,Student Loan,20978.54,16608.71,11.92,24,20260608,Approved,786
+LN5293,500596,Student Loan,94295.92,67282.98,11.29,60,2024-05-27,Approved,548
+ln5241,troy.brown@gmail.com,Student Loan,230167.98,217392.98,8.8,12,20251109,Approved,616
+LN5490,andrew.bryant@hotmail.com,Student Loan,293841.49,242264.96,7.98,36,04-12-2025,Approved,502
+LN5454,500157,Mortgage,203447.16,190879.19,4.21,36,25-09-2023,Approved,610
+LN5053,500205,Business Loan,23309.25,17698.14,5.94,48,08/09/2022,Approved,unknown
+LN5076,meghan.johnson@gmail.com,Business Loan,145085.18,,11.61,12,06/29/2024,Withdrawn,786
+LN5166,zachary.flowers@hotmail.com,n/a,405195.61,389419.52,7.38,180,02/22/2024,Approved,629
+LN5447,500526,Personal Loan,261923.96,198678.63,14.84,36,22/06/2025,Approved,763
+LN5522,cody.arnold@yahoo.com,Student Loan,132087.59,,3.86,36,08-08-2024,Denied,797
+LN5314,500282,Business Loan,328504.71,279447.43,13.19,48,13/09/2025,Approved,675
+LN5583,rebekah.jordan@gmail.com,Business Loan,428072.2,387436.14,8.13,180,20231126,Approved,605
+LN5633,500042,Auto Loan,35626.21,,11.61,180,12/15/2022,Pending Review,624
+LN5596,brandy.ayers@gmail.com,Mortgage,160684.5,,13.59,12,09/07/2024,Denied,573
+LN5188,500061,Student Loan,134097.47,,10.02,180,25/01/2024,Pending Review,601
+LN5301,500550,Auto Loan,165150.16,159415.13,6.98,48,20240121,Approved,523
+LN5576,500491,Student Loan,146602.28,130421.63,n/a,180,05-08-2026,Approved,623
+LN5550,500166,Mortgage,243405.36,229590.37,6.29,48,20240630,Approved,623
+LN5457,michael.case@gmail.com,Personal Loan,212992.8,171530.93,6.71,24,2023-02-18,Approved,588
+LN5531,500575,   Mortgage   ,398098.3,379553.43,13.2,48,20-06-2026,Approved,599
+LN5299,fred.powell@hotmail.com,Personal Loan,50207.14,,5.66,12,29/07/2024,Pending Review,522
+LN5329,joseph.martin@yahoo.com,Business Loan,158028.06,116756.7,7.41,48,2024-06-20,Approved,574
+LN5209,500366,Student Loan,20978.54,16608.71,11.92,24,20260608,Approved,786
+LN5519,500449,Business Loan,404302.43,,5.27,360,15/10/2025,Pending Review,740
+LN5603,eric.york@yahoo.com,Auto Loan,155911.43,,5.04,120,2023-06-02,Withdrawn,705
+LN5054,500749,Personal Loan,139016.62,,13.42,12,13-07-2024,Pending Review,600
+LN5244,500703,  Personal Loan   ,345134.4,,5.45,180,30/05/2023,Denied,519
+LN5535,500691,Business Loan,106316.5,82286.83,5.73,60,20240819,Approved,754
+ln5254,500340,Mortgage,317710.73,,13.36,36,29/04/2026,Pending Review,560
+LN5195,500193,Personal Loan,374902.44,327020.56,7.19,null,04-11-2023,Approved,649
+LN5201,john.sheppard@gmail.com,Business Loan,187657.11,,4.8,36,"Oct 18, 2023",Denied,756
+LN5489,500242,Mortgage,274266.71,199590.44,7.83,360,12/13/2025,Approved,644
+LN5514,500547,Auto Loan,unknown,75758.96,10.41,180,12/09/2023,Approved,537
+LN5315,500446,Business Loan,403481.52,,5.04,24,28/05/2025,DENIED,787
+LN5517,500057,Student Loan,217302.28,170869.83,7.87,60,23/03/2025,Approved,765
+LN5337,500433,Student Loan,7510.75,5657.81,8.63,12,08-09-2022,Approved,766
+LN5218,500662,Personal Loan,"229,192.27",,10.11,12,14-01-2024,Denied,560
+LN5579,500323,Mortgage,333058.35,272230.23,10.11,60,2025-07-18,Approved,603
+LN5303,500632,Student Loan,34447.57,,7.23,24,05/03/2026,Denied,750
+LN5648,500537,Mortgage,286876.72,,9.16,36,"Aug 28, 2024",Denied,597
+LN5005,500568,Business Loan,273938.75,,9.32,24,2023-10-14,Withdrawn,817
+LN5546,500486,Personal Loan,,,4.88,12,14/10/2025,Withdrawn,807
+LN5041,500140,Business Loan,371491.56,,7.82,36,07/29/2025,Pending Review,736
+LN5119,500527,Personal Loan,154329.65,,3.85,12,"Apr 07, 2023",  Denied   ,509
+ln5203,noah.rodriguez@yahoo.com,Mortgage,277975.99,,13.28,60,11/10/2022,Denied,836
+LN5614,500385,Personal Loan,19632.42,,13.68,36,06/03/2025,Denied,706
+LN5506,500669,Personal Loan,305971.44,271968.07,11.85,180,20251113,Approved,782
+ln5162,brad.jones@yahoo.com,Auto Loan,101084.29,99519.74,12.27,48,2023-07-03,Approved,536
+LN5146,james.roach@yahoo.com,Student Loan,348923.12,282259.37,4.52,12,20260729,APPROVED,766
+LN5202,kyle.garner@hotmail.com,Personal Loan,29050.92,24258.63,4.78,120,05/30/2023,Approved,685
+LN5618,500207,Auto Loan,216481.36,,10.22,180,2022-09-22,Pending Review,634
+LN5183,500269,Mortgage,259800.2,184271.4,4.97,60,15/05/2025,Approved,810
+LN5608,500635,Mortgage,129026.91,93883.18,6.86,60,2022-12-29,Approved,581
+LN5095,catherine.martin@hotmail.com,Business Loan,120624.29,119612.38,9.95,36,20260223,Approved,802
+LN5287,500433,Student Loan,366999.5,327752.21,unknown,180,20230510,Approved,696
+LN5647,500718,Auto Loan,25488.98,18606.18,3.57,48,09/02/2022,Approved,800
+LN5405,500547,,19086.9,19001.94,3.66,180,2026-05-27,Approved,850
+LN5364,lauren.parks@gmail.com,Student Loan,359948.26,,14.01,180,2025-10-03,Withdrawn,680
+LN5432,TIMOTHY.HOLLAND@HOTMAIL.COM,Student Loan,372948.1,,unknown,36,02-10-2024,Withdrawn,666
+LN5537,holly.mcdowell@hotmail.com,Student Loan,168883.64,168102.16,12.04,180,17-12-2023,Approved,799
+LN5198,500159,Auto Loan,320783.74,,N/A,60,05/09/2025,Withdrawn,
+LN5160,500624,Business Loan,428098.83,353891.79,10.7,60,"Nov 12, 2023",Approved,572
+LN5122,500604,Business Loan,299218.48,224943.29,13.21,180,"Oct 23, 2025",Approved,791
+LN5486,500142,Business Loan,381979.21,,11.32,UNKNOWN,"Dec 20, 2025",Pending Review,677
+LN5273,500292,Personal Loan,304418.46,225727.97,n/a,24,20260512,Approved,709
+LN5020,charles.butler@gmail.com,null,145456.21,,4.73,360,20250106,Denied,790
+LN5199,jim.butler@hotmail.com,Personal Loan,129525.01,,14.41,12,22-05-2023,Pending Review,539
+LN5145,jennifer.lee@gmail.com,mortgage,104555.37,77220.72,5.53,120,20250328,Approved,771
+LN5265,500095,Business Loan,203707.44,202796.59,8.01,180,04-01-2025,Approved,845
+LN5357,katrina.berry@yahoo.com,Mortgage,70684.9,,7.81,180,"Jun 03, 2025",Denied,751
+LN5412,marie.juarez@yahoo.com,Business Loan,307196.71,,12.2,180,05/05/2024,Denied,548
+LN5051,500035,Auto Loan,177900.9,,3.73,36,02/10/2024,Pending Review,
+LN5230,500063,Student Loan,377317.76,,11.45,12,"Mar 21, 2023",   Pending Review   ,645
+LN5636,500250,personal loan,439288.07,435686.39,7.09,24,"Feb 09, 2025",Approved,678
+LN5261,500101,Personal Loan,267576.4,,9.75,60,22-07-2024,Pending Review,541
+LN5017,500678,Personal Loan,131285.99,,8.4,12,"Nov 02, 2024",Denied,634
+LN5557,500164,Business Loan,-,,8.26,12,10/26/2022,Denied,781
+LN5233,christine.mendez@hotmail.com,Student Loan,422265.56,408090.54,7.51,360,2025-10-13,Approved,762
+LN5569,500082,Mortgage,375314.09,334443.83,11.18,48,20240703,Approved,738
+LN5592,eric.thomas@yahoo.com,Personal Loan,9505.93,8933.89,4.09,120,2023-07-16,Approved,732
+LN5069,matthew.hubbard@gmail.com,Mortgage,84091.0,,6.98,360,20220910,Denied,696
+LN5470,alyssa.cunningham@gmail.com,Auto Loan,139353.21,,14.63,180,09/20/2025,Denied,656
+LN5385,500604,Student Loan,N/A,,n/a,180,19/03/2024,Withdrawn,622
+LN5356,500268,Auto Loan,416929.7,368993.99,6.31,180,20250307,Approved,664
+LN5585,john.green@hotmail.com,Student Loan,55278.4,42576.14,12.82,12,20260611,Approved,710
+LN5359,alexander.larsen@yahoo.com,Student Loan,193884.23,158865.22,5.75,12,24-03-2023,Approved,747
+LN5646,500146,Business Loan,142424.9,108888.74,14.12,180,20240410,Approved,632
+LN5594,500007,   Mortgage   ,213371.35,"$169,362.03",13.64,120,20230809,Approved,812
+LN5461,tyrone.craig@hotmail.com,Business Loan,345179.93,282702.54,10.94,N/A,20230811,Approved,727
+LN5540,500472,Mortgage,28652.55,21557.82,8.45,60,20250111,Approved,676
+LN5421,500490,Mortgage,122041.65,118376.7,11.52,60,"Mar 02, 2025",Approved,628
+LN5060,sarah.cruz@yahoo.com,Mortgage,71271.47,60305.2,13.53,60,NULL,Approved,776
+LN5565,500584,Personal Loan,UNKNOWN,28059.75,4.7,12,20230111,Approved,747
+LN5330,500568,Business Loan,30268.16,29619.17,14.23,120,30/11/2025,Approved,747
+ln5057,500201,Student Loan,28852.31,24772.83,14.7,24,05/12/2026,Approved,618
+LN5453,jacob.baldwin@hotmail.com,Business Loan,318466.03,,14.84,12,13-05-2026,Pending Review,539
+LN5627,500035,Mortgage,231136.55,,7.78,48,27/05/2025,Pending Review,685
+LN5266,500153,Auto Loan,363738.08,304994.37,11.11,180,N/A,   Approved   ,506
+LN5004,brittany.bradley@hotmail.com,Personal Loan,112073.9,,5.58,48,2023-05-26,Pending Review,771
+LN5511,500491,Personal Loan,270601.89,265760.62,10.47,360,05/28/2025,Approved,520
+LN5211,500647,Business Loan,149288.09,108798.08,4.94,12,05/05/2023,Approved,510
+LN5623,matthew.romero@yahoo.com,Personal Loan,267585.26,218703.79,8.18,360,11/12/2022,Approved,827
+LN5384,500653,Auto Loan,373124.99,,8.39,120,30/12/2025,Withdrawn,623
+LN5343,500269,Student Loan,25387.83,24046.9,5.25,48,09/18/2022,Approved,549
+LN5435,amanda.gray@yahoo.com,Mortgage,306976.15,,12.7,36,20240225,Denied,534
+LN5291,500373,AUTO LOAN,388080.22,,7.86,48,01/04/2023,Denied,739
+LN5619,charles.arnold@gmail.com,Personal Loan,84500.25,,9.31,48,07/05/2025,Pending Review,844
+LN5597,christopher.mcintosh@yahoo.com,Business Loan,108644.9,79228.88,8.26,24,"Apr 12, 2024",Approved,679
+LN5210,taylor.smith@hotmail.com,unknown,25700.22,,11.47,120,31/05/2023,Denied,509
+LN5509,500471,Auto Loan,281457.97,255922.83,14.88,60,2023-02-15,Approved,538
+LN5152,500388,Business Loan,212983.32,,4.76,48,20230818,Pending Review,512
+LN5043,amber.jones@hotmail.com,Mortgage,378006.74,335344.35,11.18,12,08/13/2024,Approved,508
+LN5436,500231,Mortgage,412753.03,381253.14,8.68,36,2025-01-14,Approved,677
+ln5189,500535,Student Loan,239745.1,195244.85,5.09,48,03-03-2023,Approved,577
+LN5232,500738,Personal Loan,320539.86,,7.98,360,07/30/2025,Pending Review,652
+LN5281,michelle.cannon@yahoo.com,Auto Loan,175073.35,135641.66,14.19,60,2025-11-03,Approved,794
+LN5611,500633,Auto Loan,196334.56,,14.6,180,30-11-2025,Denied,581
+LN5140,JOSHUA.BISHOP@GMAIL.COM,Student Loan,4909.73,,12.09,180,20250603,denied,826
+LN5001,500534,Mortgage,"402,881.25",,8.24,24,03/02/2025,Denied,533
+LN5462,amanda.scott@hotmail.com,Student Loan,156706.96 usd,,13.47,60,01-01-2025,Denied,603
+   LN5533   ,corey.ramirez@hotmail.com,Mortgage,401581.88,,-,120,UNKNOWN,Withdrawn,544
+LN5552,cody.arnold@yahoo.com,Mortgage,35647.72,31467.78,3.82,12,2026-01-08,Approved,556
+LN5419,gina.lynch@yahoo.com,Mortgage,249348.67,,14.83,12,2024-09-18,Withdrawn,595
+LN5516,500145,Personal Loan,262681.46,,6.77,24,2023-11-11,Withdrawn,709
+LN5567,500260,Personal Loan,167997.07,167055.23,11.57,180,05/01/2023,Approved,N/A
+LN5539,500021,Mortgage,385084.77,338488.4,8.2,unknown,"Mar 23, 2024",Approved,709
+LN5544,500687,Auto Loan,329860.66,325262.99,9.37,60,"Feb 18, 2026",Approved,601
+LN5492,500440,Student Loan,371859.21,276001.65,5.27,120,2026-05-05,Approved,757
+LN5341,500225,MORTGAGE,281083.32,232172.04,9.06,180,2024-05-14,APPROVED,644
+LN5126,500213,Business Loan,217846.37,,5.49,24,2024-12-14,Pending Review,564
+LN5252,500026,Auto Loan,77675.38,,8.47,48,11/07/2025,Pending Review,unknown
+LN5422,   oscar.evans@yahoo.com   ,Business Loan,257965.15,204166.93,10.49,120,26/04/2026,Approved,760
+LN5304,500505,Business Loan,340168.54,273167.5,14.19,360,2025-10-26,aPPROVED,621
+LN5114,500541,Business Loan,48133.8,44248.51,8.16,360,2025-05-23,Approved,731
+LN5521,500038,Business Loan,266480.66,,14.78,360,2023-05-25,Denied,722
+LN5433,500129,Auto Loan,n/a,252505.83,5.02,120,20260329,Approved,596
+LN5612,500020,Student Loan,328267.7,,11.81,180,2025-10-12,   Denied   ,587
+LN5231,500183,Mortgage,388401.0,312829.64,10.84,180,30/12/2022,Approved,515
+LN5322,susan.conley@hotmail.com,Business Loan,419281.73,,5.62,12,03/02/2023,Pending Review,528
+LN5079,jon.copeland@gmail.com,Auto Loan,"$317,978.36",254785.29,11.23,180,20231027,Approved,572
+LN5127,andrew.graham@gmail.com,Mortgage,247403.72,191574.17,5.89,36,2024-06-06,Approved,573
+LN5061,500556,sTUDENT lOAN,366493.78,,13.96,48,"Oct 12, 2024",Withdrawn,640
+LN5031,500549,Auto Loan,254746.56,,6.34,12,15/10/2025,Pending Review,790
+LN5070,500447,Personal Loan,87630.73,87048.93,13.02,180,01-10-2024,Approved,570
+LN5424,500153,unknown,440918.25,,3.82,180,20231221,Withdrawn,532
+LN5515,500718,Auto Loan,270906.54,,6.94,24,2023-04-09,Denied,683
+LN5259,500703,Business Loan,247916.55,,5.37,24,"Sep 29, 2023",Withdrawn,583
+LN5376,500028,Mortgage,N/A,,11.23,360,2025-12-12,Withdrawn,564
+LN5116,500398,Personal Loan,192116.16,155543.91,8.11,60,20260216,Approved,702
+LN5588,500268,Mortgage,35130.19,,6.89,24,22-10-2024,Withdrawn,523
+LN5355,500406,Mortgage,363125.46 usd,,13.53,60,2023-04-17,Withdrawn,564
+LN5268,500312,Mortgage,4171.43,,7.7,360,20221224,Pending Review,548
+LN5045,500053,Mortgage,unknown,234489.56,7.9,36,20230316,Approved,665
+LN5472,angela.dixon@yahoo.com,Personal Loan,163188.3,153665.53,7.01,24,"Oct 14, 2024",Approved,842
+LN5050,500433,Business Loan,187276.53,,9.26,60,"Jun 21, 2024",Pending Review,674
+LN5067,500431,   Mortgage   ,297677.85,263704.62,-,180,2025-12-06,Approved,575
+LN5191,500681,Business Loan,4905.19,,8.44,120,11/21/2024,Denied,752
+LN5048,500287,pERSONAL lOAN,NULL,364317.94,10.37,24,2023-09-26,Approved,725
+LN5600,500143,Auto Loan,42477.43,30217.08,7.76,60,2023-04-03,Approved,831
+LN5133,michelle.clark@yahoo.com,UNKNOWN,414199.7,365463.28,4.32,24,27/09/2024,Approved,539
+LN5520,500376,Auto Loan,"$267,951.99",,null,120,20-01-2023,Pending Review,837
+LN5483,seth.potter@hotmail.com,Personal Loan,431408.56,396672.09,,180,2023-04-06,Approved,530
+LN5624,500487,Auto Loan,305044.37,,10.76,360,21/02/2025,Denied,774
+LN5298,500484,Personal Loan,372839.55,372486.99,12.76,12,"May 08, 2025",Approved,603
+LN5032,adam.fowler@gmail.com,Student Loan,164670.23,155849.27,null,12,27/04/2024,Approved,n/a
+LN5561,500312,Business Loan,95399.15,,4.26,120,07/04/2023,Denied,749
+LN5607,500326,Mortgage,424140.27,301543.74 usd,4.25,60,20230809,Approved,652
+LN5047,500698,Student Loan,190060.77,,5.45,120,24-08-2023,Withdrawn,500
+LN5016,500632,Personal Loan,272040.29,,9.05,24,"Jun 08, 2026",Pending Review,547
+LN5482,500140,Business Loan,278495.1,,12.76,48,20230313,Denied,590
+LN5316,matthew.padilla@yahoo.com,Mortgage,433720.95,,13.27,120,"Apr 24, 2024",Denied,828
+LN5649,bianca.allen@yahoo.com,Business Loan,56423.55,,N/A,60,2025-12-23,Denied,722
+LN5156,500657,Personal Loan,266162.28,251073.08,12.45,120,18/09/2023,Approved,812
+LN5164,500485,Student Loan,114377.05,80338.87,13.32,48,26-11-2022,Approved,679
+LN5200,500735,Personal Loan,415546.05,359922.87,5.03,120,19/08/2022,Approved,729
+LN5479,500413,Auto Loan,343443.21,,7.1,null,05/02/2025,Denied,617
+LN5015,500534,Auto Loan,339920.3,279044.87,3.63,24,02/21/2026,Approved,625
+LN5407,jacob.baldwin@hotmail.com,Student Loan,445757.94,401286.79,10.27,24,"Jun 11, 2024",APPROVED,504
+ln5220,jennifer.johnson@gmail.com,Mortgage,415996.08,353983.12,9.32,120,2024-04-02,Approved,775
+LN5034,matthew.wilkinson@gmail.com,Auto Loan,59273.81,56987.43,6.0,120,11/05/2024,Approved,718
+LN5351,500477,Auto Loan,212198.32,184410.64,6.9,48,16/02/2024,Approved,721
+LN5411,500384,Mortgage,260144.85,,4.26,60,2024-02-23,Pending Review,668
+ln5110,500714,Auto Loan,232446.94,,11.16,36,"May 03, 2023",Denied,unknown
+LN5237,500714,Student Loan,35137.27,,9.12,12,25/05/2023,Denied,564
+LN5476,bryan.smith@hotmail.com,Auto Loan,119511.05,,10.17,12,01/22/2024,Pending Review,758
+LN5377,william.powell@yahoo.com,Mortgage,217474.21,,14.76,24,"Aug 18, 2024",Withdrawn,701
+LN5002,500516,n/a,341202.76,304543.92,12.79,48,20/09/2023,Approved,626
+LN5622,500749,Student Loan,353503.36,,12.48,360,"Jan 26, 2025",Withdrawn,685
+LN5025,james.collins@hotmail.com,Business Loan,97080.17,,4.12,36,25/05/2023,Denied,714
+LN5491,bobby.peters@gmail.com,Auto Loan,203627.42,,5.94,60,20230107,Pending Review,528
+LN5071,500131,Mortgage,159408.47,130207.77,9.34,24,"Oct 07, 2023",Approved,830
+LN5558,casey.stone@yahoo.com,Student Loan,356636.07,,3.52,36,20260324,Withdrawn,834
+LN5125,500452,Business Loan,283130.04,,8.91,24,2026-07-12,Denied,540
+LN5473,michael.case@gmail.com,Student Loan,249386.88,,3.88,12,20260216,Withdrawn,602
+LN5055,500346,Auto Loan,311132.83,,10.49,180,30/01/2024,Withdrawn,753
+LN5288,jason.barton@yahoo.com,Student Loan,432902.89,410102.03,4.74,48,"Feb 01, 2023",Approved,659
+LN5564,lauren.lewis@hotmail.com,Mortgage,356167.48,325296.01,14.88,36,"Oct 12, 2025",   Approved   ,620
+LN5056,500536,Auto Loan,347781.62,,8.03,N/A,20250614,Pending Review,591
+LN5271,500421,Personal Loan,193908.9,,N/A,,"Apr 25, 2026",Denied,830
+LN5059,kyle.scott@hotmail.com,Auto Loan,112508.6,,5.01,12,2023-01-21,Withdrawn,642
+LN5632,500120,Student Loan,101651.02,"87,406.74",11.75,120,07-01-2026,Approved,NULL
+LN5631,scott.weber@hotmail.com,Student Loan,260331.94,198622.23,11.56,180,20250302,Approved,558
+LN5528,500738,Business Loan,371724.46,345789.27,12.31,48,22-12-2023,Approved,518
+LN5460,500007,Auto Loan,432345.35,413185.75,8.08,48,04/07/2025,Approved,569
+LN5260,500187,Auto Loan,139618.47,,11.96,180,11-06-2024,Pending Review,804
+LN5214,500390,Mortgage,23272.09,23145.12,13.85,12,20250128,Approved,500
+LN5306,500595,Business Loan,405089.43,315898.88,6.21,120,19/02/2026,Approved,UNKNOWN
+LN5593,RACHEL.JORDAN@YAHOO.COM,Business Loan,343281.23,,11.9,unknown,05/25/2026,Pending Review,568
+LN5372,500111,Student Loan,106722.03,76278.28,6.62,48,29/11/2024,Approved,601
+LN5018,500207,Student Loan,179530.35,,9.0,180,07/07/2023,Pending Review,643
+LN5635,meghan.johnson@gmail.com,Mortgage,381169.06,,3.99,36,"May 22, 2025",Denied,517
+LN5403,500723,Business Loan,86562.1,77656.83,7.02,12,20240226,Approved,619
+LN5333,500669,Personal Loan,377333.87,,14.44,12,2022-12-07,Pending Review,583
+LN5319,500580,Student Loan,56634.18,48443.2,10.84,120,"Jan 11, 2026",Approved,583
+LN5501,500306,Business Loan,UNKNOWN,,7.39,N/A,05/10/2022,Pending Review,794
+LN5349,erica.proctor@hotmail.com,   Mortgage   ,43566.02,40694.98,6.67,48,2024-02-20,Approved,639
