@@ -23,7 +23,8 @@ Pipeline layers:
 
 ## 3. Executive Summary
 
-The project takes three inconsistent source feeds and turns them into a clean, query-ready star schema. The main work was reconciling data that looks different across systems but represents the same thing - different date formats, different key formats, different null conventions - without silently guessing at values that couldn't be verified.
+The project takes three inconsistent source feeds and turns them into a clean, query-ready star schema. The main work was reconciling data that looks different across systems but represents the same thing - different date formats, different key formats, different null conventions - without silently guessing at values that couldn't be verified. 
+Also worth noting that visual schema for this project is available in 'src' folder.
 
 ## 4. Insights Deep Dive
 
