@@ -1,0 +1,98 @@
+-- ============================================================
+-- GOLD LAYER
+-- Star/galaxy schema: 3 dimensions, 2 fact tables sharing
+-- dim_customers. Built as views on top of silver.
+-- ============================================================
+
+
+-- CREATING DIMENSIONS
+
+create or replace view gold.dim_customers as
+select
+    customer_id,
+    first_name,
+    last_name,
+    dob as date_of_birth,
+    email,
+    phone,
+    city,
+    state,
+    customer_segment,
+    join_date,
+    credit_score
+from silver.core_customers;
+
+create or replace view gold.dim_branches as
+select
+    branch_id,
+    branch_name,
+    city,
+    state,
+    manager_name,
+    opened_date
+from silver.core_branches;
+
+create or replace view gold.dim_accounts as
+select
+    account_id,
+    customer_id,
+    branch_id,
+    account_type,
+    currency,
+    open_date,
+    close_date,
+    status,
+    balance
+from silver.core_accounts;
+
+
+-- COMPLETE FACT TABLE FOR FACT_LOANS
+
+create or replace view gold.fact_loans as
+select 
+	l.loan_id,
+	l.customer_ref as customer_id,
+	l.loan_type,
+	l.amount_requested,
+	l.amount_approved,
+	l.interest_rate,
+	l.term_months,
+	l.application_date,
+	l.status,
+	l.credit_score_at_application,
+	cu.customer_segment,
+	cu.city,
+	cu.state
+from silver.loan_applications l left join silver.core_customers cu 
+on l.customer_ref = cu.customer_id 
+
+
+-- COMPLETE FACT TABLE FOR FACT_TRANSATIONS
+
+create or replace view gold.fact_transactions as
+select
+    -- identifiers
+    t.transaction_id,
+    t.account_ref as account_id,
+    a.customer_id,
+    a.branch_id,
+    -- transaction details
+    t.transaction_date,
+    t.transaction_time,
+    t.merchant_name,
+    t.mcc_category,
+    t.channel,
+    t.amount,
+	a.currency,
+    t.status,
+    -- account context
+    a.account_type,
+    -- customer context
+    c.customer_segment,
+    c.city,
+    c.state
+from silver.card_transactions t
+left join silver.core_accounts a
+    on t.account_ref = a.account_id
+left join silver.core_customers c
+    on a.customer_id = c.customer_id;
