@@ -1,5 +1,5 @@
 # SQL Bank Warehouse
-Hello, my name is Tornike Toradze and this is my second Data Warehousing project. This time bank dataset was used. (Worth noting that the sample dataset was created by Claude AI.)
+Hello, my name is Tornike Toradze and this is my second Data Warehousing project. This time bank dataset was used.
 # Bank Data Warehouse
 
 ## 1. Background and Overview
