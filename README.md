@@ -1,5 +1,4 @@
-# sql_bank_warehouse
-Bank Data Warehouse
+# SQL Bank Warehouse
 Hello, my name is Tornike Toradze and this is my second Data Warehousing project. This time bank dataset was used. (Worth noting that the sample dataset was created by Claude AI.)
 # Bank Data Warehouse
 
